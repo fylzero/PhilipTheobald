@@ -7,13 +7,12 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>{{ env('APP_NAME') }}</title>
     <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons' rel="stylesheet">
 </head>
 <body>
-    Hello World!
-
-    <div id="app">
-        <example-component></example-component>
-    </div>
+    <v-app id="app">
+        <Sandbox></Sandbox>
+    </v-app>
 
     <script src="{{ mix('/js/app.js') }}"></script>
 </body>
