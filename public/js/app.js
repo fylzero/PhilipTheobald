@@ -1945,6 +1945,18 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -19744,6 +19756,39 @@ var render = function() {
                   )
                 ],
                 1
+              ),
+              _vm._v(" "),
+              _c(
+                "v-list-tile",
+                [
+                  _c(
+                    "v-list-tile-action",
+                    [
+                      _c("v-switch", {
+                        attrs: {
+                          label: "",
+                          color: "primary",
+                          "hide-details": ""
+                        },
+                        model: {
+                          value: _vm.primaryDrawer.mini,
+                          callback: function($$v) {
+                            _vm.$set(_vm.primaryDrawer, "mini", $$v)
+                          },
+                          expression: "primaryDrawer.mini"
+                        }
+                      })
+                    ],
+                    1
+                  ),
+                  _vm._v(" "),
+                  _c(
+                    "v-list-tile-content",
+                    [_c("v-list-tile-title", [_vm._v("Mini Menu")])],
+                    1
+                  )
+                ],
+                1
               )
             ],
             1
@@ -19773,7 +19818,38 @@ var render = function() {
               })
             : _vm._e(),
           _vm._v(" "),
-          _c("v-toolbar-title", [_vm._v("Philip Theobald")])
+          _c(
+            "v-toolbar-title",
+            [
+              _c("router-link", { attrs: { to: "/" } }, [
+                _vm._v("\n                Philip Theobald\n            ")
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c("v-spacer"),
+          _vm._v(" "),
+          _c(
+            "div",
+            [
+              _c("v-switch", {
+                attrs: {
+                  label: "Dark Mode",
+                  color: "primary",
+                  "hide-details": ""
+                },
+                model: {
+                  value: _vm.dark,
+                  callback: function($$v) {
+                    _vm.dark = $$v
+                  },
+                  expression: "dark"
+                }
+              })
+            ],
+            1
+          )
         ],
         1
       ),
@@ -19788,75 +19864,7 @@ var render = function() {
               _c(
                 "v-layout",
                 { attrs: { "align-center": "", "justify-center": "" } },
-                [
-                  _c(
-                    "v-flex",
-                    { attrs: { xs10: "" } },
-                    [
-                      _c("router-view"),
-                      _vm._v(" "),
-                      _c(
-                        "v-card",
-                        [
-                          _c(
-                            "v-card-text",
-                            [
-                              _c(
-                                "v-layout",
-                                { attrs: { row: "", wrap: "" } },
-                                [
-                                  _c(
-                                    "v-flex",
-                                    { attrs: { xs12: "", md6: "" } },
-                                    [
-                                      _c("v-switch", {
-                                        attrs: { primary: "", label: "Dark" },
-                                        model: {
-                                          value: _vm.dark,
-                                          callback: function($$v) {
-                                            _vm.dark = $$v
-                                          },
-                                          expression: "dark"
-                                        }
-                                      })
-                                    ],
-                                    1
-                                  ),
-                                  _vm._v(" "),
-                                  _c(
-                                    "v-flex",
-                                    { attrs: { xs12: "", md6: "" } },
-                                    [
-                                      _c("v-switch", {
-                                        attrs: { label: "Mini", primary: "" },
-                                        model: {
-                                          value: _vm.primaryDrawer.mini,
-                                          callback: function($$v) {
-                                            _vm.$set(
-                                              _vm.primaryDrawer,
-                                              "mini",
-                                              $$v
-                                            )
-                                          },
-                                          expression: "primaryDrawer.mini"
-                                        }
-                                      })
-                                    ],
-                                    1
-                                  )
-                                ],
-                                1
-                              )
-                            ],
-                            1
-                          )
-                        ],
-                        1
-                      )
-                    ],
-                    1
-                  )
-                ],
+                [_c("v-flex", { attrs: { xs10: "" } }, [_c("router-view")], 1)],
                 1
               )
             ],
