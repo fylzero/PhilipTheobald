@@ -1,1 +1,76 @@
 @import '~vuetify/dist/vuetify.min.css';
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:400,700&display=swap');
+
+html, body, * {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+html {
+    font-size: 20px;
+}
+
+.v-footer {
+    font-size: 14px;
+}
+
+.v-list {
+
+    a {
+        font-size: 1rem !important;
+    }
+
+
+    .primary--text {
+
+        &.theme--dark {
+            color: #00bbff !important;
+            caret-color: #00bbff !important;
+        }
+
+        &.theme--light {
+            color: #485bbd !important;
+            caret-color: #485bbd !important;
+        }
+
+    }
+}
+
+.v-toolbar.theme--light {
+    background-color: #3f51b5;
+    color: white;
+
+    .v-btn .v-btn__content .v-icon {
+        color: white;
+    }
+}
+
+
+.v-label.theme--light {
+    color: white;
+}
+
+.theme--dark.v-navigation-drawer {
+    background-color: #151515;
+}
+
+.theme--dark.application {
+    background-color: #0f0f0f;
+}
+
+.theme--dark.v-list .v-list__group__header:hover,
+.theme--dark.v-list .v-list__tile--highlighted,
+.theme--dark.v-list .v-list__tile--link:hover {
+    color: #f5c764;
+}
+
+.v-list__tile {
+    color: #696969;
+}
+
+
+.theme--light.v-list .v-list__group__header:hover,
+.theme--light.v-list .v-list__tile--highlighted,
+.theme--light.v-list .v-list__tile--link:hover {
+    color: #921414;
+}
