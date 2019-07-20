@@ -10,8 +10,27 @@ html {
     font-size: 20px;
 }
 
+footer {
+    height: auto !important;
+}
+
+.footer-pad {
+    padding: 10px 30px;
+}
+
 .v-footer {
     font-size: 14px;
+}
+
+.dynamicButtonSize {
+    font-size: 34px;
+    padding: 7px 20px;
+}
+
+.dynamicTextSize {
+    font-size: 14px;
+    position: relative;
+    top: -6px;
 }
 
 .v-list {
@@ -74,3 +93,32 @@ html {
 .theme--light.v-list .v-list__tile--link:hover {
     color: #921414;
 }
+
+:focus {
+    outline: 0px;
+}
+
+.low-center-right {
+    text-align: right;
+}
+
+@media only screen and (max-width: 761px) {
+
+    .dynamicButtonSize {
+        font-size: 28px;
+        padding: 7px 20px;
+    }
+
+    .dynamicTextSize {
+        top: -4px;
+    }
+
+    .low-center {
+        text-align: center;
+    }
+
+    .low-center-right {
+        text-align: center;
+    }
+
+  }
