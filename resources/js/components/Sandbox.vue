@@ -81,7 +81,7 @@
                 <v-layout align-center justify-center>
                     <v-flex xs10>
 
-                        <router-view></router-view>
+                        <router-view :dark="dark"></router-view>
 
                     </v-flex>
                 </v-layout>
@@ -108,20 +108,22 @@
 
 <script>
 export default {
-    data: () => ({
-        dark: true,
-        drawers: ["Default (no property)"],
-        primaryDrawer: {
-            model: false,
-            type: "default (no property)",
-            clipped: true,
-            floating: true,
-            mini: false
-        },
-        footer: {
-            inset: true
+    data() {
+        return {
+            dark: true,
+            drawers: ["Default (no property)"],
+            primaryDrawer: {
+                model: false,
+                type: "default (no property)",
+                clipped: true,
+                floating: true,
+                mini: false
+            },
+            footer: {
+                inset: true
+            }
         }
-    }),
+    },
     methods: {
         toggleMini() {
             this.primaryDrawer.mini = !this.primaryDrawer.mini;
@@ -133,5 +135,5 @@ export default {
 
         }
     }
-};
+}
 </script>

@@ -1,5 +1,11 @@
 <template>
-    <div style="height: 10000px;">
+    <div>
         CONTACT!
     </div>
 </template>
+
+<script>
+export default {
+    props: ['dark']
+}
+</script>

@@ -2,6 +2,22 @@
 
 @import url('https://fonts.googleapis.com/css?family=Comfortaa:400,700&display=swap');
 
+
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+.application {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: auto;
+}
+
+
 html, body, * {
     font-family: 'Comfortaa', sans-serif;
 }
@@ -102,7 +118,17 @@ footer {
     text-align: right;
 }
 
+.skill-badge {
+    max-height: 80px;
+    margin: 5px 10px;
+}
+
 @media only screen and (max-width: 761px) {
+
+    .skill-badge {
+        max-height: 50px;
+        margin: 5px 10px;
+    }
 
     .dynamicButtonSize {
         font-size: 28px;
@@ -121,4 +147,9 @@ footer {
         text-align: center;
     }
 
-  }
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
