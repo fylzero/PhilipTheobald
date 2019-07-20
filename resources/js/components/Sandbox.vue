@@ -9,7 +9,7 @@
             :clipped="primaryDrawer.clipped"
             :floating="primaryDrawer.floating"
             :mini-variant="primaryDrawer.mini"
-            absolute
+            fixed
             overflow
             app
         >
@@ -52,7 +52,7 @@
 
 
 
-        <v-toolbar :clipped-left="primaryDrawer.clipped" app absolute>
+        <v-toolbar :clipped-left="primaryDrawer.clipped" app fixed>
             <v-toolbar-side-icon
                 v-if="primaryDrawer.type !== 'permanent'"
                 @click.stop="primaryDrawer.model = !primaryDrawer.model"

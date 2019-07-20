@@ -29296,7 +29296,9 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("\n    CONTACT!\n")])
+  return _c("div", { staticStyle: { height: "10000px" } }, [
+    _vm._v("\n    CONTACT!\n")
+  ])
 }
 var staticRenderFns = []
 render._withStripped = true
@@ -29428,7 +29430,7 @@ var render = function() {
             clipped: _vm.primaryDrawer.clipped,
             floating: _vm.primaryDrawer.floating,
             "mini-variant": _vm.primaryDrawer.mini,
-            absolute: "",
+            fixed: "",
             overflow: "",
             app: ""
           },
@@ -29655,7 +29657,7 @@ var render = function() {
           attrs: {
             "clipped-left": _vm.primaryDrawer.clipped,
             app: "",
-            absolute: ""
+            fixed: ""
           }
         },
         [
