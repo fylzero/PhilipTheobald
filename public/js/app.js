@@ -30865,7 +30865,7 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("p", [
         _vm._v(
-          "Here's a couple (older, I will take new ones soon) photos of my home office.  I live in a one bedroom brick and timber loft with my girlfriend Karina, 3 guinea pigs (Spaghetti, Fettucini and Lasagna) and a betta fish named Cheeto. Located between Little Village and Pilsen in Chicago, Illinois."
+          "Here's a couple (older, I will take new ones soon) photos of my home office.  I live in a one bedroom brick and timber loft with my girlfriend Karina, 3 guinea pigs (Spaghetti, Fettuccine and Lasagna) and a betta fish named Cheeto. Located between Little Village and Pilsen in Chicago, Illinois."
         )
       ]),
       _vm._v(" "),
