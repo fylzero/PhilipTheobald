@@ -12,7 +12,7 @@
 
         <br><br>
 
-        <span style="font-size: 22px;">web developer | entreprenuer | guitarist | geek</span>
+        <span style="font-size: 22px;">engineer | entreprenuer | guitarist | geek</span>
 
         <br><br>
 

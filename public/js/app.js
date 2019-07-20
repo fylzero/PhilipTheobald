@@ -11462,6 +11462,14 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['dark']
 });
@@ -11483,6 +11491,32 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['dark']
 });
@@ -11498,6 +11532,11 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
 //
 //
 //
@@ -11552,6 +11591,72 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -11857,6 +11962,59 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -29490,9 +29648,66 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("\n    ABOUT!\n")])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("p", [
+        _vm._v("I am a full-stack (albeit front-end leaning) web developer.")
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I loved science as a kid.  I wrote my first HTML page in 1996.")
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "As a teenager, I enjoyed learning about and building computers.  I watched the movie Hackers more times than I care to admit.  I dropped out of high school.  Got my GED.  I was offered a full scholarship to college.  Dropped out of college.  I became A+ certified and worked in computer hardware and networking jobs for the better part of my 20s."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "In 2009 I found myself working for a grocery-store-focused point-of-sale company as a support technician.  Everyone at the company was answering support calls and logging everything by physical pen and paper.  With calls coming in from clients almost non-stop, suffice it to say, it left much to be desired."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "At that time, I knew just enough PHP to be dangerous.  So, I began to build a basic system using PHP and MySQL to log support issues for our clients and for my own sanity.  I would do my customer support job during the day, head back to my apartment in the evening and build out more features to this ticket system software that I wrote every single day.  Eventually other colleagues in my office asked to have access to it...  After a while, my entire office was using it.  At some point one of the managers from the Florida branch office had come up to Chicago and noticed the system we were all using.  He thought it looked great and asked what it would take for them to get on the system as well."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "After some conversations with management about deployment and structuring, my software wound up in half of our offices across the country, including our company headquarters in Nebraska.  Once that happened, working on and supporting the system became half my job and I still am licensing and supporting it to this day.  I eventually branded the company DeskNinja and have been working on a commercial release for the last year or so.  This all became the catalyst for teaching myself how to code HTML, CSS, PHP, SQL, etc. over the years."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Instead of binging Netflix, I was addicted to Lynda.com, PluralSight, Udemy, YouTube, StackOverflow, etc. to learn as much as I could."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "By 2013, my confidence in my coding skills had grown enough to switch career paths.  Which is exactly what I did."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I've spent the last decade learning more and more everyday and working in an industry that I absolutely love."
+        )
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -29514,9 +29729,45 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("\n    COMPANIES!\n")])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("h2", [_vm._v("Companies That I've Started")]),
+      _vm._v(" "),
+      _c("br"),
+      _c("br"),
+      _vm._v(" "),
+      _c("div", [
+        _vm._v(
+          "In 2009 I was working for a company specializing in grocery store point-of-sale register systems.  Back when I started working for them, they did not have a CRM system in place.  So, for my own sanity, I built one and it eventually was adopted company-wide as their system of choice for managing support calls.  I have since been working on building this out into a commercial system and have branded this system as DeskNinja LLC."
+        )
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _c("br"),
+      _vm._v(" "),
+      _c("div", [
+        _vm._v(
+          "I think most web developers tend to do side-projects.  I do a lot of small side projects, mostly Wordpress/Divi builds for professionals and small businesses looking to build their presence online.  RazorKode LLC is a digital marketing agency I created for the side projects I do."
+        )
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _c("br"),
+      _vm._v(" "),
+      _c("div", [
+        _vm._v(
+          "I manage quite a bit of hosting both for RazorKode and other various projects.  RazorVPS is a DBA business under RazorKode that I use to offer VPS hosting services to my clients."
+        )
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -29538,9 +29789,102 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("\n    CONTACT!\n")])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      {
+        staticStyle: {
+          "text-align": "center",
+          "max-width": "800px",
+          margin: "0 auto"
+        }
+      },
+      [
+        _c("p", { staticStyle: { "font-size": "18px" } }, [
+          _vm._v(
+            "If you are interested in working with me, hiring me, consulting on a project or maybe just need some technical insight...   please feel free to reach out.  I very much enjoy helping people find solutions to problems or, at least, connecting them with resources who can assist."
+          )
+        ]),
+        _vm._v(" "),
+        _c("p", { attrs: { className: "contact-email" } }, [
+          _c("a", { attrs: { href: "mailto:info@philiptheobald.com" } }, [
+            _vm._v("info@philiptheobald.com")
+          ])
+        ]),
+        _vm._v(" "),
+        _c(
+          "p",
+          {
+            staticStyle: { "font-size": "36px" },
+            attrs: { className: "contact-number" }
+          },
+          [_vm._v("312-802-2423")]
+        ),
+        _vm._v(" "),
+        _c("p", { staticStyle: { "font-size": "16px" } }, [
+          _vm._v("\n        You can also add or follow me on "),
+          _c(
+            "a",
+            {
+              attrs: {
+                href: "https://www.linkedin.com/in/philiptheobald/",
+                target: "blank"
+              }
+            },
+            [_vm._v("LinkedIn")]
+          ),
+          _vm._v(", "),
+          _c(
+            "a",
+            {
+              attrs: {
+                href: "https://www.facebook.com/fylzero",
+                target: "blank"
+              }
+            },
+            [_vm._v("Facebook")]
+          ),
+          _vm._v(", "),
+          _c(
+            "a",
+            { attrs: { href: "https://twitter.com/fylzero", target: "blank" } },
+            [_vm._v("Twitter")]
+          ),
+          _vm._v(", "),
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://www.youtube.com/channel/UCzRZf_LXBkxjOUTUrA6zZxA",
+                target: "blank"
+              }
+            },
+            [_vm._v("YouTube")]
+          ),
+          _vm._v(" and "),
+          _c(
+            "a",
+            {
+              attrs: {
+                href: "https://www.instagram.com/fylzero/",
+                target: "blank"
+              }
+            },
+            [_vm._v("Instagram")]
+          ),
+          _vm._v(".\n    ")
+        ])
+      ]
+    )
+  }
+]
 render._withStripped = true
 
 
@@ -29609,9 +29953,236 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("\n    HOBBIES!\n")])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("h2", [_vm._v("Software Engineering")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I started writing software as a hobby and to solve problems at various jobs I've had over the years.  I've since turned this hobby into my career path and have never looked back.  I love what I do and always look to the future to learn as much as I can and develop my skill set."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Learning")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Suffice it to say, I never thrived a classroom learning environment.  In fact I struggled for a very long time before discovering my learning style.  Once I learned how I learn, I became obsessed with learning as much as I could about everything I was interested in.  Ranging from photography to audio engineering to programming.  I am a huge fan of Udemy courses, Laracasts, LinkedIn Learning (formerly Lynda.com), FrontEnd Masters, Masterclass, etc."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Watching Movies & TV Series")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I love movies.  Obviously, I'm a huge fan of anything tech-related...  The Social Network, Hackers, The Net, Silicon Valley, Mr. Robot, etc.  Just like my music tastes, I find enjoyment in just about every genre of film.  I'm a big fan of acting, actors, film making, Hollywood, etc. and there's just nothing better than unwinding to a good movie or binge-watching a series sometimes.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Playing Guitar")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I started learning to play guitar when I was 13 years old after my parents bought me a red Fender Squier Stratocaster with a white pickguard and a 20 watt Gorilla amplifier for Christmas.  In my early 20s I worked as a department manager for Sam Ash Music and later Guitar Center.  I've also had the privilege of playing guitar for an amazing band in Chicago called "
+        ),
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "https://open.spotify.com/artist/4Mzg0FspaHq1D6cjirG3bx",
+              target: "blank"
+            }
+          },
+          [_vm._v("The Circle View")]
+        ),
+        _vm._v(" (formerly Satellite Hero).")
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Below is a video of me covering A Favor House Atlantic by Coheed & Cambria.  I have some more guitar cover videos up on my "
+        ),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.youtube.com/channel/UCzRZf_LXBkxjOUTUrA6zZxA?view_as=subscriber",
+              target: "blank"
+            }
+          },
+          [_vm._v("YouTube Channel")]
+        ),
+        _vm._v(".")
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("div", { attrs: { className: "video-responsive" } }, [
+        _c("iframe", {
+          attrs: {
+            title: "A Favor House Atlantic",
+            src: "https://www.youtube.com/embed/Xo5Zit-m8Pc",
+            frameborder: "0",
+            allow:
+              "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+            allowfullscreen: ""
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Listening To Music")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I use Spotify for music streaming, and primarily listen to EDM, pop, metal and rap and country and classical and hipster music...  basically everything. If you want to get a feel for what I might be listening to on any given workday, check out these playlists:"
+        )
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://open.spotify.com/user/ptheofyl/playlist/448gLnZMvvYNwfuGm0Bpbo?si=X0R77E4WQuW8SD1xRwPW3Q",
+            target: "blank"
+          }
+        },
+        [_vm._v("Drinks By The Pool")]
+      ),
+      _c("br"),
+      _vm._v(" "),
+      _c("br"),
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://open.spotify.com/user/ptheofyl/playlist/7AfjqgRHZL3mZRCDbNLf3V?si=o2PV_aTbSuu8WhnDlOGycQ",
+            target: "blank"
+          }
+        },
+        [_vm._v("Q101")]
+      ),
+      _c("br"),
+      _vm._v(" "),
+      _c("br"),
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://open.spotify.com/user/ptheofyl/playlist/3m8A4YDWMi6hhWgAcMehqf?si=AbNt-3YKSlqZgazGvoOzEQ",
+            target: "blank"
+          }
+        },
+        [_vm._v("Grimey")]
+      ),
+      _c("br"),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Riding Motorcycles")]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "My first motorcycle was a 1981 Yamaha XS650 Chopper/Bobber 650cc."
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { attrs: { className: "center" } }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "{bike1_webp}" }
+          }),
+          _vm._v(" "),
+          _c("img", { attrs: { src: "{bike1_jpg}", alt: "Motorcycle 1" } })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("My second motorcycle was a 2013 Triumph Speed Triple R 1050cc.")
+      ]),
+      _vm._v(" "),
+      _c("div", { attrs: { className: "center" } }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "{bike2_webp}" }
+          }),
+          _vm._v(" "),
+          _c("img", { attrs: { src: "{bike2_jpg}", alt: "Motorcycle 2" } })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("My third/current motorcycle is a 2015 Triumph America 899cc.")
+      ]),
+      _vm._v(" "),
+      _c("div", { attrs: { className: "center" } }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "{bike3_webp}" }
+          }),
+          _vm._v(" "),
+          _c("img", { attrs: { src: "{bike3_jpg}", alt: "Motorcycle 3" } })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("br"),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I also currently own a 2019 RadMini E-Bike which I use to communte to work on as often as I can."
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { attrs: { className: "center" } }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "{radmini_webp}" }
+          }),
+          _vm._v(" "),
+          _c("img", { attrs: { src: "{radmini_jpg}", alt: "RadMini" } })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Sleeping")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I have been battling with severe sleep apnea for years so I take my rest very seriously."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Eating")]),
+      _vm._v(" "),
+      _c("p", [_vm._v("I love food.  A little too much.")]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Improving Processes")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I love organization.  There is nothing more satisfying than creating lists and checking things off.  I very much enjoy doing email organization consulting and helping others figure out how to sift through fifty thousand emails and filter and label them and clear out the white noise.  Reducing stress and gaining clarity through automation is likely why I enjoy software engineering as much as I do."
+        )
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -29658,7 +30229,7 @@ var render = function() {
       _c("br"),
       _vm._v(" "),
       _c("span", { staticStyle: { "font-size": "22px" } }, [
-        _vm._v("web developer | entreprenuer | guitarist | geek")
+        _vm._v("engineer | entreprenuer | guitarist | geek")
       ]),
       _vm._v(" "),
       _c("br"),
@@ -30282,9 +30853,269 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [_vm._v("\n    USES!\n")])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("h2", [_vm._v("Office")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Here's a couple (older, I will take new ones soon) photos of my home office.  I live in a one bedroom brick and timber loft with my girlfriend Karina, 3 guinea pigs (Spaghetti, Fettucini and Lasagna) and a betta fish named Cheeto. Located between Little Village and Pilsen in Chicago, Illinois."
+        )
+      ]),
+      _vm._v(" "),
+      _c("div", { attrs: { className: "center" } }),
+      _vm._v(" "),
+      _c("div", { attrs: { className: "center" } }),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Desk")]),
+      _vm._v(" "),
+      _c("p", [
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.autonomous.ai/standing-desks/smartdesk-2-business?option1=1&option2=6&option16=36&option17=41",
+              target: "blank"
+            }
+          },
+          [
+            _vm._v(
+              "SmartDesk 2 Business Edition with a white frame and bamboo top"
+            )
+          ]
+        ),
+        _vm._v(
+          " from Autonomous.  Extremely sturdy.  I love that this desk sits at the exact heights I prefer for sitting and standing and it looks beautiful."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Chair")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I use an "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.autonomous.ai/office-chairs/ergonomic-chair?option20=50",
+              target: "blank"
+            }
+          },
+          [_vm._v("Ergo Chair 2 in Evergreen")]
+        ),
+        _vm._v(
+          ", also from Autonomous.  Sturdy, comfy, ergonomic, doesn't squeak.  I actually sold my Herman Miller Embody chair for this and I have zero regrets."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Monitor")]),
+      _vm._v(" "),
+      _c("p", [
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/gp/product/B07GWDGVGT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1",
+              target: "blank"
+            }
+          },
+          [_vm._v("Asus VA325H 31.5-Inch LED Monitor")]
+        ),
+        _vm._v(
+          " which I bought refurbished on Amazon for under $200.  High resolution, not the best color reproduction but good for coding and watching videos.  The monitor stand I use is from Autonomous as well."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Audio")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I have a pair of "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "https://www.zzounds.com/item--MACMR824",
+              target: "blank"
+            }
+          },
+          [_vm._v("Mackie MR824 Studio Monitors")]
+        ),
+        _vm._v(", a "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "https://www.zzounds.com/item--MACMRS10",
+              target: "blank"
+            }
+          },
+          [_vm._v("Mackie MRS10 Powered Studio Subwoofer")]
+        ),
+        _vm._v(" and a pair of "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/Klipsch-ProMedia-Certified-Computer-Speaker/dp/B000062VUO",
+              target: "blank"
+            }
+          },
+          [_vm._v("Klipsch Promedia 2.1 Desktop Speakers")]
+        ),
+        _vm._v(" hooked up with my "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "https://www.zzounds.com/item--FOCSCAR2I4V2",
+              target: "blank"
+            }
+          },
+          [_vm._v("Scarlett Focusrite 2i4 Audio Interface")]
+        ),
+        _vm._v(
+          ".  I tested tons of studio montor speakers at Guitar Center and landed on these because the low mid and treb frequencies really stood out on the Mackie's to me.  They have a bit of color to the sound but they are very clear and punchy. I use the Klipsch 2.1 speaker set along side the Mackie's to fill out the higher mid range sound for now.  I have the subwwoofer on the Klipsch very low for a bit of top-end lower punch but the Mackie sub is handling all the low end rumble.  Eventually I want to swap out the Klipsch set for some white-face Yamaha monitors.  Likely will do a 6 inch set to drive vocals more."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Hub")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Everything is hooked up to my Macbook Pro using a small simple "
+        ),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/gp/product/B071G83L1J/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1",
+              target: "blank"
+            }
+          },
+          [_vm._v("Anker USB C Hub")]
+        ),
+        _vm._v(".")
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Computer")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I am rocking a nicely spec'd out "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG",
+              target: "blank"
+            }
+          },
+          [_vm._v("Macbook Pro with Retina Display and Touchbar")]
+        ),
+        _vm._v(
+          " that I got from B&H Photo with a $700 discount.  Woot!  2.9GHz 6‑core 8th‑generation Intel Core i9 processor (Turbo Boost up to 4.8GHz).  32GB 2400MHz DDR4 memory.  Radeon Pro 560X with 4GB of GDDR5 memory.  2TB SSD storage."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Keyboard & Mouse")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Sigh...   yes...  I spent a boatload of money on the space grey Apple Magic Keyboard and Magic Mouse 2.  I actually really like the mac keyboard and have gotten very used to it.  I've always been a fan of the magic mouse, especially for multiscreen switching."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Phone")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I have the Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Code Editor")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I was a big Sublime Text user for a few years, wound up switching to Atom for a bit...  these days I am rocking "
+        ),
+        _c(
+          "a",
+          {
+            attrs: { href: "https://code.visualstudio.com/", target: "blank" }
+          },
+          [_vm._v("Visual Studio Code")]
+        ),
+        _vm._v(
+          ".  Everyone else switched to it, so I hopped on the bandwagon.  ¯\\_(ツ)_/¯"
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Headphones")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I bought a set of "),
+        _c(
+          "a",
+          { attrs: { href: "https://www.nuraphone.com/", target: "blank" } },
+          [_vm._v("Nuraphones")]
+        ),
+        _vm._v(
+          " and OMG!  These things are RIDICULOUSLY AMAZING!  The bass isn't even deep, it is PROFOUND AF!  They're so clear.  It's like sitting the perfect distance from blasted studio monitors at a professional studio everytime I put them on."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Other Apps I Use")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Gmail - I manage multiple accounts from a single inbox and it's great."
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [_vm._v("Spotify - For music.")]),
+      _vm._v(" "),
+      _c("p", [_vm._v("Evernote - For taking notes.")]),
+      _vm._v(" "),
+      _c("p", [_vm._v("Todoist - My preferred todo list app.")]),
+      _vm._v(" "),
+      _c("p", [_vm._v("Remembear - Password Manager.")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("Slack - What did we do before this existed, honestly?")
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "iTerm2 - Terminal of choice.  I use the Agnoster config found "
+        ),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
+              target: "blank"
+            }
+          },
+          [_vm._v("here")]
+        ),
+        _vm._v(".")
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
