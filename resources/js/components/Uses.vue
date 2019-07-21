@@ -10,13 +10,13 @@
         <div class="text-center pb-20">
             <picture>
                 <source type="image/webp" :srcset="loft1_webp" />
-                <img :src="loft1_jpg" alt="Loft 1" />
+                <img class="responsive" :src="loft1_jpg" alt="Loft 1" />
             </picture>
         </div>
         <div class="text-center pb-20">
             <picture>
                 <source type="image/webp" :srcset="loft2_webp" />
-                <img :src="loft2_jpg" alt="Loft 2" />
+                <img class="responsive" :src="loft2_jpg" alt="Loft 2" />
             </picture>
         </div>
 

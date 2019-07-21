@@ -32422,7 +32422,10 @@ var render = function() {
       _c("picture", [
         _c("source", { attrs: { type: "image/webp", srcset: _vm.loft1_webp } }),
         _vm._v(" "),
-        _c("img", { attrs: { src: _vm.loft1_jpg, alt: "Loft 1" } })
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.loft1_jpg, alt: "Loft 1" }
+        })
       ])
     ]),
     _vm._v(" "),
@@ -32430,7 +32433,10 @@ var render = function() {
       _c("picture", [
         _c("source", { attrs: { type: "image/webp", srcset: _vm.loft2_webp } }),
         _vm._v(" "),
-        _c("img", { attrs: { src: _vm.loft2_jpg, alt: "Loft 2" } })
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.loft2_jpg, alt: "Loft 2" }
+        })
       ])
     ]),
     _vm._v(" "),
