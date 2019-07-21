@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="limit-width center">
         <h2>Software Engineering</h2>
             <p>I started writing software as a hobby and to solve problems at various jobs I've had over the years.  I've since turned this hobby into my career path and have never looked back.  I love what I do and always look to the future to learn as much as I can and develop my skill set.</p>
 
@@ -16,7 +16,9 @@
             <br />
             <p>Below is a video of me covering A Favor House Atlantic by Coheed & Cambria.  I have some more guitar cover videos up on my <a href="https://www.youtube.com/channel/UCzRZf_LXBkxjOUTUrA6zZxA?view_as=subscriber" target="blank">YouTube Channel</a>.</p>
             <br />
-            <div className='video-responsive'><iframe title="A Favor House Atlantic" src="https://www.youtube.com/embed/Xo5Zit-m8Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe title="A Favor House Atlantic" src="https://www.youtube.com/embed/Xo5Zit-m8Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
 
             <h2>Listening To Music</h2>
             <p>I use Spotify for music streaming, and primarily listen to EDM, pop, metal and rap and country and classical and hipster music...  basically everything. If you want to get a feel for what I might be listening to on any given workday, check out these playlists:</p>
@@ -30,32 +32,32 @@
             <p>My first motorcycle was a 1981 Yamaha XS650 Chopper/Bobber 650cc.</p>
             <div className='center'>
                 <picture>
-                    <source type="image/webp" srcset={bike1_webp} />
-                    <img src={bike1_jpg} alt="Motorcycle 1" />
+                    <source type="image/webp" :srcset="bike1_webp" />
+                    <img :src="bike1_jpg" alt="Motorcycle 1" />
                 </picture>
             </div>
             <br />
             <p>My second motorcycle was a 2013 Triumph Speed Triple R 1050cc.</p>
             <div className='center'>
                 <picture>
-                    <source type="image/webp" srcset={bike2_webp} />
-                    <img src={bike2_jpg} alt="Motorcycle 2" />
+                    <source type="image/webp" :srcset="bike2_webp" />
+                    <img :src="bike2_jpg" alt="Motorcycle 2" />
                 </picture>
             </div>
             <br />
             <p>My third/current motorcycle is a 2015 Triumph America 899cc.</p>
             <div className='center'>
                 <picture>
-                    <source type="image/webp" srcset={bike3_webp} />
-                    <img src={bike3_jpg} alt="Motorcycle 3" />
+                    <source type="image/webp" :srcset="bike3_webp" />
+                    <img :src="bike3_jpg" alt="Motorcycle 3" />
                 </picture>
             </div>
             <br />
             <p>I also currently own a 2019 RadMini E-Bike which I use to communte to work on as often as I can.</p>
             <div className='center'>
                 <picture>
-                    <source type="image/webp" srcset={radmini_webp} />
-                    <img src={radmini_jpg} alt="RadMini" />
+                    <source type="image/webp" :srcset="radmini_webp" />
+                    <img :src="radmini_jpg" alt="RadMini" />
                 </picture>
             </div>
 
@@ -72,6 +74,18 @@
 
 <script>
 export default {
-    props: ['dark']
+    props: ['dark'],
+    data() {
+        return {
+            bike1_jpg: '/img/jpg/bikes/bike1.jpg',
+            bike2_jpg: '/img/jpg/bikes/bike2.jpg',
+            bike3_jpg: '/img/jpg/bikes/bike3.jpg',
+            radmini_jpg: '/img/jpg/bikes/radmini.jpg',
+            bike1_webp: '/img/webp/bikes/bike1.webp',
+            bike2_webp: '/img/webp/bikes/bike2.webp',
+            bike3_webp: '/img/webp/bikes/bike3.webp',
+            radmini_webp: '/img/webp/bikes/radmini.webp',
+        }
+    }
 }
 </script>

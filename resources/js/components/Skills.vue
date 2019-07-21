@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="limit-width center">
         SKILLS!
     </div>
 </template>

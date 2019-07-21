@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="limit-width center">
 
         <h2>Companies That I've Started</h2>
 

@@ -1,5 +1,5 @@
 <template>
-    <div style="text-align: center; padding-bottom: 100px;">
+    <div class="text-center pb-100">
 
         <span style="font-size: 50px;">Hi, I'm Phil</span>
 
@@ -41,8 +41,6 @@
             <img :src="darkmode ? jsdark_png : jslight_png" alt="JavaScript" class="skill-badge" />
         </picture>
 
-        <br><br>
-
         <picture>
             <source type="image/webp" :srcset="dark ? phpdark_webp : phplight_webp" />
             <img :src="darkmode ? phpdark_png : phplight_png" alt="PHP" class="skill-badge" />
@@ -52,8 +50,6 @@
             <source type="image/webp" :srcset="dark ? mysqldark_webp : mysqllight_webp" />
             <img :src="darkmode ? mysqldark_png : mysqllight_png" alt="MySQL" class="skill-badge" />
         </picture>
-
-        <br><br>
 
         <picture>
             <source type="image/webp" :srcset="react_webp" />

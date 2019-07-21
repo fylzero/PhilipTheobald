@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="limit-width center">
         <h2>Office</h2>
         <p>Here's a couple (older, I will take new ones soon) photos of my home office.  I live in a one bedroom brick and timber loft with my girlfriend Karina, 3 guinea pigs (Spaghetti, Fettuccine and Lasagna) and a betta fish named Cheeto. Located between Little Village and Pilsen in Chicago, Illinois.</p>
         <div className='center'>

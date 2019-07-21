@@ -83,6 +83,12 @@
 
                         <router-view :dark="dark"></router-view>
 
+                        <div class="thing">
+                            <div class="other">
+
+                            </div>
+                        </div>
+
                     </v-flex>
                 </v-layout>
             </v-container>
@@ -137,3 +143,32 @@ export default {
     }
 }
 </script>
+
+<style lang="scss">
+
+.limit-width {
+    max-width: 800px;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.pb-20 {
+    padding-bottom: 20px;
+}
+
+.pb-100 {
+    padding-bottom: 100px;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+</style>
