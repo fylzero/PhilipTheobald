@@ -1,5 +1,5 @@
 <template>
-    <div class="limit-width center">
+    <div class="limit-width center pb-100 pink-links">
         <h2>Software Engineering</h2>
             <p>I started writing software as a hobby and to solve problems at various jobs I've had over the years.  I've since turned this hobby into my career path and have never looked back.  I love what I do and always look to the future to learn as much as I can and develop my skill set.</p>
 

@@ -11518,7 +11518,23 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: ['dark']
+  props: ['dark'],
+  data: function data() {
+    return {
+      deskninjalight_png: '/img/png/light/deskninja.png',
+      deskninjadark_png: '/img/png/dark/deskninja.png',
+      razorkodelight_png: '/img/png/light/razorkode.png',
+      razorkodedark_png: '/img/png/dark/razorkode.png',
+      razorvpslight_png: '/img/png/light/razorvps.png',
+      razorvpsdark_png: '/img/png/dark/razorvps.png',
+      deskninjalight_webp: '/img/webp/light/deskninja.webp',
+      deskninjadark_webp: '/img/webp/dark/deskninja.webp',
+      razorkodelight_webp: '/img/webp/light/razorkode.webp',
+      razorkodedark_webp: '/img/webp/dark/razorkode.webp',
+      razorvpslight_webp: '/img/webp/light/razorvps.webp',
+      razorvpsdark_webp: '/img/webp/dark/razorvps.webp'
+    };
+  }
 });
 
 /***/ }),
@@ -11930,8 +11946,309 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: ['dark']
+  props: ['dark'],
+  data: function data() {
+    return {
+      cert1_png: '/img/png/certs/cert1.png',
+      cert2_png: '/img/png/certs/cert2.png',
+      cert3_png: '/img/png/certs/cert3.png',
+      cert4_png: '/img/png/certs/cert4.png',
+      cert5_png: '/img/png/certs/cert5.png',
+      cert6_png: '/img/png/certs/cert6.png',
+      cert7_png: '/img/png/certs/cert7.png',
+      cert8_png: '/img/png/certs/cert8.png',
+      cert9_png: '/img/png/certs/cert9.png',
+      cert10_png: '/img/png/certs/cert10.png',
+      cert11_png: '/img/png/certs/cert11.png',
+      cert12_png: '/img/png/certs/cert12.png',
+      cert13_png: '/img/png/certs/cert13.png',
+      cert14_png: '/img/png/certs/cert14.png',
+      cert15_png: '/img/png/certs/cert15.png',
+      cert16_png: '/img/png/certs/cert16.png',
+      cert17_png: '/img/png/certs/cert17.png',
+      cert18_png: '/img/png/certs/cert18.png',
+      cert19_png: '/img/png/certs/cert19.png',
+      cert20_png: '/img/png/certs/cert20.png',
+      cert21_png: '/img/png/certs/cert21.png',
+      cert22_png: '/img/png/certs/cert22.png',
+      cert23_png: '/img/png/certs/cert23.png',
+      cert24_png: '/img/png/certs/cert24.png',
+      cert1_webp: '/img/webp/certs/cert1.webp',
+      cert2_webp: '/img/webp/certs/cert2.webp',
+      cert3_webp: '/img/webp/certs/cert3.webp',
+      cert4_webp: '/img/webp/certs/cert4.webp',
+      cert5_webp: '/img/webp/certs/cert5.webp',
+      cert6_webp: '/img/webp/certs/cert6.webp',
+      cert7_webp: '/img/webp/certs/cert7.webp',
+      cert8_webp: '/img/webp/certs/cert8.webp',
+      cert9_webp: '/img/webp/certs/cert9.webp',
+      cert10_webp: '/img/webp/certs/cert10.webp',
+      cert11_webp: '/img/webp/certs/cert11.webp',
+      cert12_webp: '/img/webp/certs/cert12.webp',
+      cert13_webp: '/img/webp/certs/cert13.webp',
+      cert14_webp: '/img/webp/certs/cert14.webp',
+      cert15_webp: '/img/webp/certs/cert15.webp',
+      cert16_webp: '/img/webp/certs/cert16.webp',
+      cert17_webp: '/img/webp/certs/cert17.webp',
+      cert18_webp: '/img/webp/certs/cert18.webp',
+      cert19_webp: '/img/webp/certs/cert19.webp',
+      cert20_webp: '/img/webp/certs/cert20.webp',
+      cert21_webp: '/img/webp/certs/cert21.webp',
+      cert22_webp: '/img/webp/certs/cert22.webp',
+      cert23_webp: '/img/webp/certs/cert23.webp',
+      cert24_webp: '/img/webp/certs/cert24.webp'
+    };
+  }
 });
 
 /***/ }),
@@ -12004,8 +12321,21 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: ['dark']
+  props: ['dark'],
+  data: function data() {
+    return {
+      loft1_jpg: '/img/jpg/loft1.jpg',
+      loft2_jpg: '/img/jpg/loft2.jpg',
+      loft1_webp: '/img/webp/loft1.webp',
+      loft2_webp: '/img/webp/loft2.webp'
+    };
+  }
 });
 
 /***/ }),
@@ -12023,6 +12353,25 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 // module
 exports.push([module.i, ".limit-width {\n  max-width: 800px;\n}\n.center {\n  margin: 0 auto;\n}\n.text-center {\n  text-align: center;\n}\n.pb-20 {\n  padding-bottom: 20px;\n}\n.pb-100 {\n  padding-bottom: 100px;\n}\np {\n  margin: 0px;\n  padding: 0px;\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true&":
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true& ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".gridid[data-v-49478526] {\n  display: grid;\n  grid-template-columns: 1fr 1fr 1fr;\n  grid-column-gap: 20px;\n  grid-row-gap: 20px;\n}\n@media only screen and (max-width: 1200px) {\n.gridid[data-v-49478526] {\n    grid-template-columns: 1fr 1fr;\n}\n}\n@media only screen and (max-width: 761px) {\n.gridid[data-v-49478526] {\n    grid-template-columns: 1fr;\n}\n}", ""]);
 
 // exports
 
@@ -29677,6 +30026,36 @@ if(false) {}
 
 /***/ }),
 
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true& */ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
 /***/ "./node_modules/style-loader/lib/addStyles.js":
 /*!****************************************************!*\
   !*** ./node_modules/style-loader/lib/addStyles.js ***!
@@ -30283,7 +30662,7 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "limit-width center" }, [
+    return _c("div", { staticClass: "limit-width center pb-100 pink-links" }, [
       _c("p", { staticClass: "pb-20" }, [
         _vm._v("I am a full-stack (albeit front-end leaning) web developer.")
       ]),
@@ -30357,45 +30736,86 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
-}
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "limit-width center" }, [
-      _c("h2", [_vm._v("Companies That I've Started")]),
+  return _c("div", { staticClass: "limit-width center text-center pb-100" }, [
+    _c("h2", [_vm._v("Companies That I've Started")]),
+    _vm._v(" "),
+    _c("br"),
+    _c("br"),
+    _vm._v(" "),
+    _c("picture", [
+      _c("source", {
+        attrs: {
+          type: "image/webp",
+          srcset: _vm.dark ? _vm.deskninjadark_webp : _vm.deskninjalight_webp
+        }
+      }),
       _vm._v(" "),
-      _c("br"),
-      _c("br"),
+      _c("img", {
+        attrs: {
+          src: _vm.dark ? _vm.deskninjadark_png : _vm.deskninjalight_png,
+          alt: "DeskNinja"
+        }
+      })
+    ]),
+    _vm._v(" "),
+    _c("div", [
+      _vm._v(
+        "In 2009 I was working for a company specializing in grocery store point-of-sale register systems.  Back when I started working for them, they did not have a CRM system in place.  So, for my own sanity, I built one and it eventually was adopted company-wide as their system of choice for managing support calls.  I have since been working on building this out into a commercial system and have branded this system as DeskNinja LLC."
+      )
+    ]),
+    _vm._v(" "),
+    _c("br"),
+    _c("br"),
+    _vm._v(" "),
+    _c("picture", [
+      _c("source", {
+        attrs: {
+          type: "image/webp",
+          srcset: _vm.dark ? _vm.razorkodedark_webp : _vm.razorkodelight_webp
+        }
+      }),
       _vm._v(" "),
-      _c("div", [
-        _vm._v(
-          "In 2009 I was working for a company specializing in grocery store point-of-sale register systems.  Back when I started working for them, they did not have a CRM system in place.  So, for my own sanity, I built one and it eventually was adopted company-wide as their system of choice for managing support calls.  I have since been working on building this out into a commercial system and have branded this system as DeskNinja LLC."
-        )
-      ]),
+      _c("img", {
+        attrs: {
+          src: _vm.dark ? _vm.razorkodedark_png : _vm.razorkodelight_png,
+          alt: "RazorKode"
+        }
+      })
+    ]),
+    _vm._v(" "),
+    _c("div", [
+      _vm._v(
+        "I think most web developers tend to do side-projects.  I do a lot of small side projects, mostly Wordpress/Divi builds for professionals and small businesses looking to build their presence online.  RazorKode LLC is a digital marketing agency I created for the side projects I do."
+      )
+    ]),
+    _vm._v(" "),
+    _c("br"),
+    _c("br"),
+    _vm._v(" "),
+    _c("picture", [
+      _c("source", {
+        attrs: {
+          type: "image/webp",
+          srcset: _vm.dark ? _vm.razorvpsdark_webp : _vm.razorvpslight_webp
+        }
+      }),
       _vm._v(" "),
-      _c("br"),
-      _c("br"),
-      _vm._v(" "),
-      _c("div", [
-        _vm._v(
-          "I think most web developers tend to do side-projects.  I do a lot of small side projects, mostly Wordpress/Divi builds for professionals and small businesses looking to build their presence online.  RazorKode LLC is a digital marketing agency I created for the side projects I do."
-        )
-      ]),
-      _vm._v(" "),
-      _c("br"),
-      _c("br"),
-      _vm._v(" "),
-      _c("div", [
-        _vm._v(
-          "I manage quite a bit of hosting both for RazorKode and other various projects.  RazorVPS is a DBA business under RazorKode that I use to offer VPS hosting services to my clients."
-        )
-      ])
+      _c("img", {
+        attrs: {
+          src: _vm.dark ? _vm.razorvpsdark_png : _vm.razorvpslight_png,
+          alt: "RazorVPS"
+        }
+      })
+    ]),
+    _vm._v(" "),
+    _c("div", [
+      _vm._v(
+        "I manage quite a bit of hosting both for RazorKode and other various projects.  RazorVPS is a DBA business under RazorKode that I use to offer VPS hosting services to my clients."
+      )
     ])
-  }
-]
+  ])
+}
+var staticRenderFns = []
 render._withStripped = true
 
 
@@ -30424,80 +30844,98 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "limit-width center text-center" }, [
-      _c("p", { staticClass: "pb-20", staticStyle: { "font-size": "18px" } }, [
-        _vm._v(
-          "If you are interested in working with me, hiring me, consulting on a project or maybe just need some technical insight...   please feel free to reach out.  I very much enjoy helping people find solutions to problems or, at least, connecting them with resources who can assist."
+    return _c(
+      "div",
+      { staticClass: "limit-width center text-center pb-100 pink-links" },
+      [
+        _c(
+          "p",
+          { staticClass: "pb-20", staticStyle: { "font-size": "18px" } },
+          [
+            _vm._v(
+              "If you are interested in working with me, hiring me, consulting on a project or maybe just need some technical insight...   please feel free to reach out.  I very much enjoy helping people find solutions to problems or, at least, connecting them with resources who can assist."
+            )
+          ]
+        ),
+        _vm._v(" "),
+        _c("p", { staticClass: "pb-20" }, [
+          _c("a", { attrs: { href: "mailto:info@philiptheobald.com" } }, [
+            _vm._v("info@philiptheobald.com")
+          ])
+        ]),
+        _vm._v(" "),
+        _c(
+          "p",
+          {
+            staticClass: "pb-20",
+            staticStyle: { "font-size": "36px" },
+            attrs: { className: "contact-number" }
+          },
+          [_vm._v("312-802-2423")]
+        ),
+        _vm._v(" "),
+        _c(
+          "p",
+          { staticClass: "pb-20", staticStyle: { "font-size": "16px" } },
+          [
+            _vm._v("\n        You can also add or follow me on "),
+            _c(
+              "a",
+              {
+                attrs: {
+                  href: "https://www.linkedin.com/in/philiptheobald/",
+                  target: "blank"
+                }
+              },
+              [_vm._v("LinkedIn")]
+            ),
+            _vm._v(", "),
+            _c(
+              "a",
+              {
+                attrs: {
+                  href: "https://www.facebook.com/fylzero",
+                  target: "blank"
+                }
+              },
+              [_vm._v("Facebook")]
+            ),
+            _vm._v(", "),
+            _c(
+              "a",
+              {
+                attrs: { href: "https://twitter.com/fylzero", target: "blank" }
+              },
+              [_vm._v("Twitter")]
+            ),
+            _vm._v(", "),
+            _c(
+              "a",
+              {
+                attrs: {
+                  href:
+                    "https://www.youtube.com/channel/UCzRZf_LXBkxjOUTUrA6zZxA",
+                  target: "blank"
+                }
+              },
+              [_vm._v("YouTube")]
+            ),
+            _vm._v(" and "),
+            _c(
+              "a",
+              {
+                attrs: {
+                  href: "https://www.instagram.com/fylzero/",
+                  target: "blank"
+                }
+              },
+              [_vm._v("Instagram")]
+            ),
+            _vm._v(".\n    ")
+          ]
         )
-      ]),
-      _vm._v(" "),
-      _c("p", { staticClass: "pb-20" }, [
-        _c("a", { attrs: { href: "mailto:info@philiptheobald.com" } }, [
-          _vm._v("info@philiptheobald.com")
-        ])
-      ]),
-      _vm._v(" "),
-      _c(
-        "p",
-        {
-          staticClass: "pb-20",
-          staticStyle: { "font-size": "36px" },
-          attrs: { className: "contact-number" }
-        },
-        [_vm._v("312-802-2423")]
-      ),
-      _vm._v(" "),
-      _c("p", { staticClass: "pb-20", staticStyle: { "font-size": "16px" } }, [
-        _vm._v("\n        You can also add or follow me on "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href: "https://www.linkedin.com/in/philiptheobald/",
-              target: "blank"
-            }
-          },
-          [_vm._v("LinkedIn")]
-        ),
-        _vm._v(", "),
-        _c(
-          "a",
-          {
-            attrs: { href: "https://www.facebook.com/fylzero", target: "blank" }
-          },
-          [_vm._v("Facebook")]
-        ),
-        _vm._v(", "),
-        _c(
-          "a",
-          { attrs: { href: "https://twitter.com/fylzero", target: "blank" } },
-          [_vm._v("Twitter")]
-        ),
-        _vm._v(", "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href: "https://www.youtube.com/channel/UCzRZf_LXBkxjOUTUrA6zZxA",
-              target: "blank"
-            }
-          },
-          [_vm._v("YouTube")]
-        ),
-        _vm._v(" and "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href: "https://www.instagram.com/fylzero/",
-              target: "blank"
-            }
-          },
-          [_vm._v("Instagram")]
-        ),
-        _vm._v(".\n    ")
-      ])
-    ])
+      ]
+    )
   }
 ]
 render._withStripped = true
@@ -30521,7 +30959,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "limit-width center" }, [
+  return _c("div", { staticClass: "limit-width center pb-100 pink-links" }, [
     _c("h2", [_vm._v("Software Engineering")]),
     _vm._v(" "),
     _c("p", [
@@ -31388,10 +31826,10 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Skills.vue?vue&type=template&id=49478526&":
-/*!*********************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Skills.vue?vue&type=template&id=49478526& ***!
-  \*********************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Skills.vue?vue&type=template&id=49478526&scoped=true&":
+/*!*********************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Skills.vue?vue&type=template&id=49478526&scoped=true& ***!
+  \*********************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -31403,11 +31841,547 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "limit-width center" }, [
-    _vm._v("\n    SKILLS!\n")
+  return _c("div", { staticClass: "center pb-100 pink-links" }, [
+    _c("div", { staticClass: "center limit-width" }, [
+      _c(
+        "div",
+        { staticClass: " text-center" },
+        [
+          _c(
+            "v-btn",
+            {
+              attrs: {
+                outline: "",
+                large: "",
+                color: "indigo",
+                href: "/pdf/philip-theobald-resume.pdf",
+                target: "blank"
+              }
+            },
+            [_vm._v("\n                Download My Resume\n            ")]
+          )
+        ],
+        1
+      ),
+      _vm._v(" "),
+      _c("br"),
+      _c("br"),
+      _c("br"),
+      _vm._v(" "),
+      _c("h1", [_vm._v("Skills (Measured By Proficiency)")]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Laravel")]),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I am a very big fan of Laravel.  I have been learning it for a long time and hope that it becomes more adopted as a framework in the US as it is very clean and simple to work with.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Vue.js")]),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I've also started learning Vue.js recently.  I would say I am currently a bit more focused on react but I definitely think Vue.js is just as valuable for me to learn.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("MySQL")]),
+      _vm._v(" "),
+      _vm._m(2),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I've used MySQL almost exclusively for creating databases in the apps that I've built.  I have a general understanding of indexing and creating performant queries.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("JavaScript")]),
+      _vm._v(" "),
+      _vm._m(3),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            Fairly strong with JavaScript.  There is certainly a lot to know and I sometimes struggle with exactly what to reach for but am very good at figuring out how to solve puzzles and make cool things that work.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("jQuery")]),
+      _vm._v(" "),
+      _vm._m(4),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I actually learned jQuery in much more depth before I started learning JavaScript.  I would say jQuery is one of my strongest skills.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("React.js")]),
+      _vm._v(" "),
+      _vm._m(5),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I've only been working with React for the last 6 months on a limited basis.  Definitely at the top of my list of technology skills I want to absolutely master in the next few years.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("HTML5")]),
+      _vm._v(" "),
+      _vm._m(6),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I have a solid understanding of writing semantic HTML and creating document foundations that are accessible and make heirarchical sense.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("CSS3")]),
+      _vm._v(" "),
+      _vm._m(7),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I have a very strong understanding of CSS3, including implementing complex grid and flex layouts.  I am very familiar with solving specificity issues.  I typically write in BEM style.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("SCSS")]),
+      _vm._v(" "),
+      _vm._m(8),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I am very good at leveraging SCSS to organize larger projects into utility imports and breaking things into ITCSS target layers.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("PHP")]),
+      _vm._v(" "),
+      _vm._m(9),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I've built several vanilla PHP applications over the last 8 years or so.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Node.js")]),
+      _vm._v(" "),
+      _vm._m(10),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            Very little experience with Node.js but have started looking at it more and more recently.\n        "
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Python")]),
+      _vm._v(" "),
+      _vm._m(11),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "\n            I have almost no Python experience but am listing it as I am interested to learn more about it.\n        "
+        )
+      ])
+    ]),
+    _vm._v(" "),
+    _c("br"),
+    _c("br"),
+    _c("br"),
+    _vm._v(" "),
+    _c("h1", [_vm._v("Programming-Related Online Certification Courses")]),
+    _vm._v(" "),
+    _c("div", { staticClass: "gridid" }, [
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert16_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert16_png, alt: "Modern React with Redux" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert17_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert17_png, alt: "Learn Pragmatic MobX in React" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert24_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert24_png,
+            alt: "ES6 JavaScript: The Complete Developers Guide"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert1_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert1_png, alt: "AJAX Essential Training" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert2_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert2_png,
+            alt: "Bootstrap 3: Advanced Web Development"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert3_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert3_png,
+            alt: "Creating an Adaptive Website for Multiple Screens"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert4_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert4_png, alt: "Creating a Responsive Web Design" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert5_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert5_png, alt: "CSS Styling Forms" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert6_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert6_png, alt: "CSS Fundamentals" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert7_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert7_png, alt: "GIT Essential Training" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert8_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert8_png, alt: "JavaScript Essential Training" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.cert9_webp } }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert9_png, alt: "jQuery Essential Training" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert10_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert10_png, alt: "Learning AngularJS 1" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert11_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert11_png,
+            alt: "MVC Frameworks for Building PHP Web Applications"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert12_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert12_png,
+            alt: "PHP: Object Oriented Programming"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert13_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert13_png, alt: "PHP 5.4 New Features" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert14_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert14_png,
+            alt: "Programming Foundations: Object-Oriented Design"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert15_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert15_png,
+            alt: "Prototype and script.aculo.us Essential Training"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert18_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert18_png,
+            alt: "Up and Running with Linux for PHP Developers"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert19_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert19_png, alt: "Web Form Design Best Practices" }
+        })
+      ])
+    ]),
+    _vm._v(" "),
+    _c("br"),
+    _c("br"),
+    _c("br"),
+    _vm._v(" "),
+    _c("h1", [_vm._v("Other Online Certification Courses")]),
+    _vm._v(" "),
+    _c("div", { staticClass: "gridid" }, [
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert20_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert20_png,
+            alt: "Facebook for Musicians and Bands"
+          }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert21_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert21_png, alt: "Learning the Basics of Branding" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert22_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: { src: _vm.cert22_png, alt: "Managing Your Time" }
+        })
+      ]),
+      _vm._v(" "),
+      _c("picture", [
+        _c("source", {
+          attrs: { type: "image/webp", srcset: _vm.cert23_webp }
+        }),
+        _vm._v(" "),
+        _c("img", {
+          staticClass: "responsive",
+          attrs: {
+            src: _vm.cert23_png,
+            alt: "Social Media Basics for Musicians and Bands"
+          }
+        })
+      ])
+    ])
   ])
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "80%" } }, [_vm._v("80%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "30%" } }, [_vm._v("30%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "60%" } }, [_vm._v("60%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "80%" } }, [_vm._v("80%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "95%" } }, [_vm._v("95%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "20%" } }, [_vm._v("20%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "80%" } }, [_vm._v("80%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "90%" } }, [_vm._v("90%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "80%" } }, [_vm._v("80%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "50%" } }, [_vm._v("50%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "10%" } }, [_vm._v("10%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "5%" } }, [_vm._v("5%")])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -31429,266 +32403,324 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", { staticClass: "limit-width center pb-100 pink-links" }, [
+    _c("p", { staticClass: "pb-20" }, [
+      _vm._v(
+        "\n        Here are a bunch of things I use day-to-day that make my life and job easier.\n    "
+      )
+    ]),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Office")]),
+    _vm._v(" "),
+    _c("p", { staticClass: "pb-20" }, [
+      _vm._v(
+        "Here's a couple (older, I will take new ones soon) photos of my home office.  I live in a one bedroom brick and timber loft with my girlfriend Karina, 3 guinea pigs (Spaghetti, Fettuccine and Lasagna) and a betta fish named Cheeto. Located between Little Village and Pilsen in Chicago, Illinois."
+      )
+    ]),
+    _vm._v(" "),
+    _c("div", { staticClass: "text-center pb-20" }, [
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.loft1_webp } }),
+        _vm._v(" "),
+        _c("img", { attrs: { src: _vm.loft1_jpg, alt: "Loft 1" } })
+      ])
+    ]),
+    _vm._v(" "),
+    _c("div", { staticClass: "text-center pb-20" }, [
+      _c("picture", [
+        _c("source", { attrs: { type: "image/webp", srcset: _vm.loft2_webp } }),
+        _vm._v(" "),
+        _c("img", { attrs: { src: _vm.loft2_jpg, alt: "Loft 2" } })
+      ])
+    ]),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Desk")]),
+    _vm._v(" "),
+    _vm._m(0),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Chair")]),
+    _vm._v(" "),
+    _vm._m(1),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Monitor")]),
+    _vm._v(" "),
+    _vm._m(2),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Audio")]),
+    _vm._v(" "),
+    _vm._m(3),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Hub")]),
+    _vm._v(" "),
+    _vm._m(4),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Computer")]),
+    _vm._v(" "),
+    _vm._m(5),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Keyboard & Mouse")]),
+    _vm._v(" "),
+    _c("p", [
+      _vm._v(
+        "Sigh...   yes...  I spent a boatload of money on the space grey Apple Magic Keyboard and Magic Mouse 2.  I actually really like the mac keyboard and have gotten very used to it.  I've always been a fan of the magic mouse, especially for multiscreen switching."
+      )
+    ]),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Phone")]),
+    _vm._v(" "),
+    _c("p", [
+      _vm._v(
+        "I have the Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory."
+      )
+    ]),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Code Editor")]),
+    _vm._v(" "),
+    _vm._m(6),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Headphones")]),
+    _vm._v(" "),
+    _vm._m(7),
+    _vm._v(" "),
+    _c("h2", [_vm._v("Other Apps I Use")]),
+    _vm._v(" "),
+    _c("p", [
+      _vm._v(
+        "Gmail - I manage multiple accounts from a single inbox and it's great."
+      )
+    ]),
+    _vm._v(" "),
+    _c("p", [_vm._v("Spotify - For music.")]),
+    _vm._v(" "),
+    _c("p", [_vm._v("Evernote - For taking notes.")]),
+    _vm._v(" "),
+    _c("p", [_vm._v("Todoist - My preferred todo list app.")]),
+    _vm._v(" "),
+    _c("p", [_vm._v("Remembear - Password Manager.")]),
+    _vm._v(" "),
+    _c("p", [_vm._v("Slack - What did we do before this existed, honestly?")]),
+    _vm._v(" "),
+    _vm._m(8)
+  ])
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "limit-width center" }, [
-      _c("h2", [_vm._v("Office")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "Here's a couple (older, I will take new ones soon) photos of my home office.  I live in a one bedroom brick and timber loft with my girlfriend Karina, 3 guinea pigs (Spaghetti, Fettuccine and Lasagna) and a betta fish named Cheeto. Located between Little Village and Pilsen in Chicago, Illinois."
-        )
-      ]),
-      _vm._v(" "),
-      _c("div", { attrs: { className: "center" } }),
-      _vm._v(" "),
-      _c("div", { attrs: { className: "center" } }),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Desk")]),
-      _vm._v(" "),
-      _c("p", [
-        _c(
-          "a",
-          {
-            attrs: {
-              href:
-                "https://www.autonomous.ai/standing-desks/smartdesk-2-business?option1=1&option2=6&option16=36&option17=41",
-              target: "blank"
-            }
-          },
-          [
-            _vm._v(
-              "SmartDesk 2 Business Edition with a white frame and bamboo top"
-            )
-          ]
-        ),
-        _vm._v(
-          " from Autonomous.  Extremely sturdy.  I love that this desk sits at the exact heights I prefer for sitting and standing and it looks beautiful."
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Chair")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v("I use an "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href:
-                "https://www.autonomous.ai/office-chairs/ergonomic-chair?option20=50",
-              target: "blank"
-            }
-          },
-          [_vm._v("Ergo Chair 2 in Evergreen")]
-        ),
-        _vm._v(
-          ", also from Autonomous.  Sturdy, comfy, ergonomic, doesn't squeak.  I actually sold my Herman Miller Embody chair for this and I have zero regrets."
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Monitor")]),
-      _vm._v(" "),
-      _c("p", [
-        _c(
-          "a",
-          {
-            attrs: {
-              href:
-                "https://www.amazon.com/gp/product/B07GWDGVGT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1",
-              target: "blank"
-            }
-          },
-          [_vm._v("Asus VA325H 31.5-Inch LED Monitor")]
-        ),
-        _vm._v(
-          " which I bought refurbished on Amazon for under $200.  High resolution, not the best color reproduction but good for coding and watching videos.  The monitor stand I use is from Autonomous as well."
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Audio")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v("I have a pair of "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href: "https://www.zzounds.com/item--MACMR824",
-              target: "blank"
-            }
-          },
-          [_vm._v("Mackie MR824 Studio Monitors")]
-        ),
-        _vm._v(", a "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href: "https://www.zzounds.com/item--MACMRS10",
-              target: "blank"
-            }
-          },
-          [_vm._v("Mackie MRS10 Powered Studio Subwoofer")]
-        ),
-        _vm._v(" and a pair of "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href:
-                "https://www.amazon.com/Klipsch-ProMedia-Certified-Computer-Speaker/dp/B000062VUO",
-              target: "blank"
-            }
-          },
-          [_vm._v("Klipsch Promedia 2.1 Desktop Speakers")]
-        ),
-        _vm._v(" hooked up with my "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href: "https://www.zzounds.com/item--FOCSCAR2I4V2",
-              target: "blank"
-            }
-          },
-          [_vm._v("Scarlett Focusrite 2i4 Audio Interface")]
-        ),
-        _vm._v(
-          ".  I tested tons of studio montor speakers at Guitar Center and landed on these because the low mid and treb frequencies really stood out on the Mackie's to me.  They have a bit of color to the sound but they are very clear and punchy. I use the Klipsch 2.1 speaker set along side the Mackie's to fill out the higher mid range sound for now.  I have the subwwoofer on the Klipsch very low for a bit of top-end lower punch but the Mackie sub is handling all the low end rumble.  Eventually I want to swap out the Klipsch set for some white-face Yamaha monitors.  Likely will do a 6 inch set to drive vocals more."
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Hub")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "Everything is hooked up to my Macbook Pro using a small simple "
-        ),
-        _c(
-          "a",
-          {
-            attrs: {
-              href:
-                "https://www.amazon.com/gp/product/B071G83L1J/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1",
-              target: "blank"
-            }
-          },
-          [_vm._v("Anker USB C Hub")]
-        ),
-        _vm._v(".")
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Computer")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v("I am rocking a nicely spec'd out "),
-        _c(
-          "a",
-          {
-            attrs: {
-              href:
-                "https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG",
-              target: "blank"
-            }
-          },
-          [_vm._v("Macbook Pro with Retina Display and Touchbar")]
-        ),
-        _vm._v(
-          " that I got from B&H Photo with a $700 discount.  Woot!  2.9GHz 6‑core 8th‑generation Intel Core i9 processor (Turbo Boost up to 4.8GHz).  32GB 2400MHz DDR4 memory.  Radeon Pro 560X with 4GB of GDDR5 memory.  2TB SSD storage."
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Keyboard & Mouse")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "Sigh...   yes...  I spent a boatload of money on the space grey Apple Magic Keyboard and Magic Mouse 2.  I actually really like the mac keyboard and have gotten very used to it.  I've always been a fan of the magic mouse, especially for multiscreen switching."
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Phone")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "I have the Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory."
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Code Editor")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "I was a big Sublime Text user for a few years, wound up switching to Atom for a bit...  these days I am rocking "
-        ),
-        _c(
-          "a",
-          {
-            attrs: { href: "https://code.visualstudio.com/", target: "blank" }
-          },
-          [_vm._v("Visual Studio Code")]
-        ),
-        _vm._v(
-          ".  Everyone else switched to it, so I hopped on the bandwagon.  ¯\\_(ツ)_/¯"
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Headphones")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v("I bought a set of "),
-        _c(
-          "a",
-          { attrs: { href: "https://www.nuraphone.com/", target: "blank" } },
-          [_vm._v("Nuraphones")]
-        ),
-        _vm._v(
-          " and OMG!  These things are RIDICULOUSLY AMAZING!  The bass isn't even deep, it is PROFOUND AF!  They're so clear.  It's like sitting the perfect distance from blasted studio monitors at a professional studio everytime I put them on."
-        )
-      ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Other Apps I Use")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "Gmail - I manage multiple accounts from a single inbox and it's great."
-        )
-      ]),
-      _vm._v(" "),
-      _c("p", [_vm._v("Spotify - For music.")]),
-      _vm._v(" "),
-      _c("p", [_vm._v("Evernote - For taking notes.")]),
-      _vm._v(" "),
-      _c("p", [_vm._v("Todoist - My preferred todo list app.")]),
-      _vm._v(" "),
-      _c("p", [_vm._v("Remembear - Password Manager.")]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v("Slack - What did we do before this existed, honestly?")
-      ]),
-      _vm._v(" "),
-      _c("p", [
-        _vm._v(
-          "iTerm2 - Terminal of choice.  I use the Agnoster config found "
-        ),
-        _c(
-          "a",
-          {
-            attrs: {
-              href:
-                "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
-              target: "blank"
-            }
-          },
-          [_vm._v("here")]
-        ),
-        _vm._v(".")
-      ])
+    return _c("p", [
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://www.autonomous.ai/standing-desks/smartdesk-2-business?option1=1&option2=6&option16=36&option17=41",
+            target: "blank"
+          }
+        },
+        [
+          _vm._v(
+            "SmartDesk 2 Business Edition with a white frame and bamboo top"
+          )
+        ]
+      ),
+      _vm._v(
+        " from Autonomous.  Extremely sturdy.  I love that this desk sits at the exact heights I prefer for sitting and standing and it looks beautiful."
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _vm._v("I use an "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://www.autonomous.ai/office-chairs/ergonomic-chair?option20=50",
+            target: "blank"
+          }
+        },
+        [_vm._v("Ergo Chair 2 in Evergreen")]
+      ),
+      _vm._v(
+        ", also from Autonomous.  Sturdy, comfy, ergonomic, doesn't squeak.  I actually sold my Herman Miller Embody chair for this and I have zero regrets."
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://www.amazon.com/gp/product/B07GWDGVGT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1",
+            target: "blank"
+          }
+        },
+        [_vm._v("Asus VA325H 31.5-Inch LED Monitor")]
+      ),
+      _vm._v(
+        " which I bought refurbished on Amazon for under $200.  High resolution, not the best color reproduction but good for coding and watching videos.  The monitor stand I use is from Autonomous as well."
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _vm._v("I have a pair of "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href: "https://www.zzounds.com/item--MACMR824",
+            target: "blank"
+          }
+        },
+        [_vm._v("Mackie MR824 Studio Monitors")]
+      ),
+      _vm._v(", a "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href: "https://www.zzounds.com/item--MACMRS10",
+            target: "blank"
+          }
+        },
+        [_vm._v("Mackie MRS10 Powered Studio Subwoofer")]
+      ),
+      _vm._v(" and a pair of "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://www.amazon.com/Klipsch-ProMedia-Certified-Computer-Speaker/dp/B000062VUO",
+            target: "blank"
+          }
+        },
+        [_vm._v("Klipsch Promedia 2.1 Desktop Speakers")]
+      ),
+      _vm._v(" hooked up with my "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href: "https://www.zzounds.com/item--FOCSCAR2I4V2",
+            target: "blank"
+          }
+        },
+        [_vm._v("Scarlett Focusrite 2i4 Audio Interface")]
+      ),
+      _vm._v(
+        ".  I tested tons of studio montor speakers at Guitar Center and landed on these because the low mid and treb frequencies really stood out on the Mackie's to me.  They have a bit of color to the sound but they are very clear and punchy. I use the Klipsch 2.1 speaker set along side the Mackie's to fill out the higher mid range sound for now.  I have the subwwoofer on the Klipsch very low for a bit of top-end lower punch but the Mackie sub is handling all the low end rumble.  Eventually I want to swap out the Klipsch set for some white-face Yamaha monitors.  Likely will do a 6 inch set to drive vocals more."
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _vm._v("Everything is hooked up to my Macbook Pro using a small simple "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://www.amazon.com/gp/product/B071G83L1J/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1",
+            target: "blank"
+          }
+        },
+        [_vm._v("Anker USB C Hub")]
+      ),
+      _vm._v(".")
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _vm._v("I am rocking a nicely spec'd out "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG",
+            target: "blank"
+          }
+        },
+        [_vm._v("Macbook Pro with Retina Display and Touchbar")]
+      ),
+      _vm._v(
+        " that I got from B&H Photo with a $700 discount.  Woot!  2.9GHz 6‑core 8th‑generation Intel Core i9 processor (Turbo Boost up to 4.8GHz).  32GB 2400MHz DDR4 memory.  Radeon Pro 560X with 4GB of GDDR5 memory.  2TB SSD storage."
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _vm._v(
+        "I was a big Sublime Text user for a few years, wound up switching to Atom for a bit...  these days I am rocking "
+      ),
+      _c(
+        "a",
+        { attrs: { href: "https://code.visualstudio.com/", target: "blank" } },
+        [_vm._v("Visual Studio Code")]
+      ),
+      _vm._v(
+        ".  Everyone else switched to it, so I hopped on the bandwagon.  ¯\\_(ツ)_/¯"
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _vm._v("I bought a set of "),
+      _c(
+        "a",
+        { attrs: { href: "https://www.nuraphone.com/", target: "blank" } },
+        [_vm._v("Nuraphones")]
+      ),
+      _vm._v(
+        " and OMG!  These things are RIDICULOUSLY AMAZING!  The bass isn't even deep, it is PROFOUND AF!  They're so clear.  It's like sitting the perfect distance from blasted studio monitors at a professional studio everytime I put them on."
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("p", [
+      _vm._v("iTerm2 - Terminal of choice.  I use the Agnoster config found "),
+      _c(
+        "a",
+        {
+          attrs: {
+            href:
+              "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
+            target: "blank"
+          }
+        },
+        [_vm._v("here")]
+      ),
+      _vm._v(".")
     ])
   }
 ]
@@ -73034,9 +74066,11 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Skills_vue_vue_type_template_id_49478526___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Skills.vue?vue&type=template&id=49478526& */ "./resources/js/components/Skills.vue?vue&type=template&id=49478526&");
+/* harmony import */ var _Skills_vue_vue_type_template_id_49478526_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Skills.vue?vue&type=template&id=49478526&scoped=true& */ "./resources/js/components/Skills.vue?vue&type=template&id=49478526&scoped=true&");
 /* harmony import */ var _Skills_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Skills.vue?vue&type=script&lang=js& */ "./resources/js/components/Skills.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* empty/unused harmony star reexport *//* harmony import */ var _Skills_vue_vue_type_style_index_0_id_49478526_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true& */ "./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
 
 
 
@@ -73044,13 +74078,13 @@ __webpack_require__.r(__webpack_exports__);
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
   _Skills_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _Skills_vue_vue_type_template_id_49478526___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _Skills_vue_vue_type_template_id_49478526___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  _Skills_vue_vue_type_template_id_49478526_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Skills_vue_vue_type_template_id_49478526_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
   null,
-  null,
+  "49478526",
   null
   
 )
@@ -73076,19 +74110,35 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/components/Skills.vue?vue&type=template&id=49478526&":
-/*!***************************************************************************!*\
-  !*** ./resources/js/components/Skills.vue?vue&type=template&id=49478526& ***!
-  \***************************************************************************/
+/***/ "./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true&":
+/*!******************************************************************************************************!*\
+  !*** ./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true& ***!
+  \******************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_style_index_0_id_49478526_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader!../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_style_index_0_id_49478526_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_style_index_0_id_49478526_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_style_index_0_id_49478526_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_style_index_0_id_49478526_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_style_index_0_id_49478526_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./resources/js/components/Skills.vue?vue&type=template&id=49478526&scoped=true&":
+/*!***************************************************************************************!*\
+  !*** ./resources/js/components/Skills.vue?vue&type=template&id=49478526&scoped=true& ***!
+  \***************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_template_id_49478526___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./Skills.vue?vue&type=template&id=49478526& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Skills.vue?vue&type=template&id=49478526&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_template_id_49478526___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_template_id_49478526_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./Skills.vue?vue&type=template&id=49478526&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Skills.vue?vue&type=template&id=49478526&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_template_id_49478526_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_template_id_49478526___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Skills_vue_vue_type_template_id_49478526_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 

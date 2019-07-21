@@ -1,5 +1,5 @@
 <template>
-    <div class="limit-width center text-center">
+    <div class="limit-width center text-center pb-100 pink-links">
         <p class="pb-20" style="font-size: 18px;">If you are interested in working with me, hiring me, consulting on a project or maybe just need some technical insight...   please feel free to reach out.  I very much enjoy helping people find solutions to problems or, at least, connecting them with resources who can assist.</p>
         <p class="pb-20"><a href="mailto:info@philiptheobald.com">info@philiptheobald.com</a></p>
         <p class="pb-20" style="font-size: 36px;" className="contact-number">312-802-2423</p>
