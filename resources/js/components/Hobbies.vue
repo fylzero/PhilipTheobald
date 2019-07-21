@@ -86,6 +86,10 @@ export default {
             bike3_webp: '/img/webp/bikes/bike3.webp',
             radmini_webp: '/img/webp/bikes/radmini.webp',
         }
+    },
+    mounted() {
+        //Scrolls to top when view is displayed
+        document.getElementById('sandbox').scrollTop = 0;
     }
 }
 </script>

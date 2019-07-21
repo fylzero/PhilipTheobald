@@ -18,37 +18,37 @@
 
         <picture>
             <source type="image/webp" :srcset="dark ? laraveldark_webp : laravellight_webp" />
-            <img :src="darkmode ? laraveldark_png : laravellight_png" alt="Laravel" class="skill-badge" />
+            <img :src="dark ? laraveldark_png : laravellight_png" alt="Laravel" class="skill-badge" />
         </picture>
 
         <picture>
             <source type="image/webp" :srcset="dark ? vuedark_webp : vuelight_webp" />
-            <img :src="darkmode ? vuedark_png : vuelight_png" alt="Vue.js" class="skill-badge" />
+            <img :src="dark ? vuedark_png : vuelight_png" alt="Vue.js" class="skill-badge" />
         </picture>
 
         <picture>
             <source type="image/webp" :srcset="dark ? html5dark_webp : html5light_webp" />
-            <img :src="darkmode ? html5dark_png : html5light_png" alt="HTML5" class="skill-badge" />
+            <img :src="dark ? html5dark_png : html5light_png" alt="HTML5" class="skill-badge" />
         </picture>
 
         <picture>
             <source type="image/webp" :srcset="dark ? css3dark_webp : css3light_webp" />
-            <img :src="darkmode ? css3dark_png : css3light_png" alt="CSS3" class="skill-badge" />
+            <img :src="dark ? css3dark_png : css3light_png" alt="CSS3" class="skill-badge" />
         </picture>
 
         <picture>
             <source type="image/webp" :srcset="dark ? jsdark_webp : jslight_webp" />
-            <img :src="darkmode ? jsdark_png : jslight_png" alt="JavaScript" class="skill-badge" />
+            <img :src="dark ? jsdark_png : jslight_png" alt="JavaScript" class="skill-badge" />
         </picture>
 
         <picture>
             <source type="image/webp" :srcset="dark ? phpdark_webp : phplight_webp" />
-            <img :src="darkmode ? phpdark_png : phplight_png" alt="PHP" class="skill-badge" />
+            <img :src="dark ? phpdark_png : phplight_png" alt="PHP" class="skill-badge" />
         </picture>
 
         <picture>
             <source type="image/webp" :srcset="dark ? mysqldark_webp : mysqllight_webp" />
-            <img :src="darkmode ? mysqldark_png : mysqllight_png" alt="MySQL" class="skill-badge" />
+            <img :src="dark ? mysqldark_png : mysqllight_png" alt="MySQL" class="skill-badge" />
         </picture>
 
         <picture>
@@ -98,6 +98,10 @@ export default {
             mysqllight_webp: '/img/webp/light/mysql.webp',
             mysqldark_webp: '/img/webp/dark/mysql.webp',
         }
+    },
+    mounted() {
+        //Scrolls to top when view is displayed
+        document.getElementById('sandbox').scrollTop = 0;
     }
 }
 </script>

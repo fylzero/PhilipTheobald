@@ -48,6 +48,10 @@ export default {
             razorvpslight_webp: '/img/webp/light/razorvps.webp',
             razorvpsdark_webp: '/img/webp/dark/razorvps.webp',
         }
+    },
+    mounted() {
+        //Scrolls to top when view is displayed
+        document.getElementById('sandbox').scrollTop = 0;
     }
 }
 </script>

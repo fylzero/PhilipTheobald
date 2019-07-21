@@ -14,6 +14,10 @@
 
 <script>
 export default {
-    props: ['dark']
+    props: ['dark'],
+    mounted() {
+        //Scrolls to top when view is displayed
+        document.getElementById('sandbox').scrollTop = 0;
+    }
 }
 </script>

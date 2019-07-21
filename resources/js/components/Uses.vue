@@ -72,6 +72,10 @@ export default {
             loft1_webp: '/img/webp/loft1.webp',
             loft2_webp: '/img/webp/loft2.webp',
         }
+    },
+    mounted() {
+        //Scrolls to top when view is displayed
+        document.getElementById('sandbox').scrollTop = 0;
     }
 }
 </script>

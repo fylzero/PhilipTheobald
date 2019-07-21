@@ -307,6 +307,10 @@ export default {
             cert23_webp: '/img/webp/certs/cert23.webp',
             cert24_webp: '/img/webp/certs/cert24.webp',
         }
+    },
+    mounted() {
+        //Scrolls to top when view is displayed
+        document.getElementById('sandbox').scrollTop = 0;
     }
 }
 </script>
