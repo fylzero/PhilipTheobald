@@ -33,7 +33,7 @@
             <div className='center'>
                 <picture>
                     <source type="image/webp" :srcset="bike1_webp" />
-                    <img :src="bike1_jpg" alt="Motorcycle 1" />
+                    <img class="responsive" :src="bike1_jpg" alt="Motorcycle 1" />
                 </picture>
             </div>
             <br />
@@ -41,7 +41,7 @@
             <div className='center'>
                 <picture>
                     <source type="image/webp" :srcset="bike2_webp" />
-                    <img :src="bike2_jpg" alt="Motorcycle 2" />
+                    <img class="responsive" :src="bike2_jpg" alt="Motorcycle 2" />
                 </picture>
             </div>
             <br />
@@ -49,7 +49,7 @@
             <div className='center'>
                 <picture>
                     <source type="image/webp" :srcset="bike3_webp" />
-                    <img :src="bike3_jpg" alt="Motorcycle 3" />
+                    <img class="responsive" :src="bike3_jpg" alt="Motorcycle 3" />
                 </picture>
             </div>
             <br />
@@ -57,7 +57,7 @@
             <div className='center'>
                 <picture>
                     <source type="image/webp" :srcset="radmini_webp" />
-                    <img :src="radmini_jpg" alt="RadMini" />
+                    <img class="responsive" :src="radmini_jpg" alt="RadMini" />
                 </picture>
             </div>
 
