@@ -49,9 +49,9 @@
         <ul>
             <li>2.9GHz 6‑Core 8th‑Gen Intel Core i9 Processor</li>
             <li>(Turbo Boost up to 4.8GHz)</li>
-            <li>32GB 2400MHz DDR4 memory</li>
-            <li>Radeon Pro 560X with 4GB of GDDR5 memory</li>
-            <li>2TB SSD storage</li>
+            <li>32GB 2400MHz DDR4 Memory</li>
+            <li>Radeon Pro 560X with 4GB of GDDR5 Memory</li>
+            <li>2TB SSD Storage</li>
         </ul>
 
         <h2>Keyboard &amp; Mouse</h2>
@@ -79,8 +79,8 @@
         <p>I was a big Sublime Text user for a few years, wound up switching to Atom for a bit...  these days I am rocking <a href="https://code.visualstudio.com/" target="blank">VS Code (Visual Studio Code)</a>.  Everyone else switched to it, so I hopped on the bandwagon.  ¯\_(ツ)_/¯</p>
         <p style="margin-top: 20px;"><strong style="color: grey;">Setup:</strong></p>
         <ul>
-            <li>Monokai Pro (Filter Spectrum) Theme</li>
-            <li>Menlo Font at 15px</li>
+            <li>Monokai Pro <span class="little">(Filter Spectrum) Theme</span></li>
+            <li>Menlo Font <span class="little">at 15px</span></li>
         </ul>
         <p style="margin-top: 20px;"><strong style="color: grey;">Extensions:</strong></p>
         <ul>
@@ -101,34 +101,34 @@
 
         <h2>Apps I Use</h2>
         <ul>
-            <li>Google Chrome - My preferred browser for development and general use.</li>
-            <li>Wave Plugin - For making sure websites are accessible.</li>
-            <li>Valet - Part of Laravel, I use this for my local development server.</li>
-            <li>Gmail - I manage multiple accounts from a single inbox and it's great.</li>
-            <li>Spotify - For music.</li>
-            <li>Evernote - For taking notes.</li>
-            <li>TickTick - My preferred todo list app.</li>
-            <li>Remembear - Password Manager.</li>
-            <li>TunnelBear - VPN.</li>
-            <li>VirtualBox - Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions.</li>
-            <li>Slack - What did we do before this existed, honestly?</li>
-            <li>iTerm2 - My terminal of choice.  I use OhMyZsh with the Agnoster config found <a href="https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb" target="blank">here</a>.</li>
-            <li>Homebrew - Amazing package manager for using command line and scripts to install apps on Mac (or Linux).</li>
-            <li>MacDown - Simple Markdown editor.</li>
-            <li>Skitch - Screenshot tool from the creators of Evernote.</li>
-            <li>Sip - Color picker tool.</li>
-            <li>Adobe Photoshop / Lightroom - Graphic and photo editing.</li>
-            <li>Affinity Photo - Starting to like/use this more than Photoshop.</li>
-            <li>Magnet - Window positioning app.</li>
-            <li>Presonus Studio One 4 Pro - My DAW (Digital Audio Workstation).</li>
-            <li>Line 6 Helix Native - Everything for guitar sound in one VST plugin!</li>
-            <li>Adapter - Video / Audio conversion utility.</li>
-            <li>Backblaze - Cloud backup utility.</li>
-            <li>Big Day Countdown - Large countdown reminders on my desktop.</li>
-            <li>FileZilla - For those times I need to secure FTP and am too lazy to commmand line it.</li>
-            <li>ImageOptim - For crushing images before using them on the web.</li>
-            <li>MPV - My preferred video player these days.  Though I mostly use streaming services now.</li>
-            <li>TablePlus - After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management.</li>
+            <li>Google Chrome - <span class="little">My preferred browser for development and general use.</span></li>
+            <li>Wave Plugin - <span class="little">For making sure websites are accessible.</span></li>
+            <li>Valet - <span class="little">Part of Laravel, I use this for my local development server.</span></li>
+            <li>Gmail - <span class="little">I manage multiple accounts from a single inbox and it's great.</span></li>
+            <li>Spotify - <span class="little">For music.</span></li>
+            <li>Evernote - <span class="little">For taking notes.</span></li>
+            <li>TickTick - <span class="little">My preferred todo list app.</span></li>
+            <li>Remembear - <span class="little">Password Manager.</span></li>
+            <li>TunnelBear - <span class="little">VPN.</span></li>
+            <li>VirtualBox - <span class="little">Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions.</span></li>
+            <li>Slack - <span class="little">What did we do before this existed, honestly?</span></li>
+            <li>iTerm2 - <span class="little">My terminal of choice.  I use OhMyZsh with the Agnoster config found <a href="https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb" target="blank">here</a>.</span></li>
+            <li>Homebrew - <span class="little">Amazing package manager for using command line and scripts to install apps on Mac (or Linux).</span></li>
+            <li>MacDown - <span class="little">Simple Markdown editor.</span></li>
+            <li>Skitch - <span class="little">Screenshot tool from the creators of Evernote.</span></li>
+            <li>Sip - <span class="little">Color picker tool.</span></li>
+            <li>Adobe Photoshop / Lightroom - <span class="little">Graphic and photo editing.</span></li>
+            <li>Affinity Photo - <span class="little">Starting to like/use this more than Photoshop.</span></li>
+            <li>Magnet - <span class="little">Window positioning app.</span></li>
+            <li>Presonus Studio One 4 Pro - <span class="little">My DAW (Digital Audio Workstation).</span></li>
+            <li>Line 6 Helix Native - <span class="little">Everything for guitar sound in one VST plugin!</span></li>
+            <li>Adapter - <span class="little">Video / Audio conversion utility.</span></li>
+            <li>Backblaze - <span class="little">Cloud backup utility.</span></li>
+            <li>Big Day Countdown - <span class="little">Large countdown reminders on my desktop.</span></li>
+            <li>FileZilla - <span class="little">For those times I need to secure FTP and am too lazy to commmand line it.</span></li>
+            <li>ImageOptim - <span class="little">For crushing images before using them on the web.</span></li>
+            <li>MPV - <span class="little">My preferred video player these days.  Though I mostly use streaming services now.</span></li>
+            <li>TablePlus - <span class="little">After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management.</span></li>
         </ul>
 
     </div>
@@ -151,3 +151,10 @@ export default {
     }
 }
 </script>
+
+<style lang="scss" scoped>
+.little {
+    font-size: 16px;
+    color: grey;
+}
+</style>

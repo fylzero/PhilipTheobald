@@ -12478,6 +12478,25 @@ exports.push([module.i, ".gridid[data-v-49478526] {\n  display: grid;\n  grid-te
 
 /***/ }),
 
+/***/ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true&":
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.i, ".little[data-v-d868c692] {\n  font-size: 16px;\n  color: grey;\n}", ""]);
+
+// exports
+
+
+/***/ }),
+
 /***/ "./node_modules/css-loader/lib/css-base.js":
 /*!*************************************************!*\
   !*** ./node_modules/css-loader/lib/css-base.js ***!
@@ -30156,6 +30175,36 @@ if(false) {}
 
 /***/ }),
 
+/***/ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true&":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/style-loader!./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/lib/loader.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+var content = __webpack_require__(/*! !../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true& */ "./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true&");
+
+if(typeof content === 'string') content = [[module.i, content, '']];
+
+var transform;
+var insertInto;
+
+
+
+var options = {"hmr":true}
+
+options.transform = transform
+options.insertInto = undefined;
+
+var update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ "./node_modules/style-loader/lib/addStyles.js")(content, options);
+
+if(content.locals) module.exports = content.locals;
+
+if(false) {}
+
+/***/ }),
+
 /***/ "./node_modules/style-loader/lib/addStyles.js":
 /*!****************************************************!*\
   !*** ./node_modules/style-loader/lib/addStyles.js ***!
@@ -32499,10 +32548,10 @@ render._withStripped = true
 
 /***/ }),
 
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Uses.vue?vue&type=template&id=d868c692&":
-/*!*******************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Uses.vue?vue&type=template&id=d868c692& ***!
-  \*******************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Uses.vue?vue&type=template&id=d868c692&scoped=true&":
+/*!*******************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Uses.vue?vue&type=template&id=d868c692&scoped=true& ***!
+  \*******************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -32845,11 +32894,11 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("li", [_vm._v("(Turbo Boost up to 4.8GHz)")]),
       _vm._v(" "),
-      _c("li", [_vm._v("32GB 2400MHz DDR4 memory")]),
+      _c("li", [_vm._v("32GB 2400MHz DDR4 Memory")]),
       _vm._v(" "),
-      _c("li", [_vm._v("Radeon Pro 560X with 4GB of GDDR5 memory")]),
+      _c("li", [_vm._v("Radeon Pro 560X with 4GB of GDDR5 Memory")]),
       _vm._v(" "),
-      _c("li", [_vm._v("2TB SSD storage")])
+      _c("li", [_vm._v("2TB SSD Storage")])
     ])
   },
   function() {
@@ -32940,9 +32989,17 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("ul", [
-      _c("li", [_vm._v("Monokai Pro (Filter Spectrum) Theme")]),
+      _c("li", [
+        _vm._v("Monokai Pro "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("(Filter Spectrum) Theme")
+        ])
+      ]),
       _vm._v(" "),
-      _c("li", [_vm._v("Menlo Font at 15px")])
+      _c("li", [
+        _vm._v("Menlo Font "),
+        _c("span", { staticClass: "little" }, [_vm._v("at 15px")])
+      ])
     ])
   },
   function() {
@@ -32991,131 +33048,213 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("ul", [
       _c("li", [
-        _vm._v(
-          "Google Chrome - My preferred browser for development and general use."
-        )
+        _vm._v("Google Chrome - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("My preferred browser for development and general use.")
+        ])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v("Wave Plugin - For making sure websites are accessible.")
+        _vm._v("Wave Plugin - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("For making sure websites are accessible.")
+        ])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "Valet - Part of Laravel, I use this for my local development server."
-        )
+        _vm._v("Valet - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Part of Laravel, I use this for my local development server.")
+        ])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "Gmail - I manage multiple accounts from a single inbox and it's great."
-        )
-      ]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Spotify - For music.")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Evernote - For taking notes.")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("TickTick - My preferred todo list app.")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Remembear - Password Manager.")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("TunnelBear - VPN.")]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v(
-          "VirtualBox - Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions."
-        )
+        _vm._v("Gmail - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v(
+            "I manage multiple accounts from a single inbox and it's great."
+          )
+        ])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v("Slack - What did we do before this existed, honestly?")
+        _vm._v("Spotify - "),
+        _c("span", { staticClass: "little" }, [_vm._v("For music.")])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "iTerm2 - My terminal of choice.  I use OhMyZsh with the Agnoster config found "
-        ),
-        _c(
-          "a",
-          {
-            attrs: {
-              href:
-                "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
-              target: "blank"
-            }
-          },
-          [_vm._v("here")]
-        ),
-        _vm._v(".")
+        _vm._v("Evernote - "),
+        _c("span", { staticClass: "little" }, [_vm._v("For taking notes.")])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "Homebrew - Amazing package manager for using command line and scripts to install apps on Mac (or Linux)."
-        )
-      ]),
-      _vm._v(" "),
-      _c("li", [_vm._v("MacDown - Simple Markdown editor.")]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Skitch - Screenshot tool from the creators of Evernote.")
-      ]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Sip - Color picker tool.")]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Adobe Photoshop / Lightroom - Graphic and photo editing.")
+        _vm._v("TickTick - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("My preferred todo list app.")
+        ])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "Affinity Photo - Starting to like/use this more than Photoshop."
-        )
-      ]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Magnet - Window positioning app.")]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v(
-          "Presonus Studio One 4 Pro - My DAW (Digital Audio Workstation)."
-        )
+        _vm._v("Remembear - "),
+        _c("span", { staticClass: "little" }, [_vm._v("Password Manager.")])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "Line 6 Helix Native - Everything for guitar sound in one VST plugin!"
-        )
-      ]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Adapter - Video / Audio conversion utility.")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Backblaze - Cloud backup utility.")]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Big Day Countdown - Large countdown reminders on my desktop.")
+        _vm._v("TunnelBear - "),
+        _c("span", { staticClass: "little" }, [_vm._v("VPN.")])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "FileZilla - For those times I need to secure FTP and am too lazy to commmand line it."
-        )
+        _vm._v("VirtualBox - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v(
+            "Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions."
+          )
+        ])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v("ImageOptim - For crushing images before using them on the web.")
+        _vm._v("Slack - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("What did we do before this existed, honestly?")
+        ])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "MPV - My preferred video player these days.  Though I mostly use streaming services now."
-        )
+        _vm._v("iTerm2 - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v(
+            "My terminal of choice.  I use OhMyZsh with the Agnoster config found "
+          ),
+          _c(
+            "a",
+            {
+              attrs: {
+                href:
+                  "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
+                target: "blank"
+              }
+            },
+            [_vm._v("here")]
+          ),
+          _vm._v(".")
+        ])
       ]),
       _vm._v(" "),
       _c("li", [
-        _vm._v(
-          "TablePlus - After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management."
-        )
+        _vm._v("Homebrew - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v(
+            "Amazing package manager for using command line and scripts to install apps on Mac (or Linux)."
+          )
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("MacDown - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Simple Markdown editor.")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Skitch - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Screenshot tool from the creators of Evernote.")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Sip - "),
+        _c("span", { staticClass: "little" }, [_vm._v("Color picker tool.")])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Adobe Photoshop / Lightroom - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Graphic and photo editing.")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Affinity Photo - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Starting to like/use this more than Photoshop.")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Magnet - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Window positioning app.")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Presonus Studio One 4 Pro - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("My DAW (Digital Audio Workstation).")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Line 6 Helix Native - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Everything for guitar sound in one VST plugin!")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Adapter - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Video / Audio conversion utility.")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Backblaze - "),
+        _c("span", { staticClass: "little" }, [_vm._v("Cloud backup utility.")])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("Big Day Countdown - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("Large countdown reminders on my desktop.")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("FileZilla - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v(
+            "For those times I need to secure FTP and am too lazy to commmand line it."
+          )
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("ImageOptim - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v("For crushing images before using them on the web.")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("MPV - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v(
+            "My preferred video player these days.  Though I mostly use streaming services now."
+          )
+        ])
+      ]),
+      _vm._v(" "),
+      _c("li", [
+        _vm._v("TablePlus - "),
+        _c("span", { staticClass: "little" }, [
+          _vm._v(
+            "After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management."
+          )
+        ])
       ])
     ])
   }
@@ -74549,9 +74688,11 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Uses_vue_vue_type_template_id_d868c692___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Uses.vue?vue&type=template&id=d868c692& */ "./resources/js/components/Uses.vue?vue&type=template&id=d868c692&");
+/* harmony import */ var _Uses_vue_vue_type_template_id_d868c692_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Uses.vue?vue&type=template&id=d868c692&scoped=true& */ "./resources/js/components/Uses.vue?vue&type=template&id=d868c692&scoped=true&");
 /* harmony import */ var _Uses_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Uses.vue?vue&type=script&lang=js& */ "./resources/js/components/Uses.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+/* empty/unused harmony star reexport *//* harmony import */ var _Uses_vue_vue_type_style_index_0_id_d868c692_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true& */ "./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
 
 
 
@@ -74559,13 +74700,13 @@ __webpack_require__.r(__webpack_exports__);
 
 /* normalize component */
 
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__["default"])(
   _Uses_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _Uses_vue_vue_type_template_id_d868c692___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _Uses_vue_vue_type_template_id_d868c692___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  _Uses_vue_vue_type_template_id_d868c692_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _Uses_vue_vue_type_template_id_d868c692_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
   false,
   null,
-  null,
+  "d868c692",
   null
   
 )
@@ -74591,19 +74732,35 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./resources/js/components/Uses.vue?vue&type=template&id=d868c692&":
-/*!*************************************************************************!*\
-  !*** ./resources/js/components/Uses.vue?vue&type=template&id=d868c692& ***!
-  \*************************************************************************/
+/***/ "./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true&":
+/*!****************************************************************************************************!*\
+  !*** ./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true& ***!
+  \****************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_style_index_0_id_d868c692_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/style-loader!../../../node_modules/css-loader!../../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../../node_modules/postcss-loader/src??ref--7-2!../../../node_modules/sass-loader/lib/loader.js??ref--7-3!../../../node_modules/vue-loader/lib??vue-loader-options!./Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true& */ "./node_modules/style-loader/index.js!./node_modules/css-loader/index.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Uses.vue?vue&type=style&index=0&id=d868c692&lang=scss&scoped=true&");
+/* harmony import */ var _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_style_index_0_id_d868c692_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_style_index_0_id_d868c692_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_style_index_0_id_d868c692_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_style_index_0_id_d868c692_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_style_loader_index_js_node_modules_css_loader_index_js_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_2_node_modules_sass_loader_lib_loader_js_ref_7_3_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_style_index_0_id_d868c692_lang_scss_scoped_true___WEBPACK_IMPORTED_MODULE_0___default.a); 
+
+/***/ }),
+
+/***/ "./resources/js/components/Uses.vue?vue&type=template&id=d868c692&scoped=true&":
+/*!*************************************************************************************!*\
+  !*** ./resources/js/components/Uses.vue?vue&type=template&id=d868c692&scoped=true& ***!
+  \*************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_template_id_d868c692___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./Uses.vue?vue&type=template&id=d868c692& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Uses.vue?vue&type=template&id=d868c692&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_template_id_d868c692___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_template_id_d868c692_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./Uses.vue?vue&type=template&id=d868c692&scoped=true& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Uses.vue?vue&type=template&id=d868c692&scoped=true&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_template_id_d868c692_scoped_true___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_template_id_d868c692___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Uses_vue_vue_type_template_id_d868c692_scoped_true___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
