@@ -32545,697 +32545,575 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "limit-width center pb-100 pink-links" }, [
-    _c("p", { staticClass: "pb-20" }, [
-      _vm._v(
-        "\n        Here are a bunch of things I use day-to-day that make my life and job easier.\n    "
-      )
-    ]),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Office")]),
-    _vm._v(" "),
-    _c("p", { staticClass: "pb-20" }, [
-      _vm._v(
-        "Here's a couple (older, I will take new ones soon) photos of my home office.  I live in a one bedroom brick and timber loft with my girlfriend Karina, 3 guinea pigs (Spaghetti, Fettuccine and Lasagna) and a betta fish named Cheeto. Located between Little Village and Pilsen in Chicago, Illinois."
-      )
-    ]),
-    _vm._v(" "),
-    _c("div", { staticClass: "text-center pb-20" }, [
-      _c("picture", [
-        _c("source", { attrs: { type: "image/webp", srcset: _vm.loft1_webp } }),
-        _vm._v(" "),
-        _c("img", {
-          staticClass: "responsive",
-          attrs: { src: _vm.loft1_jpg, alt: "Loft 1" }
-        })
-      ])
-    ]),
-    _vm._v(" "),
-    _c("div", { staticClass: "text-center pb-20" }, [
-      _c("picture", [
-        _c("source", { attrs: { type: "image/webp", srcset: _vm.loft2_webp } }),
-        _vm._v(" "),
-        _c("img", {
-          staticClass: "responsive",
-          attrs: { src: _vm.loft2_jpg, alt: "Loft 2" }
-        })
-      ])
-    ]),
-    _vm._v(" "),
-    _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
-      _vm._v("Hardware")
-    ]),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Desk")]),
-    _vm._v(" "),
-    _vm._m(0),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Chair")]),
-    _vm._v(" "),
-    _vm._m(1),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Monitor")]),
-    _vm._v(" "),
-    _vm._m(2),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Speakers")]),
-    _vm._v(" "),
-    _vm._m(3),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Audio Interface")]),
-    _vm._v(" "),
-    _vm._m(4),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Microphone")]),
-    _vm._v(" "),
-    _c("p", [
-      _vm._v(
-        "I use an Audio Technica AT-2020 studio condenser microphone with a telescopic boom stand, shock mount and pop filter."
-      )
-    ]),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Hub")]),
-    _vm._v(" "),
-    _vm._m(5),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Computer")]),
-    _vm._v(" "),
-    _vm._m(6),
-    _vm._v(" "),
-    _vm._m(7),
-    _vm._v(" "),
-    _vm._m(8),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Keyboard & Mouse")]),
-    _vm._v(" "),
-    _c("p", [
-      _vm._v(
-        "Sigh...   yes...  I spent a boatload of money on the space grey Apple Magic Keyboard and Magic Mouse 2.  I actually really like the mac keyboard and have gotten very used to it.  I've always been a fan of the magic mouse, especially for multiscreen switching."
-      )
-    ]),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Printer")]),
-    _vm._v(" "),
-    _vm._m(9),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Phone")]),
-    _vm._v(" "),
-    _c("p", [
-      _vm._v(
-        "I have the Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory."
-      )
-    ]),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Headphones")]),
-    _vm._v(" "),
-    _vm._m(10),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Earbuds")]),
-    _vm._v(" "),
-    _vm._m(11),
-    _vm._v(" "),
-    _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
-      _vm._v("Software")
-    ]),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Mobile Stuff")]),
-    _vm._v(" "),
-    _c("p", [_vm._v("Ogio Backpack")]),
-    _vm._v(" "),
-    _c("p", [_vm._v("Crumpler Messenger Bag")]),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Code Editor")]),
-    _vm._v(" "),
-    _vm._m(12),
-    _vm._v(" "),
-    _vm._m(13),
-    _vm._v(" "),
-    _vm._m(14),
-    _vm._v(" "),
-    _vm._m(15),
-    _vm._v(" "),
-    _vm._m(16),
-    _vm._v(" "),
-    _c("h2", [_vm._v("Apps I Use")]),
-    _vm._v(" "),
-    _vm._m(17)
-  ])
+  return _vm._m(0)
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("p", [
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://www.autonomous.ai/standing-desks/smartdesk-2-business?option1=1&option2=6&option16=36&option17=41",
-            target: "blank"
-          }
-        },
-        [
-          _vm._v(
-            "SmartDesk 2 Business Edition with a white frame and bamboo top"
-          )
-        ]
-      ),
-      _vm._v(
-        " from Autonomous.  Extremely sturdy.  I love that this desk sits at the exact heights I prefer for sitting and standing and it looks beautiful."
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _vm._v("I use an "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://www.autonomous.ai/office-chairs/ergonomic-chair?option20=50",
-            target: "blank"
-          }
-        },
-        [_vm._v("Ergo Chair 2 in Evergreen")]
-      ),
-      _vm._v(
-        ", also from Autonomous.  Sturdy, comfy, ergonomic, doesn't squeak.  I actually sold my Herman Miller Embody chair for this and I have zero regrets."
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://www.amazon.com/gp/product/B07GWDGVGT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1",
-            target: "blank"
-          }
-        },
-        [_vm._v("Asus VA325H 31.5-Inch LED Monitor")]
-      ),
-      _vm._v(
-        " which I bought refurbished on Amazon for under $200.  High resolution, not the best color reproduction but good for coding and watching videos.  The monitor stand I use is from Autonomous as well."
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _vm._v("I have a pair of "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href: "https://www.zzounds.com/item--MACMR824",
-            target: "blank"
-          }
-        },
-        [_vm._v("Mackie MR824 Studio Monitors")]
-      ),
-      _vm._v(", a "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href: "https://www.zzounds.com/item--MACMRS10",
-            target: "blank"
-          }
-        },
-        [_vm._v("Mackie MRS10 Powered Studio Subwoofer")]
-      ),
-      _vm._v(" and a pair of "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://www.amazon.com/Klipsch-ProMedia-Certified-Computer-Speaker/dp/B000062VUO",
-            target: "blank"
-          }
-        },
-        [_vm._v("Klipsch Promedia 2.1 Desktop Speakers")]
-      ),
-      _vm._v(
-        ".  I tested tons of studio montor speakers at Guitar Center and landed on these because the low mid and treb frequencies really stood out on the Mackie's to me.  They have a bit of color to the sound but they are very clear and punchy. I use the Klipsch 2.1 speaker set along side the Mackie's to fill out the higher mid range sound for now.  I have the subwwoofer on the Klipsch very low for a bit of top-end lower punch but the Mackie sub is handling all the low end rumble.  Eventually I want to swap out the Klipsch set for some white-face Yamaha monitors.  Likely will do a 6 inch set to drive vocals more."
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _vm._v(
-        "I run my Mackie studio monitors, sub, and Klipsch speakers through parallel outputs on my "
-      ),
-      _c(
-        "a",
-        {
-          attrs: {
-            href: "https://www.zzounds.com/item--FOCSCAR2I4V2",
-            target: "blank"
-          }
-        },
-        [_vm._v("Scarlett Focusrite 2i4 Audio Interface")]
-      ),
-      _vm._v(
-        ".  Volumes are:  Mackie sub at 100%, Mackie speakers each at 100% (all switches to normal), Klipsch sub at 20% (9 o'clock), Klipsch speakers at 80% (3 o'clock), Scarlett output dialed between 20% (9 o'clock) and 60% (1 o'clock)"
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _vm._v("Everything is hooked up to my Macbook Pro using a small simple "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://www.amazon.com/gp/product/B071G83L1J/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1",
-            target: "blank"
-          }
-        },
-        [_vm._v("Anker USB C Hub")]
-      ),
-      _vm._v(".")
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _vm._v("I am rocking a nicely spec'd out "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG",
-            target: "blank"
-          }
-        },
-        [_vm._v("Macbook Pro with Retina Display and Touchbar")]
-      ),
-      _vm._v(
-        " that I got from B&H Photo.  They had this model discounted $700 off and I had a credit card promo that gave me $500 cash back, with that and it being a tax-deduction I bought this obnoxiously expensive laptop for almost $1500 off retail.  Woot!"
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", { staticStyle: { "margin-top": "20px" } }, [
-      _c("strong", { staticStyle: { color: "grey" } }, [_vm._v("Specs:")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("ul", [
-      _c("li", [_vm._v("2.9GHz 6‑Core 8th‑Gen Intel Core i9 Processor")]),
+    return _c("div", { staticClass: "limit-width center pb-100 pink-links" }, [
+      _c("p", { staticClass: "pb-20" }, [
+        _vm._v(
+          "\n        Here are a bunch of things I use day-to-day that make my life and job easier.\n    "
+        )
+      ]),
       _vm._v(" "),
-      _c("li", [_vm._v("(Turbo Boost up to 4.8GHz)")]),
+      _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
+        _vm._v("Hardware")
+      ]),
       _vm._v(" "),
-      _c("li", [_vm._v("32GB 2400MHz DDR4 Memory")]),
+      _c("h2", [_vm._v("Desk")]),
       _vm._v(" "),
-      _c("li", [_vm._v("Radeon Pro 560X with 4GB of GDDR5 Memory")]),
+      _c("p", [
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.autonomous.ai/standing-desks/smartdesk-2-business?option1=1&option2=6&option16=36&option17=41",
+              target: "blank"
+            }
+          },
+          [
+            _vm._v(
+              "SmartDesk 2 Business Edition with a white frame and bamboo top"
+            )
+          ]
+        ),
+        _vm._v(
+          " from Autonomous.  Extremely sturdy.  I love that this desk sits at the exact heights I prefer for sitting and standing and it looks beautiful."
+        )
+      ]),
       _vm._v(" "),
-      _c("li", [_vm._v("2TB SSD Storage")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://www.bestbuy.com/site/brother-hl-l2370dw-wireless-black-and-white-printer-gray/6130042.p?skuId=6130042",
-            target: "blank"
-          }
-        },
-        [_vm._v("Brother HL-L2370DW Wireless Black-and-White Laser Printer")]
-      ),
-      _vm._v(".  Simple.  Prints stuff.")
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _vm._v("I bought a set of "),
-      _c(
-        "a",
-        { attrs: { href: "https://www.nuraphone.com/", target: "blank" } },
-        [_vm._v("Nuraphones")]
-      ),
-      _vm._v(
-        " and OMG!  These things are RIDICULOUSLY AMAZING!  The bass isn't even deep, it is PROFOUND AF!  They're so clear.  It's like sitting the perfect distance from an array of blasted high-end studio monitors at a professional studio everytime I put them on."
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _vm._v("I use the bluetooth (wireless) "),
-      _c(
-        "a",
-        {
-          attrs: {
-            href:
-              "https://www.amazon.com/Samsung-Bluetooth-Wireless-Charging-Included/dp/B07MWCNR3W/ref=sr_1_3?keywords=samsung+galaxy+buds&qid=1564951557&s=gateway&sr=8-3",
-            target: "blank"
-          }
-        },
-        [_vm._v("Samsung Galxy Buds (Black)")]
-      ),
-      _vm._v(
-        ".  These are super tiny, the charge lasts forever...  especially with the charging case they come in...  the sound quality is great.  I do wish they could go a tiny bit louder."
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", [
-      _vm._v(
-        "I was a big Sublime Text user for a few years, wound up switching to Atom for a bit...  these days I am rocking "
-      ),
-      _c(
-        "a",
-        { attrs: { href: "https://code.visualstudio.com/", target: "blank" } },
-        [_vm._v("VS Code (Visual Studio Code)")]
-      ),
-      _vm._v(
-        ".  Everyone else switched to it, so I hopped on the bandwagon.  ¯\\_(ツ)_/¯"
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", { staticStyle: { "margin-top": "20px" } }, [
-      _c("strong", { staticStyle: { color: "grey" } }, [_vm._v("Setup:")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("ul", [
-      _c("li", [
-        _vm._v("Monokai Pro "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("(Filter Spectrum) Theme")
+      _c("h2", [_vm._v("Chair")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I use an "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.autonomous.ai/office-chairs/ergonomic-chair?option20=50",
+              target: "blank"
+            }
+          },
+          [_vm._v("Ergo Chair 2 in Evergreen")]
+        ),
+        _vm._v(
+          ", also from Autonomous.  Sturdy, comfy, ergonomic, doesn't squeak.  I actually sold my Herman Miller Embody chair for this and I have zero regrets."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Monitor")]),
+      _vm._v(" "),
+      _c("p", [
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/gp/product/B07GWDGVGT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1",
+              target: "blank"
+            }
+          },
+          [_vm._v("Asus VA325H 31.5-Inch LED Monitor")]
+        ),
+        _vm._v(
+          " which I bought refurbished on Amazon for under $200.  High resolution, not the best color reproduction but good for coding and watching videos.  The monitor stand I use is from Autonomous as well."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Speakers")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I have a pair of "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "https://www.zzounds.com/item--MACMR824",
+              target: "blank"
+            }
+          },
+          [_vm._v("Mackie MR824 Studio Monitors")]
+        ),
+        _vm._v(", a "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "https://www.zzounds.com/item--MACMRS10",
+              target: "blank"
+            }
+          },
+          [_vm._v("Mackie MRS10 Powered Studio Subwoofer")]
+        ),
+        _vm._v(" and a pair of "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/Klipsch-ProMedia-Certified-Computer-Speaker/dp/B000062VUO",
+              target: "blank"
+            }
+          },
+          [_vm._v("Klipsch Promedia 2.1 Desktop Speakers")]
+        ),
+        _vm._v(
+          ".  I tested tons of studio montor speakers at Guitar Center and landed on these because the low mid and treb frequencies really stood out on the Mackie's to me.  They have a bit of color to the sound but they are very clear and punchy. I use the Klipsch 2.1 speaker set along side the Mackie's to fill out the higher mid range sound for now.  I have the subwwoofer on the Klipsch very low for a bit of top-end lower punch but the Mackie sub is handling all the low end rumble.  Eventually I want to swap out the Klipsch set for some white-face Yamaha monitors.  Likely will do a 6 inch set to drive vocals more."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Audio Interface")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I run my Mackie studio monitors, sub, and Klipsch speakers through parallel outputs on my "
+        ),
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "https://www.zzounds.com/item--FOCSCAR2I4V2",
+              target: "blank"
+            }
+          },
+          [_vm._v("Scarlett Focusrite 2i4 Audio Interface")]
+        ),
+        _vm._v(
+          ".  Volumes are:  Mackie sub at 100%, Mackie speakers each at 100% (all switches to normal), Klipsch sub at 20% (9 o'clock), Klipsch speakers at 80% (3 o'clock), Scarlett output dialed between 20% (9 o'clock) and 60% (1 o'clock)"
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Microphone")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I use an Audio Technica AT-2020 studio condenser microphone with a telescopic boom stand, shock mount and pop filter."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Hub")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Everything is hooked up to my Macbook Pro using a small simple "
+        ),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/gp/product/B071G83L1J/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1",
+              target: "blank"
+            }
+          },
+          [_vm._v("Anker USB C Hub")]
+        ),
+        _vm._v(".")
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Computer")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I am rocking a nicely spec'd out "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG",
+              target: "blank"
+            }
+          },
+          [_vm._v("Macbook Pro with Retina Display and Touchbar")]
+        ),
+        _vm._v(
+          " that I got from B&H Photo.  They had this model discounted $700 off and I had a credit card promo that gave me $500 cash back, with that and it being a tax-deduction I bought this obnoxiously expensive laptop for almost $1500 off retail.  Woot!"
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [_vm._v("Specs:")])
+      ]),
+      _vm._v(" "),
+      _c("ul", [
+        _c("li", [_vm._v("2.9GHz 6‑Core 8th‑Gen Intel Core i9 Processor")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("(Turbo Boost up to 4.8GHz)")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("32GB 2400MHz DDR4 Memory")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Radeon Pro 560X with 4GB of GDDR5 Memory")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("2TB SSD Storage")])
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Keyboard & Mouse")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "Sigh...   yes...  I spent a boatload of money on the space grey Apple Magic Keyboard and Magic Mouse 2.  I actually really like the mac keyboard and have gotten very used to it.  I've always been a fan of the magic mouse, especially for multiscreen switching."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Printer")]),
+      _vm._v(" "),
+      _c("p", [
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.bestbuy.com/site/brother-hl-l2370dw-wireless-black-and-white-printer-gray/6130042.p?skuId=6130042",
+              target: "blank"
+            }
+          },
+          [_vm._v("Brother HL-L2370DW Wireless Black-and-White Laser Printer")]
+        ),
+        _vm._v(".  Simple.  Prints stuff.")
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Phone")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I have the Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Headphones")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I bought a set of "),
+        _c(
+          "a",
+          { attrs: { href: "https://www.nuraphone.com/", target: "blank" } },
+          [_vm._v("Nuraphones")]
+        ),
+        _vm._v(
+          " and OMG!  These things are RIDICULOUSLY AMAZING!  The bass isn't even deep, it is PROFOUND AF!  They're so clear.  It's like sitting the perfect distance from an array of blasted high-end studio monitors at a professional studio everytime I put them on."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Earbuds")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("I use the bluetooth (wireless) "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/Samsung-Bluetooth-Wireless-Charging-Included/dp/B07MWCNR3W/ref=sr_1_3?keywords=samsung+galaxy+buds&qid=1564951557&s=gateway&sr=8-3",
+              target: "blank"
+            }
+          },
+          [_vm._v("Samsung Galxy Buds (Black)")]
+        ),
+        _vm._v(
+          ".  These are super tiny, the charge lasts forever...  especially with the charging case they come in...  the sound quality is great.  I do wish they could go a tiny bit louder."
+        )
+      ]),
+      _vm._v(" "),
+      _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
+        _vm._v("Software")
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Mobile Stuff")]),
+      _vm._v(" "),
+      _c("p", [_vm._v("Ogio Backpack")]),
+      _vm._v(" "),
+      _c("p", [_vm._v("Crumpler Messenger Bag")]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Code Editor")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I was a big Sublime Text user for a few years, wound up switching to Atom for a bit...  these days I am rocking "
+        ),
+        _c(
+          "a",
+          {
+            attrs: { href: "https://code.visualstudio.com/", target: "blank" }
+          },
+          [_vm._v("VS Code (Visual Studio Code)")]
+        ),
+        _vm._v(
+          ".  Everyone else switched to it, so I hopped on the bandwagon.  ¯\\_(ツ)_/¯"
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [_vm._v("Setup:")])
+      ]),
+      _vm._v(" "),
+      _c("ul", [
+        _c("li", [
+          _vm._v("Monokai Pro "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("(Filter Spectrum) Theme")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Menlo Font "),
+          _c("span", { staticClass: "little" }, [_vm._v("at 15px")])
         ])
       ]),
       _vm._v(" "),
-      _c("li", [
-        _vm._v("Menlo Font "),
-        _c("span", { staticClass: "little" }, [_vm._v("at 15px")])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("p", { staticStyle: { "margin-top": "20px" } }, [
-      _c("strong", { staticStyle: { color: "grey" } }, [_vm._v("Extensions:")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("ul", [
-      _c("li", [_vm._v("GitLens")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Image Preview")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Vetur")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Version Lens")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Prettier")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("PHP Namespace Resolver")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("PHP Intellephense")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Monokai Pro")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Material Icon Theme")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Laravel Blade Snippets")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Laravel Artisan")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("EditorConfig")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("DotENV")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("ul", [
-      _c("li", [
-        _vm._v("Google Chrome - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("My preferred browser for development and general use.")
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [
+          _vm._v("Extensions:")
         ])
       ]),
       _vm._v(" "),
-      _c("li", [
-        _vm._v("Wave Plugin - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("For making sure websites are accessible.")
-        ])
+      _c("ul", [
+        _c("li", [_vm._v("GitLens")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Image Preview")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Vetur")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Version Lens")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Prettier")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("PHP Namespace Resolver")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("PHP Intellephense")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Monokai Pro")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Material Icon Theme")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Laravel Blade Snippets")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("Laravel Artisan")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("EditorConfig")]),
+        _vm._v(" "),
+        _c("li", [_vm._v("DotENV")])
       ]),
       _vm._v(" "),
-      _c("li", [
-        _vm._v("Valet - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Part of Laravel, I use this for my local development server.")
-        ])
-      ]),
+      _c("h2", [_vm._v("Apps I Use")]),
       _vm._v(" "),
-      _c("li", [
-        _vm._v("Gmail - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v(
-            "I manage multiple accounts from a single inbox and it's great."
-          )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Spotify - "),
-        _c("span", { staticClass: "little" }, [_vm._v("For music.")])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Evernote - "),
-        _c("span", { staticClass: "little" }, [_vm._v("For taking notes.")])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("TickTick - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("My preferred todo list app.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Remembear - "),
-        _c("span", { staticClass: "little" }, [_vm._v("Password Manager.")])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("TunnelBear - "),
-        _c("span", { staticClass: "little" }, [_vm._v("VPN.")])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("VirtualBox - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v(
-            "Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions."
-          )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Slack - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("What did we do before this existed, honestly?")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("iTerm2 - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v(
-            "My terminal of choice.  I use OhMyZsh with the Agnoster config found "
-          ),
-          _c(
-            "a",
-            {
-              attrs: {
-                href:
-                  "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
-                target: "blank"
-              }
-            },
-            [_vm._v("here")]
-          ),
-          _vm._v(".")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Homebrew - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v(
-            "Amazing package manager for using command line and scripts to install apps on Mac (or Linux)."
-          )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("MacDown - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Simple Markdown editor.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Skitch - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Screenshot tool from the creators of Evernote.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Sip - "),
-        _c("span", { staticClass: "little" }, [_vm._v("Color picker tool.")])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Adobe Photoshop / Lightroom - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Graphic and photo editing.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Affinity Photo - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Starting to like/use this more than Photoshop.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Magnet - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Window positioning app.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Presonus Studio One 4 Pro - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("My DAW (Digital Audio Workstation).")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Line 6 Helix Native - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Everything for guitar sound in one VST plugin!")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Adapter - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Video / Audio conversion utility.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Backblaze - "),
-        _c("span", { staticClass: "little" }, [_vm._v("Cloud backup utility.")])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("Big Day Countdown - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("Large countdown reminders on my desktop.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("FileZilla - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v(
-            "For those times I need to secure FTP and am too lazy to commmand line it."
-          )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("ImageOptim - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v("For crushing images before using them on the web.")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("MPV - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v(
-            "My preferred video player these days.  Though I mostly use streaming services now."
-          )
-        ])
-      ]),
-      _vm._v(" "),
-      _c("li", [
-        _vm._v("TablePlus - "),
-        _c("span", { staticClass: "little" }, [
-          _vm._v(
-            "After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management."
-          )
+      _c("ul", [
+        _c("li", [
+          _vm._v("Google Chrome - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("My preferred browser for development and general use.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Wave Plugin - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("For making sure websites are accessible.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Valet - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "Part of Laravel, I use this for my local development server."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Gmail - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "I manage multiple accounts from a single inbox and it's great."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Spotify - "),
+          _c("span", { staticClass: "little" }, [_vm._v("For music.")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Evernote - "),
+          _c("span", { staticClass: "little" }, [_vm._v("For taking notes.")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("TickTick - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("My preferred todo list app.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Remembear - "),
+          _c("span", { staticClass: "little" }, [_vm._v("Password Manager.")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("TunnelBear - "),
+          _c("span", { staticClass: "little" }, [_vm._v("VPN.")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("VirtualBox - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Slack - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("What did we do before this existed, honestly?")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("iTerm2 - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "My terminal of choice.  I use OhMyZsh with the Agnoster config found "
+            ),
+            _c(
+              "a",
+              {
+                attrs: {
+                  href:
+                    "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
+                  target: "blank"
+                }
+              },
+              [_vm._v("here")]
+            ),
+            _vm._v(".")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Homebrew - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "Amazing package manager for using command line and scripts to install apps on Mac (or Linux)."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("MacDown - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Simple Markdown editor.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Skitch - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Screenshot tool from the creators of Evernote.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Sip - "),
+          _c("span", { staticClass: "little" }, [_vm._v("Color picker tool.")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Adobe Photoshop / Lightroom - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Graphic and photo editing.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Affinity Photo - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Starting to like/use this more than Photoshop.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Magnet - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Window positioning app.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Presonus Studio One 4 Pro - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("My DAW (Digital Audio Workstation).")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Line 6 Helix Native - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Everything for guitar sound in one VST plugin!")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Adapter - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Video / Audio conversion utility.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Backblaze - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Cloud backup utility.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Big Day Countdown - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Large countdown reminders on my desktop.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("FileZilla - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "For those times I need to secure FTP and am too lazy to commmand line it."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("ImageOptim - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("For crushing images before using them on the web.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("MPV - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "My preferred video player these days.  Though I mostly use streaming services now."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("TablePlus - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management."
+            )
+          ])
         ])
       ])
     ])

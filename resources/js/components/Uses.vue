@@ -5,7 +5,7 @@
             Here are a bunch of things I use day-to-day that make my life and job easier.
         </p>
 
-        <h2>Office</h2>
+        <!-- <h2>Office</h2>
         <p class="pb-20">Here's a couple (older, I will take new ones soon) photos of my home office.  I live in a one bedroom brick and timber loft with my girlfriend Karina, 3 guinea pigs (Spaghetti, Fettuccine and Lasagna) and a betta fish named Cheeto. Located between Little Village and Pilsen in Chicago, Illinois.</p>
         <div class="text-center pb-20">
             <picture>
@@ -18,7 +18,7 @@
                 <source type="image/webp" :srcset="loft2_webp" />
                 <img class="responsive" :src="loft2_jpg" alt="Loft 2" />
             </picture>
-        </div>
+        </div> -->
 
         <h1 style="color: #c8dfe6; margin-top: 100px;">Hardware</h1>
 
