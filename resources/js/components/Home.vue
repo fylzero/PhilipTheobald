@@ -12,7 +12,7 @@
 
         <br><br>
 
-        <span style="font-size: 22px;">engineer | entreprenuer | guitarist | geek</span>
+        <span style="font-size: 22px;">A software engineer, entreprenuer, guitarist and self-proclaimed nerd.</span>
 
         <br><br>
 

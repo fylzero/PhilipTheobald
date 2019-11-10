@@ -16,7 +16,7 @@
 
             <h2>Laravel</h2>
             <div class="progress-bar">
-                <div style="width: 80%;">80%</div>
+                <div style="width: 90%;">90%</div>
             </div>
             <p>
                 I am a very big fan of Laravel.  I have been learning it for a long time and hope that it becomes more adopted as a framework in the US as it is very clean and simple to work with.
@@ -24,15 +24,15 @@
 
             <h2>Vue.js</h2>
             <div class="progress-bar">
-                <div style="width: 30%;">30%</div>
+                <div style="width: 70%;">70%</div>
             </div>
             <p>
-                I've also started learning Vue.js recently.  I would say I am currently a bit more focused on react but I definitely think Vue.js is just as valuable for me to learn.
+                I've been working with Vue.js everyday for the last 6+ months.  I've really come to appreciate how powerful it is as a frontend framework.
             </p>
 
             <h2>MySQL</h2>
             <div class="progress-bar">
-                <div style="width: 60%;">60%</div>
+                <div style="width: 70%;">70%</div>
             </div>
             <p>
                 I've used MySQL almost exclusively for creating databases in the apps that I've built.  I have a general understanding of indexing and creating performant queries.
@@ -40,7 +40,7 @@
 
             <h2>JavaScript</h2>
             <div class="progress-bar">
-                <div style="width: 80%;">80%</div>
+                <div style="width: 60%;">60%</div>
             </div>
             <p>
                 Fairly strong with JavaScript.  There is certainly a lot to know and I sometimes struggle with exactly what to reach for but am very good at figuring out how to solve puzzles and make cool things that work.
@@ -48,7 +48,7 @@
 
             <h2>jQuery</h2>
             <div class="progress-bar">
-                <div style="width: 95%;">95%</div>
+                <div style="width: 90%;">90%</div>
             </div>
             <p>
                 I actually learned jQuery in much more depth before I started learning JavaScript.  I would say jQuery is one of my strongest skills.
@@ -64,7 +64,7 @@
 
             <h2>HTML5</h2>
             <div class="progress-bar">
-                <div style="width: 80%;">80%</div>
+                <div style="width: 90%;">90%</div>
             </div>
             <p>
                 I have a solid understanding of writing semantic HTML and creating document foundations that are accessible and make heirarchical sense.

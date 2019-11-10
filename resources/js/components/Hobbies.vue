@@ -45,21 +45,16 @@
                 </picture>
             </div>
             <br />
-            <p>My third/current motorcycle is a 2015 Triumph America 899cc.</p>
+            <p>My third motorcycle was a 2015 Triumph America 899cc.</p>
             <div className='center'>
                 <picture>
                     <source type="image/webp" :srcset="bike3_webp" />
                     <img class="responsive" :src="bike3_jpg" alt="Motorcycle 3" />
                 </picture>
             </div>
-            <br />
-            <p>I also currently own a 2019 RadMini E-Bike which I use to communte to work on as often as I can.</p>
-            <div className='center'>
-                <picture>
-                    <source type="image/webp" :srcset="radmini_webp" />
-                    <img class="responsive" :src="radmini_jpg" alt="RadMini" />
-                </picture>
-            </div>
+
+            <h2>Biking</h2>
+            <p>I currently own a Trek Shift 3 bicycle which I use to communte to work on as often as I can.</p>
 
             <h2>Sleeping</h2>
             <p>I have been battling with severe sleep apnea for years so I take my rest very seriously.</p>

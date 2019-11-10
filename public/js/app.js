@@ -11655,11 +11655,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['dark'],
   data: function data() {
@@ -31236,9 +31231,7 @@ var render = function() {
     _vm._v(" "),
     _c("br"),
     _vm._v(" "),
-    _c("p", [
-      _vm._v("My third/current motorcycle is a 2015 Triumph America 899cc.")
-    ]),
+    _c("p", [_vm._v("My third motorcycle was a 2015 Triumph America 899cc.")]),
     _vm._v(" "),
     _c("div", { attrs: { className: "center" } }, [
       _c("picture", [
@@ -31251,25 +31244,12 @@ var render = function() {
       ])
     ]),
     _vm._v(" "),
-    _c("br"),
+    _c("h2", [_vm._v("Biking")]),
     _vm._v(" "),
     _c("p", [
       _vm._v(
-        "I also currently own a 2019 RadMini E-Bike which I use to communte to work on as often as I can."
+        "I currently own a Trek Shift 3 bicycle which I use to communte to work on as often as I can."
       )
-    ]),
-    _vm._v(" "),
-    _c("div", { attrs: { className: "center" } }, [
-      _c("picture", [
-        _c("source", {
-          attrs: { type: "image/webp", srcset: _vm.radmini_webp }
-        }),
-        _vm._v(" "),
-        _c("img", {
-          staticClass: "responsive",
-          attrs: { src: _vm.radmini_jpg, alt: "RadMini" }
-        })
-      ])
     ]),
     _vm._v(" "),
     _c("h2", [_vm._v("Sleeping")]),
@@ -31402,7 +31382,9 @@ var render = function() {
     _c("br"),
     _vm._v(" "),
     _c("span", { staticStyle: { "font-size": "22px" } }, [
-      _vm._v("engineer | entreprenuer | guitarist | geek")
+      _vm._v(
+        "A software engineer, entreprenuer, guitarist and self-proclaimed nerd."
+      )
     ]),
     _vm._v(" "),
     _c("br"),
@@ -32046,7 +32028,7 @@ var render = function() {
       _vm._v(" "),
       _c("p", [
         _vm._v(
-          "\n            I've also started learning Vue.js recently.  I would say I am currently a bit more focused on react but I definitely think Vue.js is just as valuable for me to learn.\n        "
+          "\n            I've been working with Vue.js everyday for the last 6+ months.  I've really come to appreciate how powerful it is as a frontend framework.\n        "
         )
       ]),
       _vm._v(" "),
@@ -32450,7 +32432,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "progress-bar" }, [
-      _c("div", { staticStyle: { width: "80%" } }, [_vm._v("80%")])
+      _c("div", { staticStyle: { width: "90%" } }, [_vm._v("90%")])
     ])
   },
   function() {
@@ -32458,7 +32440,15 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "progress-bar" }, [
-      _c("div", { staticStyle: { width: "30%" } }, [_vm._v("30%")])
+      _c("div", { staticStyle: { width: "70%" } }, [_vm._v("70%")])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "progress-bar" }, [
+      _c("div", { staticStyle: { width: "70%" } }, [_vm._v("70%")])
     ])
   },
   function() {
@@ -32474,15 +32464,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "progress-bar" }, [
-      _c("div", { staticStyle: { width: "80%" } }, [_vm._v("80%")])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "progress-bar" }, [
-      _c("div", { staticStyle: { width: "95%" } }, [_vm._v("95%")])
+      _c("div", { staticStyle: { width: "90%" } }, [_vm._v("90%")])
     ])
   },
   function() {
@@ -32498,7 +32480,7 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "progress-bar" }, [
-      _c("div", { staticStyle: { width: "80%" } }, [_vm._v("80%")])
+      _c("div", { staticStyle: { width: "90%" } }, [_vm._v("90%")])
     ])
   },
   function() {
