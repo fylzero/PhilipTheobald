@@ -20,7 +20,9 @@
             </picture>
         </div> -->
 
-        <h1 style="color: #c8dfe6; margin-top: 100px;">Hardware</h1>
+        <div class="text-center">
+            <h1 style="color: #c8dfe6; margin-top: 100px;">Hardware</h1>
+        </div>
 
         <h2>Desk</h2>
         <p><a href="https://www.autonomous.ai/standing-desks/smartdesk-2-business?option1=1&option2=6&option16=36&option17=41" target="blank">SmartDesk 2 Business Edition with a white frame and bamboo top</a> from Autonomous.  Extremely sturdy.  I love that this desk sits at the exact heights I prefer for sitting and standing and it looks beautiful.</p>
@@ -69,7 +71,11 @@
         <h2>Earbuds</h2>
         <p>I use the bluetooth (wireless) <a href="https://www.amazon.com/Samsung-Bluetooth-Wireless-Charging-Included/dp/B07MWCNR3W/ref=sr_1_3?keywords=samsung+galaxy+buds&qid=1564951557&s=gateway&sr=8-3" target="blank">Samsung Galxy Buds (Black)</a>.  These are super tiny, the charge lasts forever...  especially with the charging case they come in...  the sound quality is great.  I do wish they could go a tiny bit louder.</p>
 
-        <h1 style="color: #c8dfe6; margin-top: 100px;">Software</h1>
+
+
+        <div class="text-center">
+            <h1 style="color: #c8dfe6; margin-top: 100px;">Software</h1>
+        </div>
 
         <h2>Mobile Stuff</h2>
         <p>Ogio Backpack</p>
@@ -82,12 +88,13 @@
             <li>Monokai Pro <span class="little">(Filter Spectrum) Theme</span></li>
             <li>Menlo Font <span class="little">at 15px</span></li>
         </ul>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Extensions:</strong></p>
+        <p style="margin-top: 20px;"><strong style="color: grey;">VS Code Extensions:</strong></p>
         <ul>
             <li>EditorConfig</li>
             <li>GitLens</li>
             <li>Image Preview</li>
             <li>Laravel Extension Pack - <span class="little">This installs 5 amazing extensions for Laravel development.</span></li>
+            <li>Markdown Preview Enhanced - <span class="little">View markdown in VS Code.  I use the Monokai theme on this.</span></li>
             <li>Material Icon Theme</li>
             <li>Monokai Pro</li>
             <li>NativeScript</li>
@@ -101,40 +108,56 @@
         </ul>
 
         <h2>Apps I Use</h2>
+        <p style="margin-top: 20px;"><strong style="color: grey;">Coding:</strong></p>
         <ul>
-            <li>Adapter - <span class="little">Video / Audio conversion utility.</span></li>
-            <li>Adobe Photoshop / Lightroom - <span class="little">Graphic and photo editing.</span></li>
             <li>Android Studio - <span class="little">Perfect for emulating android phones for testing.</span></li>
-            <li>Affinity Photo - <span class="little">Starting to like/use this more than Photoshop.</span></li>
-            <li>Backblaze - <span class="little">Cloud backup utility.</span></li>
-            <li>Big Day Countdown - <span class="little">Large countdown reminders on my desktop.</span></li>
             <li>Color Note - <span class="little">Color picker tool.  Replaced Sip with this a while back.</span></li>
-            <li>Evernote - <span class="little">For taking notes.</span></li>
             <li>FileZilla - <span class="little">For those times I need to secure FTP and am too lazy to commmand line it.</span></li>
-            <li>Gmail - <span class="little">I manage multiple accounts from a single inbox and it's great.</span></li>
-            <li>Google Chrome - <span class="little">My preferred browser for development and general use.</span></li>
-            <li>Homebrew - <span class="little">Amazing package manager for using command line and scripts to install apps on Mac (or Linux).</span></li>
             <li>ImageOptim - <span class="little">For crushing images before using them on the web.</span></li>
             <li>iTerm2 - <span class="little">My terminal of choice.  I use OhMyZsh with the Agnoster config found <a href="https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb" target="blank">here</a>.</span></li>
-            <li>Line 6 Helix Native - <span class="little">Everything for guitar sound in one VST plugin!</span></li>
-            <li>LibreOffice - <span class="little">I prefer this to Microsoft Office.</span></li>
-            <li>MacDown - <span class="little">Simple Markdown editor.</span></li>
-            <li>Magnet - <span class="little">Window positioning app.</span></li>
-            <li>MPV - <span class="little">My preferred video player these days.  Though I mostly use streaming services now.</span></li>
-            <li>Presonus Studio One 4 Pro - <span class="little">My DAW (Digital Audio Workstation).</span></li>
-            <li>Plex Media Server - <span class="little">I use Plex to serve saved mp4 movies/videos to my Apple TV.</span></li>
-            <li>Remembear - <span class="little">Password Manager.</span></li>
-            <li>Rocket - <span class="little">Text shortcuts to create emojis while typing.</span></li>
-            <li>Skitch - <span class="little">Screenshot tool from the creators of Evernote.</span></li>
-            <li>Slack - <span class="little">What did we do before this existed, honestly?</span></li>
-            <li>Spotify - <span class="little">For music.</span></li>
+            <li>Laravel Valet - <span class="little">Best way to server sites locally imho.</span></li>
             <li>TablePlus - <span class="little">After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management.</span></li>
-            <li>TickTick - <span class="little">My preferred todo list app.</span></li>
-            <li>TunnelBear - <span class="little">VPN.</span></li>
-            <li>Valet - <span class="little">Part of Laravel, I use this for my local development server.</span></li>
             <li>VirtualBox - <span class="little">Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions.</span></li>
             <li>Wave Plugin - <span class="little">For making sure websites are accessible.</span></li>
             <li>Xcode - <span class="little">Mac developer utility.  Good for simulating iPhones and iPads.  Filemerge is also useful for comparing file changes.</span></li>
+        </ul>
+        <p style="margin-top: 20px;"><strong style="color: grey;">Audio Production:</strong></p>
+        <ul>
+            <li>Line 6 Helix Native - <span class="little">Everything for guitar sound in one VST plugin!</span></li>
+            <li>Presonus Studio One 4 Pro - <span class="little">My DAW (Digital Audio Workstation).</span></li>
+        </ul>
+        <p style="margin-top: 20px;"><strong style="color: grey;">Utilities:</strong></p>
+        <ul>
+            <li>Backblaze - <span class="little">Cloud backup utility.</span></li>
+            <li>Homebrew - <span class="little">Amazing package manager for using command line and scripts to install apps on Mac (or Linux).</span></li>
+            <li>Magnet - <span class="little">Window positioning app.</span></li>
+            <li>Remembear - <span class="little">Password Manager.</span></li>
+            <li>Rocket - <span class="little">Text shortcuts to create emojis while typing.</span></li>
+            <li>TunnelBear - <span class="little">VPN.</span></li>
+        </ul>
+        <p style="margin-top: 20px;"><strong style="color: grey;">Communication:</strong></p>
+        <ul>
+            <li>Gmail - <span class="little">I manage multiple accounts from a single inbox and it's great.</span></li>
+            <li>Slack - <span class="little">What did we do before this existed, honestly?</span></li>
+        </ul>
+        <p style="margin-top: 20px;"><strong style="color: grey;">Audio / Video / Photo:</strong></p>
+        <ul>
+            <li>Adapter - <span class="little">Video / Audio conversion utility.</span></li>
+            <li>Adobe Photoshop / Lightroom - <span class="little">Graphic and photo editing.</span></li>
+            <li>Affinity Photo - <span class="little">Starting to like/use this more than Photoshop.</span></li>
+            <li>MPV - <span class="little">My preferred video player these days.  Though I mostly use streaming services now.</span></li>
+            <li>Plex Media Server - <span class="little">I use Plex to serve saved mp4 movies/videos to my Apple TV.</span></li>
+            <li>Skitch - <span class="little">Screenshot tool from the creators of Evernote.</span></li>
+            <li>Spotify - <span class="little">For music.</span></li>
+        </ul>
+        <p style="margin-top: 20px;"><strong style="color: grey;">Productivity:</strong></p>
+        <ul>
+            <li>Big Day Countdown - <span class="little">Large countdown reminders on my desktop.</span></li>
+            <li>Evernote - <span class="little">For taking notes.</span></li>
+            <li>Google Chrome - <span class="little">My preferred browser for development and general use.</span></li>
+            <li>LibreOffice - <span class="little">I prefer this to Microsoft Office.</span></li>
+            <li>MacDown - <span class="little">Simple Markdown editor.</span></li>
+            <li>TickTick - <span class="little">My preferred todo list app.</span></li>
         </ul>
 
     </div>

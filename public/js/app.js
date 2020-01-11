@@ -12632,6 +12632,29 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['dark'],
   data: function data() {
@@ -32708,8 +32731,10 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
-      _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
-        _vm._v("Hardware")
+      _c("div", { staticClass: "text-center" }, [
+        _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
+          _vm._v("Hardware")
+        ])
       ]),
       _vm._v(" "),
       _c("h2", [_vm._v("Desk")]),
@@ -32952,8 +32977,10 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
-      _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
-        _vm._v("Software")
+      _c("div", { staticClass: "text-center" }, [
+        _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
+          _vm._v("Software")
+        ])
       ]),
       _vm._v(" "),
       _c("h2", [_vm._v("Mobile Stuff")]),
@@ -33000,7 +33027,7 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("p", { staticStyle: { "margin-top": "20px" } }, [
         _c("strong", { staticStyle: { color: "grey" } }, [
-          _vm._v("Extensions:")
+          _vm._v("VS Code Extensions:")
         ])
       ]),
       _vm._v(" "),
@@ -33016,6 +33043,15 @@ var staticRenderFns = [
           _c("span", { staticClass: "little" }, [
             _vm._v(
               "This installs 5 amazing extensions for Laravel development."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Markdown Preview Enhanced - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "View markdown in VS Code.  I use the Monokai theme on this."
             )
           ])
         ]),
@@ -33048,46 +33084,15 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("h2", [_vm._v("Apps I Use")]),
       _vm._v(" "),
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [_vm._v("Coding:")])
+      ]),
+      _vm._v(" "),
       _c("ul", [
-        _c("li", [
-          _vm._v("Adapter - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Video / Audio conversion utility.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Adobe Photoshop / Lightroom - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Graphic and photo editing.")
-          ])
-        ]),
-        _vm._v(" "),
         _c("li", [
           _vm._v("Android Studio - "),
           _c("span", { staticClass: "little" }, [
             _vm._v("Perfect for emulating android phones for testing.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Affinity Photo - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Starting to like/use this more than Photoshop.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Backblaze - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Cloud backup utility.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Big Day Countdown - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Large countdown reminders on my desktop.")
           ])
         ]),
         _vm._v(" "),
@@ -33099,40 +33104,10 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("li", [
-          _vm._v("Evernote - "),
-          _c("span", { staticClass: "little" }, [_vm._v("For taking notes.")])
-        ]),
-        _vm._v(" "),
-        _c("li", [
           _vm._v("FileZilla - "),
           _c("span", { staticClass: "little" }, [
             _vm._v(
               "For those times I need to secure FTP and am too lazy to commmand line it."
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Gmail - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v(
-              "I manage multiple accounts from a single inbox and it's great."
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Google Chrome - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("My preferred browser for development and general use.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Homebrew - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v(
-              "Amazing package manager for using command line and scripts to install apps on Mac (or Linux)."
             )
           ])
         ]),
@@ -33166,87 +33141,10 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("li", [
-          _vm._v("Line 6 Helix Native - "),
+          _vm._v("Laravel Valet - "),
           _c("span", { staticClass: "little" }, [
-            _vm._v("Everything for guitar sound in one VST plugin!")
+            _vm._v("Best way to server sites locally imho.")
           ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("LibreOffice - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("I prefer this to Microsoft Office.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("MacDown - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Simple Markdown editor.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Magnet - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Window positioning app.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("MPV - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v(
-              "My preferred video player these days.  Though I mostly use streaming services now."
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Presonus Studio One 4 Pro - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("My DAW (Digital Audio Workstation).")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Plex Media Server - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v(
-              "I use Plex to serve saved mp4 movies/videos to my Apple TV."
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Remembear - "),
-          _c("span", { staticClass: "little" }, [_vm._v("Password Manager.")])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Rocket - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Text shortcuts to create emojis while typing.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Skitch - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("Screenshot tool from the creators of Evernote.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Slack - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("What did we do before this existed, honestly?")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Spotify - "),
-          _c("span", { staticClass: "little" }, [_vm._v("For music.")])
         ]),
         _vm._v(" "),
         _c("li", [
@@ -33254,27 +33152,6 @@ var staticRenderFns = [
           _c("span", { staticClass: "little" }, [
             _vm._v(
               "After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management."
-            )
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("TickTick - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("My preferred todo list app.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("TunnelBear - "),
-          _c("span", { staticClass: "little" }, [_vm._v("VPN.")])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("Valet - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v(
-              "Part of Laravel, I use this for my local development server."
             )
           ])
         ]),
@@ -33301,6 +33178,205 @@ var staticRenderFns = [
             _vm._v(
               "Mac developer utility.  Good for simulating iPhones and iPads.  Filemerge is also useful for comparing file changes."
             )
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [
+          _vm._v("Audio Production:")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("ul", [
+        _c("li", [
+          _vm._v("Line 6 Helix Native - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Everything for guitar sound in one VST plugin!")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Presonus Studio One 4 Pro - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("My DAW (Digital Audio Workstation).")
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [_vm._v("Utilities:")])
+      ]),
+      _vm._v(" "),
+      _c("ul", [
+        _c("li", [
+          _vm._v("Backblaze - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Cloud backup utility.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Homebrew - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "Amazing package manager for using command line and scripts to install apps on Mac (or Linux)."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Magnet - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Window positioning app.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Remembear - "),
+          _c("span", { staticClass: "little" }, [_vm._v("Password Manager.")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Rocket - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Text shortcuts to create emojis while typing.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("TunnelBear - "),
+          _c("span", { staticClass: "little" }, [_vm._v("VPN.")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [
+          _vm._v("Communication:")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("ul", [
+        _c("li", [
+          _vm._v("Gmail - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "I manage multiple accounts from a single inbox and it's great."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Slack - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("What did we do before this existed, honestly?")
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [
+          _vm._v("Audio / Video / Photo:")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("ul", [
+        _c("li", [
+          _vm._v("Adapter - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Video / Audio conversion utility.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Adobe Photoshop / Lightroom - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Graphic and photo editing.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Affinity Photo - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Starting to like/use this more than Photoshop.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("MPV - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "My preferred video player these days.  Though I mostly use streaming services now."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Plex Media Server - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v(
+              "I use Plex to serve saved mp4 movies/videos to my Apple TV."
+            )
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Skitch - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Screenshot tool from the creators of Evernote.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Spotify - "),
+          _c("span", { staticClass: "little" }, [_vm._v("For music.")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("p", { staticStyle: { "margin-top": "20px" } }, [
+        _c("strong", { staticStyle: { color: "grey" } }, [
+          _vm._v("Productivity:")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("ul", [
+        _c("li", [
+          _vm._v("Big Day Countdown - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Large countdown reminders on my desktop.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Evernote - "),
+          _c("span", { staticClass: "little" }, [_vm._v("For taking notes.")])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("Google Chrome - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("My preferred browser for development and general use.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("LibreOffice - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("I prefer this to Microsoft Office.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("MacDown - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("Simple Markdown editor.")
+          ])
+        ]),
+        _vm._v(" "),
+        _c("li", [
+          _vm._v("TickTick - "),
+          _c("span", { staticClass: "little" }, [
+            _vm._v("My preferred todo list app.")
           ])
         ])
       ])
