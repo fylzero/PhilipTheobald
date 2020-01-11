@@ -51,10 +51,10 @@
             <img :src="dark ? mysqldark_png : mysqllight_png" alt="MySQL" class="skill-badge" />
         </picture>
 
-        <picture>
+        <!-- <picture>
             <source type="image/webp" :srcset="react_webp" />
             <img :src="react_png" alt="React" class="skill-badge" />
-        </picture>
+        </picture> -->
 
     </div>
 </template>

@@ -16,34 +16,26 @@
 
             <h2>Laravel</h2>
             <div class="progress-bar">
-                <div style="width: 90%;">90%</div>
+                <div style="width: 95%;">95%</div>
             </div>
             <p>
-                I am a very big fan of Laravel.  I have been learning it for a long time and hope that it becomes more adopted as a framework in the US as it is very clean and simple to work with.
+                I have been learning Laravel since version 4 and have been working with it professionally since mid 2019.  I am on the <a href="https://laracasts.com/discuss/leaderboard" target="blank">Laracasts Top-50 Leaderboard</a> (as "fylzero").
             </p>
 
             <h2>Vue.js</h2>
             <div class="progress-bar">
-                <div style="width: 70%;">70%</div>
+                <div style="width: 80%;">80%</div>
             </div>
             <p>
-                I've been working with Vue.js everyday for the last 6+ months.  I've really come to appreciate how powerful it is as a frontend framework.
+                Currently my go-to frontend framework.  I'm a huge fan of Vue.
             </p>
 
-            <h2>MySQL</h2>
+            <h2>MySQL / SQLite</h2>
             <div class="progress-bar">
                 <div style="width: 70%;">70%</div>
             </div>
             <p>
-                I've used MySQL almost exclusively for creating databases in the apps that I've built.  I have a general understanding of indexing and creating performant queries.
-            </p>
-
-            <h2>JavaScript</h2>
-            <div class="progress-bar">
-                <div style="width: 60%;">60%</div>
-            </div>
-            <p>
-                Fairly strong with JavaScript.  There is certainly a lot to know and I sometimes struggle with exactly what to reach for but am very good at figuring out how to solve puzzles and make cool things that work.
+                I've used MySQL almost exclusively for creating databases in the apps that I've built.  I have a general understanding of indexing and creating performant queries.  Though, working in Laravel, I mostly use Eloquent ORM these days.
             </p>
 
             <h2>jQuery</h2>
@@ -54,14 +46,6 @@
                 I actually learned jQuery in much more depth before I started learning JavaScript.  I would say jQuery is one of my strongest skills.
             </p>
 
-            <h2>React.js</h2>
-            <div class="progress-bar">
-                <div style="width: 20%;">20%</div>
-            </div>
-            <p>
-                I've only been working with React for the last 6 months on a limited basis.  Definitely at the top of my list of technology skills I want to absolutely master in the next few years.
-            </p>
-
             <h2>HTML5</h2>
             <div class="progress-bar">
                 <div style="width: 90%;">90%</div>
@@ -70,44 +54,36 @@
                 I have a solid understanding of writing semantic HTML and creating document foundations that are accessible and make heirarchical sense.
             </p>
 
-            <h2>CSS3</h2>
+            <h2>CSS3 / SCSS</h2>
             <div class="progress-bar">
                 <div style="width: 90%;">90%</div>
             </div>
             <p>
-                I have a very strong understanding of CSS3, including implementing complex grid and flex layouts.  I am very familiar with solving specificity issues.  I typically write in BEM style.
+                I have a very strong understanding of CSS3, including implementing complex grid and flex layouts.  I am very familiar with solving specificity issues.  I typically write in BEM style.  I am also very good at leveraging SCSS to organize larger projects into utility imports and breaking things into ITCSS target layers.
             </p>
 
-            <h2>SCSS</h2>
+            <h2>JavaScript</h2>
             <div class="progress-bar">
-                <div style="width: 80%;">80%</div>
+                <div style="width: 60%;">60%</div>
             </div>
             <p>
-                I am very good at leveraging SCSS to organize larger projects into utility imports and breaking things into ITCSS target layers.
+                Fairly strong with JavaScript.  There is certainly a lot to know and I sometimes struggle with exactly what to reach for but am very good at figuring out how to solve puzzles and make cool things that work.
             </p>
 
             <h2>PHP</h2>
             <div class="progress-bar">
-                <div style="width: 50%;">50%</div>
+                <div style="width: 40%;">40%</div>
             </div>
             <p>
                 I've built several vanilla PHP applications over the last 8 years or so.
             </p>
 
-            <h2>Node.js</h2>
+            <h2>Other Languages</h2>
             <div class="progress-bar">
                 <div style="width: 10%;">10%</div>
             </div>
             <p>
-                Very little experience with Node.js but have started looking at it more and more recently.
-            </p>
-
-            <h2>Python</h2>
-            <div class="progress-bar">
-                <div style="width: 5%;">5%</div>
-            </div>
-            <p>
-                I have almost no Python experience but am listing it as I am interested to learn more about it.
+                I know a bit of Python, Node.js and React.js but not worth mentioning as they aren't my core stacks these days.  I may get into Node more as time goes on.
             </p>
 
         </div>

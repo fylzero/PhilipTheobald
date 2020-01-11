@@ -32,10 +32,10 @@
         <p><a href="https://www.amazon.com/gp/product/B07GWDGVGT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1" target="blank">Asus VA325H 31.5-Inch LED Monitor</a> which I bought refurbished on Amazon for under $200.  High resolution, not the best color reproduction but good for coding and watching videos.  The monitor stand I use is from Autonomous as well.</p>
 
         <h2>Speakers</h2>
-        <p>I have a pair of <a href="https://www.zzounds.com/item--MACMR824" target="blank">Mackie MR824 Studio Monitors</a>, a <a href="https://www.zzounds.com/item--MACMRS10" target="blank">Mackie MRS10 Powered Studio Subwoofer</a> and a pair of <a href="https://www.amazon.com/Klipsch-ProMedia-Certified-Computer-Speaker/dp/B000062VUO" target="blank">Klipsch Promedia 2.1 Desktop Speakers</a>.  I tested tons of studio montor speakers at Guitar Center and landed on these because the low mid and treb frequencies really stood out on the Mackie's to me.  They have a bit of color to the sound but they are very clear and punchy. I use the Klipsch 2.1 speaker set along side the Mackie's to fill out the higher mid range sound for now.  I have the subwwoofer on the Klipsch very low for a bit of top-end lower punch but the Mackie sub is handling all the low end rumble.  Eventually I want to swap out the Klipsch set for some white-face Yamaha monitors.  Likely will do a 6 inch set to drive vocals more.</p>
+        <p>I have a pair of <a href="https://www.zzounds.com/item--MACMR824" target="blank">Mackie MR824 Studio Monitors</a> and a <a href="https://www.zzounds.com/item--MACMRS10" target="blank">Mackie MRS10 Powered Studio Subwoofer</a>.  I tested tons of studio montor speakers at Guitar Center and landed on these because the low mid and treb frequencies really stood out on the Mackie's to me.  They have a bit of color to the sound but they are very clear and punchy.</p>
 
         <h2>Audio Interface</h2>
-        <p>I run my Mackie studio monitors, sub, and Klipsch speakers through parallel outputs on my <a href="https://www.zzounds.com/item--FOCSCAR2I4V2" target="blank">Scarlett Focusrite 2i4 Audio Interface</a>.  Volumes are:  Mackie sub at 100%, Mackie speakers each at 100% (all switches to normal), Klipsch sub at 20% (9 o'clock), Klipsch speakers at 80% (3 o'clock), Scarlett output dialed between 20% (9 o'clock) and 60% (1 o'clock)</p>
+        <p>I run the Mackie studio monitors and sub off of my <a href="https://www.zzounds.com/item--FOCSCAR2I4V2" target="blank">Scarlett Focusrite 2i4 Audio Interface</a>.</p>
 
         <h2>Microphone</h2>
         <p>I use an Audio Technica AT-2020 studio condenser microphone with a telescopic boom stand, shock mount and pop filter.</p>
@@ -64,7 +64,7 @@
         <p>I have the Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory.</p>
 
         <h2>Headphones</h2>
-        <p>I bought a set of <a href="https://www.nuraphone.com/" target="blank">Nuraphones</a> and OMG!  These things are RIDICULOUSLY AMAZING!  The bass isn't even deep, it is PROFOUND AF!  They're so clear.  It's like sitting the perfect distance from an array of blasted high-end studio monitors at a professional studio everytime I put them on.</p>
+        <p>I bought a set of <a href="https://www.nuraphone.com/" target="blank">Nuraphones</a> and OMG!  These things are RIDICULOUSLY AMAZING!  The bass isn't even deep, it is PROFOUND!  They are so clear.  It's like sitting the perfect distance from an array of blasted high-end studio monitors at a professional studio everytime I put them on.</p>
 
         <h2>Earbuds</h2>
         <p>I use the bluetooth (wireless) <a href="https://www.amazon.com/Samsung-Bluetooth-Wireless-Charging-Included/dp/B07MWCNR3W/ref=sr_1_3?keywords=samsung+galaxy+buds&qid=1564951557&s=gateway&sr=8-3" target="blank">Samsung Galxy Buds (Black)</a>.  These are super tiny, the charge lasts forever...  especially with the charging case they come in...  the sound quality is great.  I do wish they could go a tiny bit louder.</p>
@@ -84,51 +84,57 @@
         </ul>
         <p style="margin-top: 20px;"><strong style="color: grey;">Extensions:</strong></p>
         <ul>
+            <li>EditorConfig</li>
             <li>GitLens</li>
             <li>Image Preview</li>
-            <li>Vetur</li>
-            <li>Version Lens</li>
-            <li>Prettier</li>
-            <li>PHP Namespace Resolver</li>
-            <li>PHP Intellephense</li>
-            <li>Monokai Pro</li>
+            <li>Laravel Extension Pack - <span class="little">This installs 5 amazing extensions for Laravel development.</span></li>
             <li>Material Icon Theme</li>
-            <li>Laravel Blade Snippets</li>
-            <li>Laravel Artisan</li>
-            <li>EditorConfig</li>
-            <li>DotENV</li>
+            <li>Monokai Pro</li>
+            <li>NativeScript</li>
+            <li>PHP Debug</li>
+            <li>PHP Intellephense</li>
+            <li>PHP Namespace Resolver</li>
+            <li>Prettier</li>
+            <li>Tailwind CSS IntelliSense</li>
+            <li>Version Lens - <span class="little">I don't know what I did before I knew of this.</span></li>
+            <li>Vetur</li>
         </ul>
 
         <h2>Apps I Use</h2>
         <ul>
-            <li>Google Chrome - <span class="little">My preferred browser for development and general use.</span></li>
-            <li>Wave Plugin - <span class="little">For making sure websites are accessible.</span></li>
-            <li>Valet - <span class="little">Part of Laravel, I use this for my local development server.</span></li>
-            <li>Gmail - <span class="little">I manage multiple accounts from a single inbox and it's great.</span></li>
-            <li>Spotify - <span class="little">For music.</span></li>
-            <li>Evernote - <span class="little">For taking notes.</span></li>
-            <li>TickTick - <span class="little">My preferred todo list app.</span></li>
-            <li>Remembear - <span class="little">Password Manager.</span></li>
-            <li>TunnelBear - <span class="little">VPN.</span></li>
-            <li>VirtualBox - <span class="little">Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions.</span></li>
-            <li>Slack - <span class="little">What did we do before this existed, honestly?</span></li>
-            <li>iTerm2 - <span class="little">My terminal of choice.  I use OhMyZsh with the Agnoster config found <a href="https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb" target="blank">here</a>.</span></li>
-            <li>Homebrew - <span class="little">Amazing package manager for using command line and scripts to install apps on Mac (or Linux).</span></li>
-            <li>MacDown - <span class="little">Simple Markdown editor.</span></li>
-            <li>Skitch - <span class="little">Screenshot tool from the creators of Evernote.</span></li>
-            <li>Sip - <span class="little">Color picker tool.</span></li>
-            <li>Adobe Photoshop / Lightroom - <span class="little">Graphic and photo editing.</span></li>
-            <li>Affinity Photo - <span class="little">Starting to like/use this more than Photoshop.</span></li>
-            <li>Magnet - <span class="little">Window positioning app.</span></li>
-            <li>Presonus Studio One 4 Pro - <span class="little">My DAW (Digital Audio Workstation).</span></li>
-            <li>Line 6 Helix Native - <span class="little">Everything for guitar sound in one VST plugin!</span></li>
             <li>Adapter - <span class="little">Video / Audio conversion utility.</span></li>
+            <li>Adobe Photoshop / Lightroom - <span class="little">Graphic and photo editing.</span></li>
+            <li>Android Studio - <span class="little">Perfect for emulating android phones for testing.</span></li>
+            <li>Affinity Photo - <span class="little">Starting to like/use this more than Photoshop.</span></li>
             <li>Backblaze - <span class="little">Cloud backup utility.</span></li>
             <li>Big Day Countdown - <span class="little">Large countdown reminders on my desktop.</span></li>
+            <li>Color Note - <span class="little">Color picker tool.  Replaced Sip with this a while back.</span></li>
+            <li>Evernote - <span class="little">For taking notes.</span></li>
             <li>FileZilla - <span class="little">For those times I need to secure FTP and am too lazy to commmand line it.</span></li>
+            <li>Gmail - <span class="little">I manage multiple accounts from a single inbox and it's great.</span></li>
+            <li>Google Chrome - <span class="little">My preferred browser for development and general use.</span></li>
+            <li>Homebrew - <span class="little">Amazing package manager for using command line and scripts to install apps on Mac (or Linux).</span></li>
             <li>ImageOptim - <span class="little">For crushing images before using them on the web.</span></li>
+            <li>iTerm2 - <span class="little">My terminal of choice.  I use OhMyZsh with the Agnoster config found <a href="https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb" target="blank">here</a>.</span></li>
+            <li>Line 6 Helix Native - <span class="little">Everything for guitar sound in one VST plugin!</span></li>
+            <li>LibreOffice - <span class="little">I prefer this to Microsoft Office.</span></li>
+            <li>MacDown - <span class="little">Simple Markdown editor.</span></li>
+            <li>Magnet - <span class="little">Window positioning app.</span></li>
             <li>MPV - <span class="little">My preferred video player these days.  Though I mostly use streaming services now.</span></li>
+            <li>Presonus Studio One 4 Pro - <span class="little">My DAW (Digital Audio Workstation).</span></li>
+            <li>Plex Media Server - <span class="little">I use Plex to serve saved mp4 movies/videos to my Apple TV.</span></li>
+            <li>Remembear - <span class="little">Password Manager.</span></li>
+            <li>Rocket - <span class="little">Text shortcuts to create emojis while typing.</span></li>
+            <li>Skitch - <span class="little">Screenshot tool from the creators of Evernote.</span></li>
+            <li>Slack - <span class="little">What did we do before this existed, honestly?</span></li>
+            <li>Spotify - <span class="little">For music.</span></li>
             <li>TablePlus - <span class="little">After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management.</span></li>
+            <li>TickTick - <span class="little">My preferred todo list app.</span></li>
+            <li>TunnelBear - <span class="little">VPN.</span></li>
+            <li>Valet - <span class="little">Part of Laravel, I use this for my local development server.</span></li>
+            <li>VirtualBox - <span class="little">Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions.</span></li>
+            <li>Wave Plugin - <span class="little">For making sure websites are accessible.</span></li>
+            <li>Xcode - <span class="little">Mac developer utility.  Good for simulating iPhones and iPads.  Filemerge is also useful for comparing file changes.</span></li>
         </ul>
 
     </div>
