@@ -47,19 +47,25 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/monitor.webp" />
-                <img src="/img/png/monitor.jpg" alt="Asus VA325H 31.5-Inch LED Monitor" class="rounded" />
+                <img src="/img/jpg/monitor.jpg" alt="Asus VA325H 31.5-Inch LED Monitor" class="rounded" />
             </picture>
         </div>
 
         <h2>Speakers</h2>
         <p>I have a pair of <a href="https://www.zzounds.com/item--MACMR824" target="blank">Mackie MR824 Studio Monitors</a> and a <a href="https://www.zzounds.com/item--MACMRS10" target="blank">Mackie MRS10 Powered Studio Subwoofer</a>.  I tested tons of studio montor speakers at Guitar Center and landed on these because the low mid and treb frequencies really stood out on the Mackie's to me.  They have a bit of color to the sound but they are very clear and punchy.</p>
+        <div class="text-center">
+            <picture>
+                <source type="image/webp" srcset="/img/webp/speakers.webp" />
+                <img src="/img/png/speakers.png" alt="Mackie MR824 Studio Monitors and a Mackie MRS10 Powered Studio Subwoofer" class="rounded" />
+            </picture>
+        </div>
 
         <h2>Audio Interface</h2>
         <p>I run the Mackie studio monitors and sub off of my <a href="https://www.zzounds.com/item--FOCSCAR2I4V2" target="blank">Scarlett Focusrite 2i4 Audio Interface</a>.</p>
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/interface.webp" />
-                <img src="/img/png/interface.jpg" alt="Scarlett Focusrite 2i4 Audio Interface" class="rounded" />
+                <img src="/img/jpg/interface.jpg" alt="Scarlett Focusrite 2i4 Audio Interface" class="rounded" />
             </picture>
         </div>
 
@@ -68,7 +74,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/mic.webp" />
-                <img src="/img/png/mic.jpg" alt="Audio Technica AT-2020 studio condenser microphone" class="rounded" />
+                <img src="/img/jpg/mic.jpg" alt="Audio Technica AT-2020 studio condenser microphone" class="rounded" />
             </picture>
         </div>
 
@@ -77,7 +83,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/hub.webp" />
-                <img src="/img/png/hub.jpg" alt="Anker USB C Hub" class="rounded" />
+                <img src="/img/jpg/hub.jpg" alt="Anker USB C Hub" class="rounded" />
             </picture>
         </div>
 
@@ -94,7 +100,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/mac.webp" />
-                <img src="/img/png/mac.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" />
+                <img src="/img/jpg/mac.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" />
             </picture>
         </div>
 
@@ -103,7 +109,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/kb-mouse.webp" />
-                <img src="/img/png/kb-mouse.jpg" alt='Space Grey Apple Magic Keyboard and Magic Mouse 2' class="rounded" />
+                <img src="/img/jpg/kb-mouse.jpg" alt='Space Grey Apple Magic Keyboard and Magic Mouse 2' class="rounded" />
             </picture>
         </div>
 
@@ -112,7 +118,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/printer.webp" />
-                <img src="/img/png/printer.jpg" alt="Brother HL-L2370DW Wireless Black-and-White Laser Printer" class="rounded" />
+                <img src="/img/jpg/printer.jpg" alt="Brother HL-L2370DW Wireless Black-and-White Laser Printer" class="rounded" />
             </picture>
         </div>
 
@@ -121,7 +127,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/s10-plus.webp" />
-                <img src="/img/png/s10-plus.jpg" alt="Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory" class="rounded" />
+                <img src="/img/jpg/s10-plus.jpg" alt="Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory" class="rounded" />
             </picture>
         </div>
 
@@ -130,7 +136,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/nura.webp" />
-                <img src="/img/png/nura.jpg" alt="Nuraphones Headphones" class="rounded" />
+                <img src="/img/jpg/nura.jpg" alt="Nuraphones Headphones" class="rounded" />
             </picture>
         </div>
 
@@ -139,7 +145,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/buds.webp" />
-                <img src="/img/png/buds.jpg" alt="Samsung Galxy Buds (Black)" class="rounded" />
+                <img src="/img/jpg/buds.jpg" alt="Samsung Galxy Buds (Black)" class="rounded" />
             </picture>
         </div>
 
@@ -148,7 +154,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/ogio-renegade-rss.webp" />
-                <img src="/img/png/ogio-renegade-rss.jpg" alt="Ogio Renegade RSS Backpack" class="rounded" />
+                <img src="/img/jpg/ogio-renegade-rss.jpg" alt="Ogio Renegade RSS Backpack" class="rounded" />
             </picture>
         </div>
 
@@ -157,7 +163,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/crumpler-skivvy-m.webp" />
-                <img src="/img/png/crumpler-skivvy-m.jpg" alt="Crumpler Skivvy (M) Messenger Laptop Bag - Orange" class="rounded" />
+                <img src="/img/jpg/crumpler-skivvy-m.jpg" alt="Crumpler Skivvy (M) Messenger Laptop Bag - Orange" class="rounded" />
             </picture>
         </div>
 

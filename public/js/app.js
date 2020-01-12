@@ -12756,6 +12756,12 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['dark'],
   data: function data() {
@@ -32942,7 +32948,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/monitor.jpg",
+              src: "/img/jpg/monitor.jpg",
               alt: "Asus VA325H 31.5-Inch LED Monitor"
             }
           })
@@ -32979,6 +32985,23 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/speakers.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/speakers.png",
+              alt:
+                "Mackie MR824 Studio Monitors and a Mackie MRS10 Powered Studio Subwoofer"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Audio Interface")]),
       _vm._v(" "),
       _c("p", [
@@ -33005,7 +33028,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/interface.jpg",
+              src: "/img/jpg/interface.jpg",
               alt: "Scarlett Focusrite 2i4 Audio Interface"
             }
           })
@@ -33029,7 +33052,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/mic.jpg",
+              src: "/img/jpg/mic.jpg",
               alt: "Audio Technica AT-2020 studio condenser microphone"
             }
           })
@@ -33064,7 +33087,7 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
-            attrs: { src: "/img/png/hub.jpg", alt: "Anker USB C Hub" }
+            attrs: { src: "/img/jpg/hub.jpg", alt: "Anker USB C Hub" }
           })
         ])
       ]),
@@ -33114,7 +33137,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/mac.jpg",
+              src: "/img/jpg/mac.jpg",
               alt: 'mid-2018 15" Macbook Pro with Retina Display and Touchbar'
             }
           })
@@ -33138,7 +33161,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/kb-mouse.jpg",
+              src: "/img/jpg/kb-mouse.jpg",
               alt: "Space Grey Apple Magic Keyboard and Magic Mouse 2"
             }
           })
@@ -33171,7 +33194,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/printer.jpg",
+              src: "/img/jpg/printer.jpg",
               alt: "Brother HL-L2370DW Wireless Black-and-White Laser Printer"
             }
           })
@@ -33195,7 +33218,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/s10-plus.jpg",
+              src: "/img/jpg/s10-plus.jpg",
               alt:
                 "Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory"
             }
@@ -33225,7 +33248,7 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
-            attrs: { src: "/img/png/nura.jpg", alt: "Nuraphones Headphones" }
+            attrs: { src: "/img/jpg/nura.jpg", alt: "Nuraphones Headphones" }
           })
         ])
       ]),
@@ -33259,7 +33282,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/buds.jpg",
+              src: "/img/jpg/buds.jpg",
               alt: "Samsung Galxy Buds (Black)"
             }
           })
@@ -33282,7 +33305,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/ogio-renegade-rss.jpg",
+              src: "/img/jpg/ogio-renegade-rss.jpg",
               alt: "Ogio Renegade RSS Backpack"
             }
           })
@@ -33305,7 +33328,7 @@ var staticRenderFns = [
           _c("img", {
             staticClass: "rounded",
             attrs: {
-              src: "/img/png/crumpler-skivvy-m.jpg",
+              src: "/img/jpg/crumpler-skivvy-m.jpg",
               alt: "Crumpler Skivvy (M) Messenger Laptop Bag - Orange"
             }
           })
