@@ -14,31 +14,31 @@
             app
         >
             <v-list>
-                <v-list-tile v-ripple :to="'/'" @click="primaryDrawer.model = false">
+                <v-list-tile v-ripple :to="'/'" @click="primaryDrawer.model = (viewWidth < 600) ? false : true">
                     <v-list-tile-action><v-icon>home</v-icon></v-list-tile-action>
                     <v-list-tile-content><v-list-tile-title>Home</v-list-tile-title></v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile v-ripple :to="'/about'" @click="primaryDrawer.model = false">
+                <v-list-tile v-ripple :to="'/about'" @click="primaryDrawer.model = (viewWidth < 600) ? false : true">
                     <v-list-tile-action><v-icon>face</v-icon></v-list-tile-action>
                     <v-list-tile-content><v-list-tile-title>About</v-list-tile-title></v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile v-ripple :to="'/uses'" @click="primaryDrawer.model = false">
+                <v-list-tile v-ripple :to="'/uses'" @click="primaryDrawer.model = (viewWidth < 600) ? false : true">
                     <v-list-tile-action><v-icon>computer</v-icon></v-list-tile-action>
                     <v-list-tile-content><v-list-tile-title>Uses</v-list-tile-title></v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile v-ripple :to="'/skills'" @click="primaryDrawer.model = false">
+                <v-list-tile v-ripple :to="'/skills'" @click="primaryDrawer.model = (viewWidth < 600) ? false : true">
                     <v-list-tile-action><v-icon>build</v-icon></v-list-tile-action>
                     <v-list-tile-content><v-list-tile-title>Skills</v-list-tile-title></v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile v-ripple :to="'/hobbies'" @click="primaryDrawer.model = false">
+                <v-list-tile v-ripple :to="'/hobbies'" @click="primaryDrawer.model = (viewWidth < 600) ? false : true">
                     <v-list-tile-action><v-icon>directions_bike</v-icon></v-list-tile-action>
                     <v-list-tile-content><v-list-tile-title>Hobbies</v-list-tile-title></v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile v-ripple :to="'/companies'" @click="primaryDrawer.model = false">
+                <v-list-tile v-ripple :to="'/companies'" @click="primaryDrawer.model = (viewWidth < 600) ? false : true">
                     <v-list-tile-action><v-icon>domain</v-icon></v-list-tile-action>
                     <v-list-tile-content><v-list-tile-title>Companies</v-list-tile-title></v-list-tile-content>
                 </v-list-tile>
-                <v-list-tile v-ripple :to="'/contact'" @click="primaryDrawer.model = false">
+                <v-list-tile v-ripple :to="'/contact'" @click="primaryDrawer.model = (viewWidth < 600) ? false : true">
                     <v-list-tile-action><v-icon>email</v-icon></v-list-tile-action>
                     <v-list-tile-content><v-list-tile-title>Contact</v-list-tile-title></v-list-tile-content>
                 </v-list-tile>
@@ -116,6 +116,7 @@
 export default {
     data() {
         return {
+            viewWidth: window.innerWidth,
             dark: true,
             drawers: ["Default (no property)"],
             primaryDrawer: {

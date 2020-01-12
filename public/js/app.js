@@ -12152,6 +12152,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
+      viewWidth: window.innerWidth,
       dark: true,
       drawers: ["Default (no property)"],
       primaryDrawer: {
@@ -31893,7 +31894,8 @@ var render = function() {
                   attrs: { to: "/" },
                   on: {
                     click: function($event) {
-                      _vm.primaryDrawer.model = false
+                      _vm.primaryDrawer.model =
+                        _vm.viewWidth < 600 ? false : true
                     }
                   }
                 },
@@ -31916,7 +31918,8 @@ var render = function() {
                   attrs: { to: "/about" },
                   on: {
                     click: function($event) {
-                      _vm.primaryDrawer.model = false
+                      _vm.primaryDrawer.model =
+                        _vm.viewWidth < 600 ? false : true
                     }
                   }
                 },
@@ -31939,7 +31942,8 @@ var render = function() {
                   attrs: { to: "/uses" },
                   on: {
                     click: function($event) {
-                      _vm.primaryDrawer.model = false
+                      _vm.primaryDrawer.model =
+                        _vm.viewWidth < 600 ? false : true
                     }
                   }
                 },
@@ -31966,7 +31970,8 @@ var render = function() {
                   attrs: { to: "/skills" },
                   on: {
                     click: function($event) {
-                      _vm.primaryDrawer.model = false
+                      _vm.primaryDrawer.model =
+                        _vm.viewWidth < 600 ? false : true
                     }
                   }
                 },
@@ -31993,7 +31998,8 @@ var render = function() {
                   attrs: { to: "/hobbies" },
                   on: {
                     click: function($event) {
-                      _vm.primaryDrawer.model = false
+                      _vm.primaryDrawer.model =
+                        _vm.viewWidth < 600 ? false : true
                     }
                   }
                 },
@@ -32020,7 +32026,8 @@ var render = function() {
                   attrs: { to: "/companies" },
                   on: {
                     click: function($event) {
-                      _vm.primaryDrawer.model = false
+                      _vm.primaryDrawer.model =
+                        _vm.viewWidth < 600 ? false : true
                     }
                   }
                 },
@@ -32047,7 +32054,8 @@ var render = function() {
                   attrs: { to: "/contact" },
                   on: {
                     click: function($event) {
-                      _vm.primaryDrawer.model = false
+                      _vm.primaryDrawer.model =
+                        _vm.viewWidth < 600 ? false : true
                     }
                   }
                 },
