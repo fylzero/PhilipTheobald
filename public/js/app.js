@@ -12655,6 +12655,107 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['dark'],
   data: function data() {
@@ -32760,6 +32861,23 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/desk.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/desk.png",
+              alt:
+                " AutonomousSmartDesk 2 Business Edition with a white frame and bamboo top"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Chair")]),
       _vm._v(" "),
       _c("p", [
@@ -32780,6 +32898,22 @@ var staticRenderFns = [
         )
       ]),
       _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/chair.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/chair.png",
+              alt: "Autonomous Ergo Chair 2 in Evergreen"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Monitor")]),
       _vm._v(" "),
       _c("p", [
@@ -32797,6 +32931,22 @@ var staticRenderFns = [
         _vm._v(
           " which I bought refurbished on Amazon for under $200.  High resolution, not the best color reproduction but good for coding and watching videos.  The monitor stand I use is from Autonomous as well."
         )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/monitor.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/monitor.jpg",
+              alt: "Asus VA325H 31.5-Inch LED Monitor"
+            }
+          })
+        ])
       ]),
       _vm._v(" "),
       _c("h2", [_vm._v("Speakers")]),
@@ -32846,12 +32996,44 @@ var staticRenderFns = [
         _vm._v(".")
       ]),
       _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/interface.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/interface.jpg",
+              alt: "Scarlett Focusrite 2i4 Audio Interface"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Microphone")]),
       _vm._v(" "),
       _c("p", [
         _vm._v(
           "I use an Audio Technica AT-2020 studio condenser microphone with a telescopic boom stand, shock mount and pop filter."
         )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/mic.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/mic.jpg",
+              alt: "Audio Technica AT-2020 studio condenser microphone"
+            }
+          })
+        ])
       ]),
       _vm._v(" "),
       _c("h2", [_vm._v("Hub")]),
@@ -32874,6 +33056,19 @@ var staticRenderFns = [
         _vm._v(".")
       ]),
       _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/hub.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: { src: "/img/png/hub.jpg", alt: "Anker USB C Hub" }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Computer")]),
       _vm._v(" "),
       _c("p", [
@@ -32887,7 +33082,7 @@ var staticRenderFns = [
               target: "blank"
             }
           },
-          [_vm._v("Macbook Pro with Retina Display and Touchbar")]
+          [_vm._v('mid-2018 15" Macbook Pro with Retina Display and Touchbar')]
         ),
         _vm._v(
           " that I got from B&H Photo.  They had this model discounted $700 off and I had a credit card promo that gave me $500 cash back, with that and it being a tax-deduction I bought this obnoxiously expensive laptop for almost $1500 off retail.  Woot!"
@@ -32910,12 +33105,44 @@ var staticRenderFns = [
         _c("li", [_vm._v("2TB SSD Storage")])
       ]),
       _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/mac.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/mac.jpg",
+              alt: 'mid-2018 15" Macbook Pro with Retina Display and Touchbar'
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Keyboard & Mouse")]),
       _vm._v(" "),
       _c("p", [
         _vm._v(
           "Sigh...   yes...  I spent a boatload of money on the space grey Apple Magic Keyboard and Magic Mouse 2.  I actually really like the mac keyboard and have gotten very used to it.  I've always been a fan of the magic mouse, especially for multiscreen switching."
         )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/kb-mouse.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/kb-mouse.jpg",
+              alt: "Space Grey Apple Magic Keyboard and Magic Mouse 2"
+            }
+          })
+        ])
       ]),
       _vm._v(" "),
       _c("h2", [_vm._v("Printer")]),
@@ -32935,12 +33162,45 @@ var staticRenderFns = [
         _vm._v(".  Simple.  Prints stuff.")
       ]),
       _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/printer.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/printer.jpg",
+              alt: "Brother HL-L2370DW Wireless Black-and-White Laser Printer"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Phone")]),
       _vm._v(" "),
       _c("p", [
         _vm._v(
           "I have the Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory."
         )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/s10-plus.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/s10-plus.jpg",
+              alt:
+                "Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory"
+            }
+          })
+        ])
       ]),
       _vm._v(" "),
       _c("h2", [_vm._v("Headphones")]),
@@ -32955,6 +33215,19 @@ var staticRenderFns = [
         _vm._v(
           " and OMG!  These things are RIDICULOUSLY AMAZING!  The bass isn't even deep, it is PROFOUND!  They are so clear.  It's like sitting the perfect distance from an array of blasted high-end studio monitors at a professional studio everytime I put them on."
         )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/nura.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: { src: "/img/png/nura.jpg", alt: "Nuraphones Headphones" }
+          })
+        ])
       ]),
       _vm._v(" "),
       _c("h2", [_vm._v("Earbuds")]),
@@ -32978,16 +33251,72 @@ var staticRenderFns = [
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/buds.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/buds.jpg",
+              alt: "Samsung Galxy Buds (Black)"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Backpack")]),
+      _vm._v(" "),
+      _c("p", [_vm._v("Ogio Renegade RSS Backpack")]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/ogio-renegade-rss.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/ogio-renegade-rss.jpg",
+              alt: "Ogio Renegade RSS Backpack"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Messenger Bag")]),
+      _vm._v(" "),
+      _c("p", [_vm._v("Crumpler Skivvy (M) Messenger Laptop Bag - Orange")]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/crumpler-skivvy-m.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: {
+              src: "/img/png/crumpler-skivvy-m.jpg",
+              alt: "Crumpler Skivvy (M) Messenger Laptop Bag - Orange"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
         _c("h1", { staticStyle: { color: "#c8dfe6", "margin-top": "100px" } }, [
           _vm._v("Software")
         ])
       ]),
-      _vm._v(" "),
-      _c("h2", [_vm._v("Mobile Stuff")]),
-      _vm._v(" "),
-      _c("p", [_vm._v("Ogio Backpack")]),
-      _vm._v(" "),
-      _c("p", [_vm._v("Crumpler Messenger Bag")]),
       _vm._v(" "),
       _c("h2", [_vm._v("Code Editor")]),
       _vm._v(" "),
@@ -33005,6 +33334,20 @@ var staticRenderFns = [
         _vm._v(
           ".  Everyone else switched to it, so I hopped on the bandwagon.  ¯\\_(ツ)_/¯"
         )
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/vs-code.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            staticStyle: { width: "100%", height: "auto" },
+            attrs: { src: "/img/png/vs-code.png", alt: "VS Code Editor" }
+          })
+        ])
       ]),
       _vm._v(" "),
       _c("p", { staticStyle: { "margin-top": "20px" } }, [
@@ -33082,6 +33425,40 @@ var staticRenderFns = [
         _c("li", [_vm._v("Vetur")])
       ]),
       _vm._v(" "),
+      _c("h2", [_vm._v("Terminal")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "iTerm2 is my terminal of choice.  I use OhMyZsh with the Agnoster config found "
+        ),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
+              target: "blank"
+            }
+          },
+          [_vm._v("here")]
+        ),
+        _vm._v(".")
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/iterm.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            staticStyle: { width: "100%", height: "auto" },
+            attrs: { src: "/img/png/iterm.png", alt: "iTerm2 Terminal" }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Apps I Use")]),
       _vm._v(" "),
       _c("p", { staticStyle: { "margin-top": "20px" } }, [
@@ -33116,27 +33493,6 @@ var staticRenderFns = [
           _vm._v("ImageOptim - "),
           _c("span", { staticClass: "little" }, [
             _vm._v("For crushing images before using them on the web.")
-          ])
-        ]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("iTerm2 - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v(
-              "My terminal of choice.  I use OhMyZsh with the Agnoster config found "
-            ),
-            _c(
-              "a",
-              {
-                attrs: {
-                  href:
-                    "https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb",
-                  target: "blank"
-                }
-              },
-              [_vm._v("here")]
-            ),
-            _vm._v(".")
           ])
         ]),
         _vm._v(" "),

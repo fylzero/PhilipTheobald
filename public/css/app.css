@@ -34,6 +34,10 @@ body {
   font-size: 16px;
 }
 
+.rounded {
+  border-radius: 6px;
+}
+
 #sandbox.theme--light h2 {
   color: #3f51b5;
 }
