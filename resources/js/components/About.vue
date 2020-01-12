@@ -1,5 +1,12 @@
 <template>
     <div class="limit-width center pb-100 pink-links">
+        <div class="text-center">
+            <picture>
+                <source type="image/webp" srcset="/img/webp/me.webp" />
+                <img src="/img/jpg/me.jpg" alt="Me" class="rounded" />
+            </picture>
+        </div>
+
         <p class="pb-20">I am a full-stack web developer specializing in Laravel, Vue and WordPress.</p>
         <p class="pb-20">I loved science as a kid.  I wrote my first HTML page in 1996.</p>
         <p class="pb-20">As a teenager, I enjoyed learning about and building computers.  I watched the movie Hackers more times than I care to admit.  I dropped out of high school.  Got my GED.  I was offered a full scholarship to college.  Dropped out of college.  I became A+ certified and worked in computer hardware and networking jobs for the better part of my 20s.</p>

@@ -11703,6 +11703,13 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: ['dark'],
   mounted: function mounted() {
@@ -11722,6 +11729,27 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -31131,6 +31159,19 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "limit-width center pb-100 pink-links" }, [
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/me.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            attrs: { src: "/img/jpg/me.jpg", alt: "Me" }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("p", { staticClass: "pb-20" }, [
         _vm._v(
           "I am a full-stack web developer specializing in Laravel, Vue and WordPress."
@@ -31212,6 +31253,13 @@ var render = function() {
     _c("br"),
     _c("br"),
     _vm._v(" "),
+    _c("h1", [_vm._v("I Haz Money")]),
+    _vm._v(" "),
+    _vm._m(0),
+    _vm._v(" "),
+    _c("br"),
+    _c("br"),
+    _vm._v(" "),
     _c("picture", [
       _c("source", {
         attrs: {
@@ -31228,11 +31276,7 @@ var render = function() {
       })
     ]),
     _vm._v(" "),
-    _c("div", [
-      _vm._v(
-        "In 2009 I was working for a company specializing in grocery store point-of-sale register systems.  Back when I started working for them, they did not have a CRM system in place.  So, for my own sanity, I built one and it eventually was adopted company-wide as their system of choice for managing support calls.  I have since been working on building this out into a commercial system and have branded this system as DeskNinja LLC."
-      )
-    ]),
+    _vm._m(1),
     _vm._v(" "),
     _c("br"),
     _c("br"),
@@ -31253,11 +31297,7 @@ var render = function() {
       })
     ]),
     _vm._v(" "),
-    _c("div", [
-      _vm._v(
-        "I think most web developers tend to do side-projects.  I do a lot of small side projects, mostly Wordpress/Divi builds for professionals and small businesses looking to build their presence online.  RazorKode LLC is a digital marketing agency I created for the side projects I do."
-      )
-    ]),
+    _vm._m(2),
     _vm._v(" "),
     _c("br"),
     _c("br"),
@@ -31278,14 +31318,79 @@ var render = function() {
       })
     ]),
     _vm._v(" "),
-    _c("div", [
-      _vm._v(
-        "I manage quite a bit of hosting both for RazorKode and other various projects.  RazorVPS is a DBA business under RazorKode that I use to offer VPS hosting services to my clients."
-      )
-    ])
+    _vm._m(3)
   ])
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _vm._v(
+        "\n        My latest project is a budgeting saas app to simplify and assist in the creation of a basic budget.\n        "
+      ),
+      _c("br"),
+      _vm._v(" "),
+      _c(
+        "a",
+        { attrs: { href: "https://www.ihazmoney.com", target: "blank" } },
+        [_vm._v("www.ihazmoney.com")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _vm._v(
+        "\n        In 2009 I was working for a company specializing in grocery store point-of-sale register systems.  Back when I started working for them, they did not have a CRM system in place.  So, for my own sanity, I built one and it eventually was adopted company-wide as their system of choice for managing support calls.  I have since been working on building this out into a commercial system and have branded this system as DeskNinja LLC.\n        "
+      ),
+      _c("br"),
+      _vm._v(" "),
+      _c(
+        "a",
+        { attrs: { href: "https://www.deskninja.com", target: "blank" } },
+        [_vm._v("www.deskninja.com")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _vm._v(
+        "\n        I think most web developers tend to do side-projects.  I do a lot of small side projects, mostly Wordpress/Divi builds for professionals and small businesses looking to build their presence online.  RazorKode LLC is a digital marketing agency I created for the side projects I do.\n        "
+      ),
+      _c("br"),
+      _vm._v(" "),
+      _c(
+        "a",
+        { attrs: { href: "https://www.razorkode.com", target: "blank" } },
+        [_vm._v("www.razorkode.com")]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _vm._v(
+        "\n        I manage quite a bit of hosting both for RazorKode and other various projects.  RazorVPS is a DBA business under RazorKode that I use to offer VPS hosting services to my clients.\n        "
+      ),
+      _c("br"),
+      _vm._v(" "),
+      _c(
+        "a",
+        { attrs: { href: "https://www.razorvps.com", target: "blank" } },
+        [_vm._v("www.razorvps.com")]
+      )
+    ])
+  }
+]
 render._withStripped = true
 
 

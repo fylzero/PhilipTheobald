@@ -3,29 +3,50 @@
 
         <h2>Companies That I've Started</h2>
 
-        <br /><br />
+        <br><br>
+
+        <h1>I Haz Money</h1>
+        <div>
+            My latest project is a budgeting saas app to simplify and assist in the creation of a basic budget.
+            <br>
+            <a href="https://www.ihazmoney.com" target="blank">www.ihazmoney.com</a>
+        </div>
+
+        <br><br>
 
         <picture>
             <source type="image/webp" :srcset="dark ? deskninjadark_webp : deskninjalight_webp" />
             <img :src="dark ? deskninjadark_png : deskninjalight_png" alt="DeskNinja" />
         </picture>
-        <div>In 2009 I was working for a company specializing in grocery store point-of-sale register systems.  Back when I started working for them, they did not have a CRM system in place.  So, for my own sanity, I built one and it eventually was adopted company-wide as their system of choice for managing support calls.  I have since been working on building this out into a commercial system and have branded this system as DeskNinja LLC.</div>
+        <div>
+            In 2009 I was working for a company specializing in grocery store point-of-sale register systems.  Back when I started working for them, they did not have a CRM system in place.  So, for my own sanity, I built one and it eventually was adopted company-wide as their system of choice for managing support calls.  I have since been working on building this out into a commercial system and have branded this system as DeskNinja LLC.
+            <br>
+            <a href="https://www.deskninja.com" target="blank">www.deskninja.com</a>
+        </div>
 
-        <br /><br />
+        <br><br>
 
         <picture>
             <source type="image/webp" :srcset="dark ? razorkodedark_webp : razorkodelight_webp" />
             <img :src="dark ? razorkodedark_png : razorkodelight_png" alt="RazorKode" />
         </picture>
-        <div>I think most web developers tend to do side-projects.  I do a lot of small side projects, mostly Wordpress/Divi builds for professionals and small businesses looking to build their presence online.  RazorKode LLC is a digital marketing agency I created for the side projects I do.</div>
+        <div>
+            I think most web developers tend to do side-projects.  I do a lot of small side projects, mostly Wordpress/Divi builds for professionals and small businesses looking to build their presence online.  RazorKode LLC is a digital marketing agency I created for the side projects I do.
+            <br>
+            <a href="https://www.razorkode.com" target="blank">www.razorkode.com</a>
+        </div>
 
-        <br /><br />
+        <br><br>
 
         <picture>
             <source type="image/webp" :srcset="dark ? razorvpsdark_webp : razorvpslight_webp" />
             <img :src="dark ? razorvpsdark_png : razorvpslight_png" alt="RazorVPS" />
         </picture>
-        <div>I manage quite a bit of hosting both for RazorKode and other various projects.  RazorVPS is a DBA business under RazorKode that I use to offer VPS hosting services to my clients.</div>
+        <div>
+            I manage quite a bit of hosting both for RazorKode and other various projects.  RazorVPS is a DBA business under RazorKode that I use to offer VPS hosting services to my clients.
+            <br>
+            <a href="https://www.razorvps.com" target="blank">www.razorvps.com</a>
+        </div>
 
     </div>
 </template>
