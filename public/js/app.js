@@ -33710,7 +33710,7 @@ var staticRenderFns = [
         _c("li", [
           _vm._v("Laravel Valet - "),
           _c("span", { staticClass: "little" }, [
-            _vm._v("Best way to server sites locally imho.")
+            _vm._v("Best way to serve sites locally imho.")
           ])
         ]),
         _vm._v(" "),
@@ -75741,8 +75741,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/fyl/Google Drive/_code/_valet/PhilipTheobald/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/fyl/Google Drive/_code/_valet/PhilipTheobald/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/philiptheobald/Code/Valet/PhilipTheobald/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/philiptheobald/Code/Valet/PhilipTheobald/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
