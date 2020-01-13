@@ -222,7 +222,7 @@
             <li>Color Note - <span class="little">Color picker tool.  Replaced Sip with this a while back.</span></li>
             <li>FileZilla - <span class="little">For those times I need to secure FTP and am too lazy to commmand line it.</span></li>
             <li>ImageOptim - <span class="little">For crushing images before using them on the web.</span></li>
-            <li>Laravel Valet - <span class="little">Best way to server sites locally imho.</span></li>
+            <li>Laravel Valet - <span class="little">Best way to serve sites locally imho.</span></li>
             <li>TablePlus - <span class="little">After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management.</span></li>
             <li>VirtualBox - <span class="little">Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions.</span></li>
             <li>Wave Plugin - <span class="little">For making sure websites are accessible.</span></li>
