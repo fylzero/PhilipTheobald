@@ -32988,6 +32988,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/png/desk.png",
               alt:
@@ -33025,6 +33030,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/png/chair.png",
               alt: "Autonomous Ergo Chair 2 in Evergreen"
@@ -33060,6 +33070,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/monitor.jpg",
               alt: "Asus VA325H 31.5-Inch LED Monitor"
@@ -33106,6 +33121,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/png/speakers.png",
               alt:
@@ -33140,6 +33160,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/interface.jpg",
               alt: "Scarlett Focusrite 2i4 Audio Interface"
@@ -33164,6 +33189,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/mic.jpg",
               alt: "Audio Technica AT-2020 studio condenser microphone"
@@ -33200,6 +33230,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: { src: "/img/jpg/hub.jpg", alt: "Anker USB C Hub" }
           })
         ])
@@ -33249,6 +33284,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/mac.jpg",
               alt: 'mid-2018 15" Macbook Pro with Retina Display and Touchbar'
@@ -33273,6 +33313,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/kb-mouse.jpg",
               alt: "Space Grey Apple Magic Keyboard and Magic Mouse 2"
@@ -33306,6 +33351,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/printer.jpg",
               alt: "Brother HL-L2370DW Wireless Black-and-White Laser Printer"
@@ -33330,6 +33380,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/s10-plus.jpg",
               alt:
@@ -33361,6 +33416,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: { src: "/img/jpg/nura.jpg", alt: "Nuraphones Headphones" }
           })
         ])
@@ -33394,6 +33454,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/buds.jpg",
               alt: "Samsung Galxy Buds (Black)"
@@ -33417,6 +33482,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/ogio-renegade-rss.jpg",
               alt: "Ogio Renegade RSS Backpack"
@@ -33440,6 +33510,11 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("img", {
             staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
             attrs: {
               src: "/img/jpg/crumpler-skivvy-m.jpg",
               alt: "Crumpler Skivvy (M) Messenger Laptop Bag - Orange"

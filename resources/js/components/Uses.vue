@@ -29,7 +29,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/desk.webp" />
-                <img src="/img/png/desk.png" alt=" AutonomousSmartDesk 2 Business Edition with a white frame and bamboo top" class="rounded" />
+                <img src="/img/png/desk.png" alt=" AutonomousSmartDesk 2 Business Edition with a white frame and bamboo top" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -38,7 +38,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/chair.webp" />
-                <img src="/img/png/chair.png" alt="Autonomous Ergo Chair 2 in Evergreen" class="rounded" />
+                <img src="/img/png/chair.png" alt="Autonomous Ergo Chair 2 in Evergreen" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -47,7 +47,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/monitor.webp" />
-                <img src="/img/jpg/monitor.jpg" alt="Asus VA325H 31.5-Inch LED Monitor" class="rounded" />
+                <img src="/img/jpg/monitor.jpg" alt="Asus VA325H 31.5-Inch LED Monitor" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -56,7 +56,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/speakers.webp" />
-                <img src="/img/png/speakers.png" alt="Mackie MR824 Studio Monitors and a Mackie MRS10 Powered Studio Subwoofer" class="rounded" />
+                <img src="/img/png/speakers.png" alt="Mackie MR824 Studio Monitors and a Mackie MRS10 Powered Studio Subwoofer" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -65,7 +65,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/interface.webp" />
-                <img src="/img/jpg/interface.jpg" alt="Scarlett Focusrite 2i4 Audio Interface" class="rounded" />
+                <img src="/img/jpg/interface.jpg" alt="Scarlett Focusrite 2i4 Audio Interface" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -74,7 +74,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/mic.webp" />
-                <img src="/img/jpg/mic.jpg" alt="Audio Technica AT-2020 studio condenser microphone" class="rounded" />
+                <img src="/img/jpg/mic.jpg" alt="Audio Technica AT-2020 studio condenser microphone" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -83,7 +83,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/hub.webp" />
-                <img src="/img/jpg/hub.jpg" alt="Anker USB C Hub" class="rounded" />
+                <img src="/img/jpg/hub.jpg" alt="Anker USB C Hub" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -100,7 +100,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/mac.webp" />
-                <img src="/img/jpg/mac.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" />
+                <img src="/img/jpg/mac.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -109,7 +109,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/kb-mouse.webp" />
-                <img src="/img/jpg/kb-mouse.jpg" alt='Space Grey Apple Magic Keyboard and Magic Mouse 2' class="rounded" />
+                <img src="/img/jpg/kb-mouse.jpg" alt='Space Grey Apple Magic Keyboard and Magic Mouse 2' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -118,7 +118,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/printer.webp" />
-                <img src="/img/jpg/printer.jpg" alt="Brother HL-L2370DW Wireless Black-and-White Laser Printer" class="rounded" />
+                <img src="/img/jpg/printer.jpg" alt="Brother HL-L2370DW Wireless Black-and-White Laser Printer" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -127,7 +127,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/s10-plus.webp" />
-                <img src="/img/jpg/s10-plus.jpg" alt="Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory" class="rounded" />
+                <img src="/img/jpg/s10-plus.jpg" alt="Samsung Galaxy S10+ in Ceramic Black with 512GB internal memory" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -136,7 +136,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/nura.webp" />
-                <img src="/img/jpg/nura.jpg" alt="Nuraphones Headphones" class="rounded" />
+                <img src="/img/jpg/nura.jpg" alt="Nuraphones Headphones" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -145,7 +145,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/buds.webp" />
-                <img src="/img/jpg/buds.jpg" alt="Samsung Galxy Buds (Black)" class="rounded" />
+                <img src="/img/jpg/buds.jpg" alt="Samsung Galxy Buds (Black)" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -154,7 +154,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/ogio-renegade-rss.webp" />
-                <img src="/img/jpg/ogio-renegade-rss.jpg" alt="Ogio Renegade RSS Backpack" class="rounded" />
+                <img src="/img/jpg/ogio-renegade-rss.jpg" alt="Ogio Renegade RSS Backpack" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -163,7 +163,7 @@
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/crumpler-skivvy-m.webp" />
-                <img src="/img/jpg/crumpler-skivvy-m.jpg" alt="Crumpler Skivvy (M) Messenger Laptop Bag - Orange" class="rounded" />
+                <img src="/img/jpg/crumpler-skivvy-m.jpg" alt="Crumpler Skivvy (M) Messenger Laptop Bag - Orange" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
