@@ -7,7 +7,7 @@
 
 @task('build', ['on' => 'localhost'])
     npm run prod
-    gp
+    git push
 @endtask
 
 @task('deployment', ['on' => 'www'])
