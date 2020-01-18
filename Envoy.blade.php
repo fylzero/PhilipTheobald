@@ -7,6 +7,8 @@
 
 @task('build', ['on' => 'localhost'])
     npm run prod
+    git add .
+    git commit -m 'Ran npm run prod'
     git push
 @endtask
 
