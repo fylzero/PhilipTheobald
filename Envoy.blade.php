@@ -6,8 +6,8 @@
 @endstory
 
 @task('build', ['on' => 'localhost'])
-    pwd
     npm run prod
+    gp
 @endtask
 
 @task('deployment', ['on' => 'www'])
