@@ -16,9 +16,9 @@
     git pull origin master
     composer install --optimize-autoloader --no-dev
     php artisan config:clear
-    {{-- php artisan config:cache --}}
+    php artisan config:cache
     php artisan route:clear
-    {{-- php artisan route:cache --}}
+    php artisan route:cache
     npm install --production
     {{-- php artisan migrate --force --}}
     php artisan up
