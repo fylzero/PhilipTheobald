@@ -21,7 +21,8 @@
     php artisan config:cache
     php artisan route:clear
     php artisan route:cache
-    npm install --production
+    {{-- npm install --production --}}
+    npm ci
     {{-- php artisan migrate --force --}}
     php artisan up
 @endtask
