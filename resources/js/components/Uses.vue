@@ -1,5 +1,5 @@
 <template>
-    <div class="limit-width center pb-100 pink-links">
+    <div class="limit-width center pb-100 pink-links jetbrains-mono">
 
         <p class="pb-20">
             Here are a bunch of things I use day-to-day that make my life and job easier.
@@ -289,6 +289,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.jetbrains-mono * {
+    font-family: 'jetbrains_monoregular', 'Comfortaa', sans-serif !important;
+}
+
 .little {
     font-size: 16px;
     color: grey;
