@@ -2,14 +2,10 @@
     <div class="limit-width center pb-100 monokai-pink-links jetbrains-mono">
 
         <p class="pb-20 mt-10" style="color: #69676C;">
-<pre>
-/**
- * Uses
- *
- * Here are a bunch of things I use day-to-day that make my life and job easier.
- */
-
-</pre>
+/**<br>
+&nbsp;* Uses<br>
+&nbsp;* <em>@description:</em> Things I use day-to-day<br>
+&nbsp;*/
         </p>
 
         <!-- <h2>Office</h2>
@@ -298,6 +294,10 @@ export default {
 <style lang="scss" scoped>
 .jetbrains-mono * {
     font-family: JetBrainsMonoMedium;
+}
+
+em {
+    font-family: JetBrainsMonoMediumItalic;
 }
 
 ul {

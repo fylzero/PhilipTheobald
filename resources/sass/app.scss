@@ -23,12 +23,12 @@
     font-weight: 500;
     font-style: normal;
 }
-// @font-face {
-//     font-family: JetBrainsMonoMediumItalic;
-//     src: url(./fonts/JetBrainsMono-Medium-Italic.woff2) format('woff2'), url(./fonts/JetBrainsMono-Medium-Italic.woff) format('woff'), url(./fonts/JetBrainsMono-Medium-Italic.ttf) format('truetype');
-//     font-weight: 500;
-//     font-style: italic;
-// }
+@font-face {
+    font-family: JetBrainsMonoMediumItalic;
+    src: url(./fonts/JetBrainsMono-Medium-Italic.woff2) format('woff2'), url(./fonts/JetBrainsMono-Medium-Italic.woff) format('woff'), url(./fonts/JetBrainsMono-Medium-Italic.ttf) format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
 // @font-face {
 //     font-family: JetBrainsMonoBold;
 //     src: url(./fonts/JetBrainsMono-Bold.woff2) format('woff2'), url(./fonts/JetBrainsMono-Bold.woff) format('woff'), url(./fonts/JetBrainsMono-Bold.ttf) format('truetype');
