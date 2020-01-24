@@ -1,5 +1,5 @@
 <template>
-    <v-app id="sandbox" :dark="dark">
+    <v-app id="sandbox" :dark="dark" :class="{ 'uses-page': uses }">
 
 
         <v-navigation-drawer
@@ -141,11 +141,20 @@ export default {
         closeMenu() {
 
         }
+    },
+    computed: {
+        uses() {
+            return this.$route.path == '/uses' ? true : false;
+        }
     }
 }
 </script>
 
 <style lang="scss">
+.theme--dark.application.uses-page {
+    color: #F7F1FF;
+    background-color: #222222;
+}
 
 .limit-width {
     max-width: 800px;

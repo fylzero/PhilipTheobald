@@ -1,7 +1,7 @@
 <template>
-    <div class="limit-width center pb-100 pink-links jetbrains-mono">
+    <div class="limit-width center pb-100 monokai-pink-links jetbrains-mono">
 
-        <p class="pb-20">
+        <p class="pb-20 mt-10">
             Here are a bunch of things I use day-to-day that make my life and job easier.
         </p>
 
@@ -21,7 +21,7 @@
         </div> -->
 
         <div class="text-center">
-            <h1 style="color: #c8dfe6; margin-top: 100px;">Hardware</h1>
+            <h1 style="margin-top: 100px;">Hardware</h1>
         </div>
 
         <h2>Desk</h2>
@@ -170,7 +170,7 @@
 
 
         <div class="text-center">
-            <h1 style="color: #c8dfe6; margin-top: 100px;">Software</h1>
+            <h1 style="margin-top: 100px;">Software</h1>
         </div>
 
         <h2>Code Editor</h2>
@@ -182,28 +182,28 @@
             </picture>
         </div>
 
-        <p style="margin-top: 20px;"><strong style="color: grey;">Setup:</strong></p>
+        <p style="margin-top: 20px;"><strong class="monokai-green">Setup<span style="color: #8B888F">()</span></strong></p>
         <ul>
-            <li>Monokai Pro <span class="little">(Filter Spectrum) Theme</span></li>
-            <li>Menlo Font <span class="little">at 15px</span></li>
+            <li>-> Monokai Pro <span class="little">(Filter Spectrum) Theme</span></li>
+            <li>-> <a href="https://www.jetbrains.com/lp/mono/" target="blank">JetBrains Mono Font</a> <span class="little">at 15px</span></li>
         </ul>
-        <p style="margin-top: 20px;"><strong style="color: grey;">VS Code Extensions:</strong></p>
+        <p style="margin-top: 20px;"><strong class="monokai-green">VS Code Extensions<span style="color: #8B888F">()</span></strong></p>
         <ul>
-            <li>EditorConfig</li>
-            <li>GitLens</li>
-            <li>Image Preview</li>
-            <li>Laravel Extension Pack - <span class="little">This installs 5 amazing extensions for Laravel development.</span></li>
-            <li>Markdown Preview Enhanced - <span class="little">View markdown in VS Code.  I use the Monokai theme on this.</span></li>
-            <li>Material Icon Theme</li>
-            <li>Monokai Pro</li>
-            <li>NativeScript</li>
-            <li>PHP Debug</li>
-            <li>PHP Intellephense</li>
-            <li>PHP Namespace Resolver</li>
-            <li>Prettier</li>
-            <li>Tailwind CSS IntelliSense</li>
-            <li>Version Lens - <span class="little">I don't know what I did before I knew of this.</span></li>
-            <li>Vetur</li>
+            <li>-> EditorConfig</li>
+            <li>-> GitLens</li>
+            <li>-> Image Preview</li>
+            <li>-> Laravel Extension Pack - <span class="little">This installs 5 amazing extensions for Laravel development.</span></li>
+            <li>-> Markdown Preview Enhanced - <span class="little">View markdown in VS Code.  I use the Monokai theme on this.</span></li>
+            <li>-> Material Icon Theme</li>
+            <li>-> Monokai Pro</li>
+            <li>-> NativeScript</li>
+            <li>-> PHP Debug</li>
+            <li>-> PHP Intellephense</li>
+            <li>-> PHP Namespace Resolver</li>
+            <li>-> Prettier</li>
+            <li>-> Tailwind CSS IntelliSense</li>
+            <li>-> Version Lens - <span class="little">I don't know what I did before I knew of this.</span></li>
+            <li>-> Vetur</li>
         </ul>
 
         <h2>Terminal</h2>
@@ -216,55 +216,55 @@
         </div>
 
         <h2>Apps I Use</h2>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Coding:</strong></p>
+        <p style="margin-top: 20px;"><strong class="monokai-green">Coding<span style="color: #8B888F">()</span></strong></p>
         <ul>
-            <li>Android Studio - <span class="little">Perfect for emulating android phones for testing.</span></li>
-            <li>Color Note - <span class="little">Color picker tool.  Replaced Sip with this a while back.</span></li>
-            <li>FileZilla - <span class="little">For those times I need to secure FTP and am too lazy to commmand line it.</span></li>
-            <li>ImageOptim - <span class="little">For crushing images before using them on the web.</span></li>
-            <li>Laravel Valet - <span class="little">Best way to serve sites locally imho.</span></li>
-            <li>TablePlus - <span class="little">After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management.</span></li>
-            <li>VirtualBox - <span class="little">Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions.</span></li>
-            <li>Wave Plugin - <span class="little">For making sure websites are accessible.</span></li>
-            <li>Xcode - <span class="little">Mac developer utility.  Good for simulating iPhones and iPads.  Filemerge is also useful for comparing file changes.</span></li>
+            <li>-> Android Studio - <span class="little">Perfect for emulating android phones for testing.</span></li>
+            <li>-> Color Note - <span class="little">Color picker tool.  Replaced Sip with this a while back.</span></li>
+            <li>-> FileZilla - <span class="little">For those times I need to secure FTP and am too lazy to commmand line it.</span></li>
+            <li>-> ImageOptim - <span class="little">For crushing images before using them on the web.</span></li>
+            <li>-> Laravel Valet - <span class="little">Best way to serve sites locally imho.</span></li>
+            <li>-> TablePlus - <span class="little">After using SequelPro for years, I've switched to a more supported and less-crashy tool for database management.</span></li>
+            <li>-> VirtualBox - <span class="little">Use this for testing in Windows (with the Modern IE installs) and messing with Linux distributions.</span></li>
+            <li>-> Wave Plugin - <span class="little">For making sure websites are accessible.</span></li>
+            <li>-> Xcode - <span class="little">Mac developer utility.  Good for simulating iPhones and iPads.  Filemerge is also useful for comparing file changes.</span></li>
         </ul>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Audio Production:</strong></p>
+        <p style="margin-top: 20px;"><strong class="monokai-green">Audio Production<span style="color: #8B888F">()</span></strong></p>
         <ul>
-            <li>Line 6 Helix Native - <span class="little">Everything for guitar sound in one VST plugin!</span></li>
-            <li>Presonus Studio One 4 Pro - <span class="little">My DAW (Digital Audio Workstation).</span></li>
+            <li>-> Line 6 Helix Native - <span class="little">Everything for guitar sound in one VST plugin!</span></li>
+            <li>-> Presonus Studio One 4 Pro - <span class="little">My DAW (Digital Audio Workstation).</span></li>
         </ul>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Utilities:</strong></p>
+        <p style="margin-top: 20px;"><strong class="monokai-green">Utilities<span style="color: #8B888F">()</span></strong></p>
         <ul>
-            <li>Backblaze - <span class="little">Cloud backup utility.</span></li>
-            <li>Homebrew - <span class="little">Amazing package manager for using command line and scripts to install apps on Mac (or Linux).</span></li>
-            <li>Magnet - <span class="little">Window positioning app.</span></li>
-            <li>Remembear - <span class="little">Password Manager.</span></li>
-            <li>Rocket - <span class="little">Text shortcuts to create emojis while typing.</span></li>
-            <li>TunnelBear - <span class="little">VPN.</span></li>
+            <li>-> Backblaze - <span class="little">Cloud backup utility.</span></li>
+            <li>-> Homebrew - <span class="little">Amazing package manager for using command line and scripts to install apps on Mac (or Linux).</span></li>
+            <li>-> Magnet - <span class="little">Window positioning app.</span></li>
+            <li>-> Remembear - <span class="little">Password Manager.</span></li>
+            <li>-> Rocket - <span class="little">Text shortcuts to create emojis while typing.</span></li>
+            <li>-> TunnelBear - <span class="little">VPN.</span></li>
         </ul>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Communication:</strong></p>
+        <p style="margin-top: 20px;"><strong class="monokai-green">Communication<span style="color: #8B888F">()</span></strong></p>
         <ul>
-            <li>Gmail - <span class="little">I manage multiple accounts from a single inbox and it's great.</span></li>
-            <li>Slack - <span class="little">What did we do before this existed, honestly?</span></li>
+            <li>-> Gmail - <span class="little">I manage multiple accounts from a single inbox and it's great.</span></li>
+            <li>-> Slack - <span class="little">What did we do before this existed, honestly?</span></li>
         </ul>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Audio / Video / Photo:</strong></p>
+        <p style="margin-top: 20px;"><strong class="monokai-green">Audio / Video / Photo<span style="color: #8B888F">()</span></strong></p>
         <ul>
-            <li>Adapter - <span class="little">Video / Audio conversion utility.</span></li>
-            <li>Adobe Photoshop / Lightroom - <span class="little">Graphic and photo editing.</span></li>
-            <li>Affinity Photo - <span class="little">Starting to like/use this more than Photoshop.</span></li>
-            <li>MPV - <span class="little">My preferred video player these days.  Though I mostly use streaming services now.</span></li>
-            <li>Plex Media Server - <span class="little">I use Plex to serve saved mp4 movies/videos to my Apple TV.</span></li>
-            <li>Skitch - <span class="little">Screenshot tool from the creators of Evernote.</span></li>
-            <li>Spotify - <span class="little">For music.</span></li>
+            <li>-> Adapter - <span class="little">Video / Audio conversion utility.</span></li>
+            <li>-> Adobe Photoshop / Lightroom - <span class="little">Graphic and photo editing.</span></li>
+            <li>-> Affinity Photo - <span class="little">Starting to like/use this more than Photoshop.</span></li>
+            <li>-> MPV - <span class="little">My preferred video player these days.  Though I mostly use streaming services now.</span></li>
+            <li>-> Plex Media Server - <span class="little">I use Plex to serve saved mp4 movies/videos to my Apple TV.</span></li>
+            <li>-> Skitch - <span class="little">Screenshot tool from the creators of Evernote.</span></li>
+            <li>-> Spotify - <span class="little">For music.</span></li>
         </ul>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Productivity:</strong></p>
+        <p style="margin-top: 20px;"><strong class="monokai-green">Productivity<span style="color: #8B888F">()</span></strong></p>
         <ul>
-            <li>Big Day Countdown - <span class="little">Large countdown reminders on my desktop.</span></li>
-            <li>Evernote - <span class="little">For taking notes.</span></li>
-            <li>Google Chrome - <span class="little">My preferred browser for development and general use.</span></li>
-            <li>LibreOffice - <span class="little">I prefer this to Microsoft Office.</span></li>
-            <li>MacDown - <span class="little">Simple Markdown editor.</span></li>
-            <li>TickTick - <span class="little">My preferred todo list app.</span></li>
+            <li>-> Big Day Countdown - <span class="little">Large countdown reminders on my desktop.</span></li>
+            <li>-> Evernote - <span class="little">For taking notes.</span></li>
+            <li>-> Google Chrome - <span class="little">My preferred browser for development and general use.</span></li>
+            <li>-> LibreOffice - <span class="little">I prefer this to Microsoft Office.</span></li>
+            <li>-> MacDown - <span class="little">Simple Markdown editor.</span></li>
+            <li>-> TickTick - <span class="little">My preferred todo list app.</span></li>
         </ul>
 
     </div>
@@ -290,7 +290,65 @@ export default {
 
 <style lang="scss" scoped>
 .jetbrains-mono * {
-    font-family: 'jetbrains_monoregular', 'Comfortaa', sans-serif !important;
+    font-family: JetBrainsMonoMedium;
+}
+
+ul {
+    list-style: none;
+}
+
+#sandbox.theme--dark.uses-page {
+
+    .monokai-bg {
+        color: #222222;
+    }
+
+    .monokai-text {
+        color: #F7F1FF;
+    }
+
+    .monokai-pink {
+        color: #FC618D;
+    }
+
+    .monokai-green {
+        color: #7BD88F;
+    }
+
+    .monokai-blue,
+    h2 {
+        color: #5AD4E6;
+        font-size: 22px;
+    }
+
+    .monokai-yellow,
+    h1 {
+        color: #FCE566;
+    }
+
+    .monokai-orange {
+        color: #FD9353;
+    }
+
+    .monokai-purple {
+        color: #948AE3;
+    }
+
+    .monokai-pink-links a {
+        color: #FC618D !important;
+
+        &:hover {
+            color: #948AE3 !important;
+        }
+    }
+}
+
+.monokai-pink-links a {
+    color: #cc0788 !important;
+
+    &:hover {
+        color: #ff06a9 !important;
+    }
 }
 
 .little {
