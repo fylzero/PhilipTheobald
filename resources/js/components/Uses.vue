@@ -1,8 +1,15 @@
 <template>
     <div class="limit-width center pb-100 monokai-pink-links jetbrains-mono">
 
-        <p class="pb-20 mt-10">
-            Here are a bunch of things I use day-to-day that make my life and job easier.
+        <p class="pb-20 mt-10" style="color: #69676C;">
+<pre>
+/**
+ * Uses
+ *
+ * Here are a bunch of things I use day-to-day that make my life and job easier.
+ */
+
+</pre>
         </p>
 
         <!-- <h2>Office</h2>
