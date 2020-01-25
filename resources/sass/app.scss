@@ -18,14 +18,17 @@
 // }
 @font-face {
     font-family: JetBrainsMonoMedium;
-    src: url(fonts/JetBrainsMono-Medium.woff2) format('woff2'),
-         url(fonts/JetBrainsMono-Medium.woff) format('woff');
+    src: url(/fonts/JetBrainsMono-Medium.woff2) format('woff2'),
+         url(/fonts/JetBrainsMono-Medium.woff) format('woff'),
+         url(/fonts/JetBrainsMono-Medium-Italic.ttf) format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: JetBrainsMonoMediumItalic;
-    src: url(./fonts/JetBrainsMono-Medium-Italic.woff2) format('woff2'), url(./fonts/JetBrainsMono-Medium-Italic.woff) format('woff'), url(./fonts/JetBrainsMono-Medium-Italic.ttf) format('truetype');
+    src: url(/fonts/JetBrainsMono-Medium-Italic.woff2) format('woff2'),
+         url(/fonts/JetBrainsMono-Medium-Italic.woff) format('woff'),
+         url(/fonts/JetBrainsMono-Medium-Italic.ttf) format('truetype');
     font-weight: 500;
     font-style: italic;
 }
