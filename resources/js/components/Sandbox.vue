@@ -1,5 +1,5 @@
 <template>
-    <v-app id="sandbox" :dark="dark" :class="{ 'uses-page': uses }">
+    <v-app id="sandbox" :dark="dark" :class="{ 'uses-page-colors': uses }">
 
 
         <v-navigation-drawer
@@ -81,7 +81,12 @@
                 <v-layout align-center justify-center>
                     <v-flex xs10>
 
-                        <router-view :dark="dark"></router-view>
+                        <transition
+                            name="fade"
+                            mode="out-in"
+                        >
+                            <router-view :dark="dark"></router-view>
+                        </transition>
 
                         <div class="thing">
                             <div class="other">
@@ -151,7 +156,20 @@ export default {
 </script>
 
 <style lang="scss">
-.theme--dark.application.uses-page {
+
+.fade-enter-active,
+.fade-leave-active {
+  transition-duration: 0.3s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0
+}
+
+.theme--dark.application.uses-page-colors {
     color: #F7F1FF;
     background-color: #222222;
 }

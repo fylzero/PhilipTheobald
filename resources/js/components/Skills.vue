@@ -22,6 +22,14 @@
                 I have been learning Laravel since version 4 and have been working with it professionally since mid 2019.  I am on the <a href="https://laracasts.com/discuss/leaderboard" target="blank">Laracasts Top-50 Leaderboard</a> (as "fylzero").
             </p>
 
+            <h2>Wordpress / Divi</h2>
+            <div class="progress-bar">
+                <div style="width: 90%;">90%</div>
+            </div>
+            <p>
+                I have been building Wordpress sites for a very long time.  Over the past several years I have built almost exclusively Divi framework Wordpress sites as they are easy to create and maintain, don't lock you into using a set theme and really give you the power and flexibility to create what you want very fast.
+            </p>
+
             <h2>Vue.js</h2>
             <div class="progress-bar">
                 <div style="width: 80%;">80%</div>
