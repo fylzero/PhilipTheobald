@@ -3,6 +3,7 @@
 @task('deploy', ['on' => 'www'])
     cd ~/apps/philip-theobald
     php artisan down --message="Deploying New Code"
+    git reset --hard HEAD
     git pull origin master
     composer install --optimize-autoloader --no-dev
     php artisan config:clear
