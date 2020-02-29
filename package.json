@@ -15,7 +15,7 @@
         "laravel-mix": "^4.1.4",
         "lodash": "^4.17.15",
         "resolve-url-loader": "^2.3.1",
-        "sass": "^1.25.0",
+        "sass": "^1.26.2",
         "sass-loader": "^7.3.1",
         "vue": "^2.6.11",
         "vue-template-compiler": "^2.6.11"
@@ -24,7 +24,7 @@
         "@fortawesome/fontawesome-svg-core": "^1.2.27",
         "@fortawesome/free-solid-svg-icons": "^5.12.1",
         "@fortawesome/vue-fontawesome": "^0.1.9",
-        "vue-router": "^3.1.5",
-        "vuetify": "^1.5.22"
+        "vue-router": "^3.1.6",
+        "vuetify": "^1.5.23"
     }
 }
