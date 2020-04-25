@@ -1,4 +1,5 @@
 <?php
 
-// Vue Router Hack
-Route::get('/{any}', 'PageController@app')->where('any', '.*');
+use Illuminate\Support\Facades\Route;
+
+Route::view('/{any}', 'app')->where('any', '.*');
