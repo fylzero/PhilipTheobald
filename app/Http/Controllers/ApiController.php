@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class ApiController extends Controller
 {
-    public function api()
+    public function __invoke()
     {
         $about = [
             'first_name' => 'Philip',

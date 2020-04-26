@@ -1,3 +1,5 @@
 <?php
 
-Route::get('/info', 'ApiController@api');
+use Illuminate\Support\Facades\Route;
+
+Route::get('/info', 'ApiController');
