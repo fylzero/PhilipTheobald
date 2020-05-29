@@ -5,21 +5,29 @@
             <h1 style="margin-top: 100px;">Hardware</h1>
         </div>
 
-        <h2>Desk</h2>
-        <p><a href="https://www.autonomous.ai/standing-desks/smartdesk-2-business?option1=1&option2=6&option16=36&option17=41" target="blank">SmartDesk 2 Business Edition with a white frame and bamboo top</a> from Autonomous.  Extremely sturdy.  I love that this desk sits at the exact heights I prefer for sitting and standing and it looks beautiful.</p>
+        <h2>Computer</h2>
+        <p>I am rocking a nicely spec'd out <a href="https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG" target="blank">mid-2018 15" Macbook Pro with Retina Display and Touchbar</a> that I got from B&H Photo.  They had this model discounted $700 off and I had a credit card promo that gave me $500 cash back, with that and it being a tax-deduction I bought this obnoxiously expensive laptop for almost $1500 off retail.  Woot!</p>
+        <p style="margin-top: 20px;"><strong style="color: grey;">Specs:</strong></p>
+        <ul>
+            <li>2.9GHz 6‑Core 8th‑Gen Intel Core i9 Processor</li>
+            <li>(Turbo Boost up to 4.8GHz)</li>
+            <li>32GB 2400MHz DDR4 Memory</li>
+            <li>Radeon Pro 560X with 4GB of GDDR5 Memory</li>
+            <li>2TB SSD Storage</li>
+        </ul>
         <div class="text-center">
             <picture>
-                <source type="image/webp" srcset="/img/webp/desk.webp" />
-                <img src="/img/png/desk.png" alt=" AutonomousSmartDesk 2 Business Edition with a white frame and bamboo top" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+                <source type="image/webp" srcset="/img/webp/mac.webp" />
+                <img src="/img/jpg/mac.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
-        <h2>Chair</h2>
-        <p>I use an <a href="https://www.autonomous.ai/office-chairs/ergonomic-chair?option20=50" target="blank">Ergo Chair 2 in Evergreen</a>, also from Autonomous.  Sturdy, comfy, ergonomic, doesn't squeak.  I actually sold my Herman Miller Embody chair for this and I have zero regrets.</p>
+        <h2>Keyboard &amp; Mouse</h2>
+        <p>Sigh...   yes...  I spent a boatload of money on the space grey Apple Magic Keyboard and Magic Mouse 2.  I actually really like the mac keyboard and have gotten very used to it.  I've always been a fan of the magic mouse, especially for multiscreen switching.</p>
         <div class="text-center">
             <picture>
-                <source type="image/webp" srcset="/img/webp/chair.webp" />
-                <img src="/img/png/chair.png" alt="Autonomous Ergo Chair 2 in Evergreen" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+                <source type="image/webp" srcset="/img/webp/kb-mouse.webp" />
+                <img src="/img/jpg/kb-mouse.jpg" alt='Space Grey Apple Magic Keyboard and Magic Mouse 2' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -59,38 +67,21 @@
             </picture>
         </div>
 
-        <h2>Hub</h2>
-        <p>Everything is hooked up to my Macbook Pro using a small simple <a href="https://www.amazon.com/gp/product/B071G83L1J/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1" target="blank">Anker USB C Hub</a>.</p>
+        <h2>Desk</h2>
+        <p><a href="https://www.autonomous.ai/standing-desks/smartdesk-2-business?option1=1&option2=6&option16=36&option17=41" target="blank">SmartDesk 2 Business Edition with a white frame and bamboo top</a> from Autonomous.  Extremely sturdy.  I love that this desk sits at the exact heights I prefer for sitting and standing and it looks beautiful.</p>
         <div class="text-center">
             <picture>
-                <source type="image/webp" srcset="/img/webp/hub.webp" />
-                <img src="/img/jpg/hub.jpg" alt="Anker USB C Hub" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+                <source type="image/webp" srcset="/img/webp/desk.webp" />
+                <img src="/img/png/desk.png" alt=" AutonomousSmartDesk 2 Business Edition with a white frame and bamboo top" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
-        <h2>Computer</h2>
-        <p>I am rocking a nicely spec'd out <a href="https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG" target="blank">mid-2018 15" Macbook Pro with Retina Display and Touchbar</a> that I got from B&H Photo.  They had this model discounted $700 off and I had a credit card promo that gave me $500 cash back, with that and it being a tax-deduction I bought this obnoxiously expensive laptop for almost $1500 off retail.  Woot!</p>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Specs:</strong></p>
-        <ul>
-            <li>2.9GHz 6‑Core 8th‑Gen Intel Core i9 Processor</li>
-            <li>(Turbo Boost up to 4.8GHz)</li>
-            <li>32GB 2400MHz DDR4 Memory</li>
-            <li>Radeon Pro 560X with 4GB of GDDR5 Memory</li>
-            <li>2TB SSD Storage</li>
-        </ul>
+        <h2>Chair</h2>
+        <p>I use an <a href="https://www.autonomous.ai/office-chairs/ergonomic-chair?option20=50" target="blank">Ergo Chair 2 in Evergreen</a>, also from Autonomous.  Sturdy, comfy, ergonomic, doesn't squeak.  I actually sold my Herman Miller Embody chair for this and I have zero regrets.</p>
         <div class="text-center">
             <picture>
-                <source type="image/webp" srcset="/img/webp/mac.webp" />
-                <img src="/img/jpg/mac.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
-            </picture>
-        </div>
-
-        <h2>Keyboard &amp; Mouse</h2>
-        <p>Sigh...   yes...  I spent a boatload of money on the space grey Apple Magic Keyboard and Magic Mouse 2.  I actually really like the mac keyboard and have gotten very used to it.  I've always been a fan of the magic mouse, especially for multiscreen switching.</p>
-        <div class="text-center">
-            <picture>
-                <source type="image/webp" srcset="/img/webp/kb-mouse.webp" />
-                <img src="/img/jpg/kb-mouse.jpg" alt='Space Grey Apple Magic Keyboard and Magic Mouse 2' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+                <source type="image/webp" srcset="/img/webp/chair.webp" />
+                <img src="/img/png/chair.png" alt="Autonomous Ergo Chair 2 in Evergreen" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -100,6 +91,15 @@
             <picture>
                 <source type="image/webp" srcset="/img/webp/printer.webp" />
                 <img src="/img/jpg/printer.jpg" alt="Brother HL-L2370DW Wireless Black-and-White Laser Printer" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+            </picture>
+        </div>
+
+        <h2>Hub</h2>
+        <p>Everything is hooked up to my Macbook Pro using a small simple <a href="https://www.amazon.com/gp/product/B071G83L1J/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1" target="blank">Anker USB C Hub</a>.</p>
+        <div class="text-center">
+            <picture>
+                <source type="image/webp" srcset="/img/webp/hub.webp" />
+                <img src="/img/jpg/hub.jpg" alt="Anker USB C Hub" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
 
@@ -122,7 +122,7 @@
         </div>
 
         <h2>Earbuds</h2>
-        <p>I use the bluetooth (wireless) <a href="https://www.amazon.com/Samsung-Bluetooth-Wireless-Charging-Included/dp/B07MWCNR3W/ref=sr_1_3?keywords=samsung+galaxy+buds&qid=1564951557&s=gateway&sr=8-3" target="blank">Samsung Galxy Buds (Black)</a>.  These are super tiny, the charge lasts forever...  especially with the charging case they come in...  the sound quality is great.  I do wish they could go a tiny bit louder.</p>
+        <p>I use the bluetooth (wireless) <a href="https://www.amazon.com/Samsung-Wireless-Improved-Charging-International/dp/B084T42XBT/ref=sr_1_1?dchild=1&keywords=galaxy+buds+red&qid=1590730689&sr=8-1" target="blank">Samsung Galaxy Buds+ Plus (Red)</a>.  These are super tiny, the charge lasts forever...  especially with the charging case they come in...  the sound quality is great.</p>
         <div class="text-center">
             <picture>
                 <source type="image/webp" srcset="/img/webp/buds.webp" />
