@@ -33712,55 +33712,548 @@ var staticRenderFns = [
         ])
       ]),
       _vm._v(" "),
-      _c("ul", [
-        _c("li", [_vm._v("-> EditorConfig")]),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/settings-sync.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/settings-sync.png",
+              alt: "Settings Sync"
+            }
+          })
+        ]),
         _vm._v(" "),
-        _c("li", [_vm._v("-> GitLens")]),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Settings Sync")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/git-lens.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/git-lens.png",
+              alt: "GitLens"
+            }
+          })
+        ]),
         _vm._v(" "),
-        _c("li", [_vm._v("-> Image Preview")]),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("GitLens")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/image-preview.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/image-preview.png",
+              alt: "Image Preview"
+            }
+          })
+        ]),
         _vm._v(" "),
-        _c("li", [
-          _vm._v("-> Laravel Extension Pack - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v(
-              "This installs 5 amazing extensions for Laravel development."
-            )
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Image Preview")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", [
+        _c("div", { staticStyle: { height: "45px" } }, [
+          _c("picture", { staticStyle: { position: "absolute" } }, [
+            _c("source", {
+              attrs: {
+                type: "image/webp",
+                srcset: "/img/webp/vsc-extensions/laravel-extension-pack.webp"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticStyle: { width: "37px", height: "auto" },
+              attrs: {
+                src: "/img/png/vsc-extensions/laravel-extension-pack.png",
+                alt: "Laravel Extension Pack"
+              }
+            })
+          ]),
+          _vm._v(" "),
+          _c("span", { staticStyle: { "margin-left": "50px" } }, [
+            _vm._v("Laravel Extension Pack")
           ])
         ]),
         _vm._v(" "),
-        _c("li", [
-          _vm._v("-> Markdown Preview Enhanced - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v(
-              "View markdown in VS Code.  I use the Monokai theme on this."
-            )
-          ])
+        _c("div", [
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset:
+                      "/img/webp/vsc-extensions/laravel-blade-snippets.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/laravel-blade-snippets.png",
+                    alt: "Laravel Blade Snippets"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Laravel Blade Snippets")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/laravel-snippets.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/laravel-snippets.png",
+                    alt: "Laravel Snippets"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Laravel Snippets")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/laravel-artisan.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/laravel-artisan.png",
+                    alt: "Laravel Artisan"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Laravel Artisan")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/laravel-goto-view.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/laravel-goto-view.png",
+                    alt: "Laravel GoTo View"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Laravel GoTo View")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/dotenv.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/dotenv.png",
+                    alt: "DotENV"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("DotENV")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/editor-config.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/editor-config.png",
+                    alt: "EditorConfig"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("EditorConfig")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/php-debug.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/php-debug.png",
+                    alt: "PHP Debug"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("PHP Debug")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/php-intelephense.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/php-intelephense.png",
+                    alt: "PHP Intelephense"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("PHP Intelephense")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/live-share.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/live-share.png",
+                    alt: "Live Share (I disable this one)"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Live Share (I disable this one)")
+              ])
+            ]
+          )
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/markdown-preview-enhanced.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/markdown-preview-enhanced.png",
+              alt: "Markdown Preview Enhanced"
+            }
+          })
         ]),
         _vm._v(" "),
-        _c("li", [_vm._v("-> Material Icon Theme")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("-> Monokai Pro")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("-> NativeScript")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("-> PHP Debug")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("-> PHP Intellephense")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("-> PHP Namespace Resolver")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("-> Prettier")]),
-        _vm._v(" "),
-        _c("li", [_vm._v("-> Tailwind CSS IntelliSense")]),
-        _vm._v(" "),
-        _c("li", [
-          _vm._v("-> Version Lens - "),
-          _c("span", { staticClass: "little" }, [
-            _vm._v("I don't know what I did before I knew of this.")
-          ])
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Markdown Preview Enhanced")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/material-icon-theme.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/material-icon-theme.png",
+              alt: "Material Icon Theme"
+            }
+          })
         ]),
         _vm._v(" "),
-        _c("li", [_vm._v("-> Vetur")])
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Material Icon Theme")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/monokai-pro.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/monokai-pro.png",
+              alt: "Monokai Pro"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Monokai Pro")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/native-script.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/native-script.png",
+              alt: "NativeScript"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("NativeScript")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/php-namespace-resolver.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/php-namespace-resolver.png",
+              alt: "PHP Namespace Resolver"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("PHP Namespace Resolver")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/prettier.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/prettier.png",
+              alt: "Prettier"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Prettier")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/tailwind-css-intellisense.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/tailwind-css-intellisense.png",
+              alt: "Tailwind CSS IntelliSense"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Tailwind CSS IntelliSense")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/version-lens.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/version-lens.png",
+              alt: "Version Lens"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Version Lens")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/vetur.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: { src: "/img/png/vsc-extensions/vetur.png", alt: "Vetur" }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Vetur")
+        ])
       ]),
       _vm._v(" "),
       _c("h2", [_vm._v("Terminal")]),

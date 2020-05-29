@@ -19,24 +19,170 @@
             <li>-> Monokai Pro <span class="little">(Filter Spectrum) Theme</span></li>
             <li>-> <a href="https://www.jetbrains.com/lp/mono/" target="blank">JetBrains Mono Font</a> <span class="little">at 15px with ligatures enabled</span></li>
         </ul>
+
+
+        <!-- VS Code Extensions -->
         <p style="margin-top: 20px;"><strong class="monokai-green">VS Code Extensions<span style="color: #8B888F">()</span></strong></p>
-        <ul>
-            <li>-> EditorConfig</li>
-            <li>-> GitLens</li>
-            <li>-> Image Preview</li>
-            <li>-> Laravel Extension Pack - <span class="little">This installs 5 amazing extensions for Laravel development.</span></li>
-            <li>-> Markdown Preview Enhanced - <span class="little">View markdown in VS Code.  I use the Monokai theme on this.</span></li>
-            <li>-> Material Icon Theme</li>
-            <li>-> Monokai Pro</li>
-            <li>-> NativeScript</li>
-            <li>-> PHP Debug</li>
-            <li>-> PHP Intellephense</li>
-            <li>-> PHP Namespace Resolver</li>
-            <li>-> Prettier</li>
-            <li>-> Tailwind CSS IntelliSense</li>
-            <li>-> Version Lens - <span class="little">I don't know what I did before I knew of this.</span></li>
-            <li>-> Vetur</li>
-        </ul>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/settings-sync.webp" />
+                <img src="/img/png/vsc-extensions/settings-sync.png" alt="Settings Sync" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Settings Sync</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/git-lens.webp" />
+                <img src="/img/png/vsc-extensions/git-lens.png" alt="GitLens" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">GitLens</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/image-preview.webp" />
+                <img src="/img/png/vsc-extensions/image-preview.png" alt="Image Preview" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Image Preview</span>
+        </div>
+        <div>
+            <div style="height: 45px">
+                <picture style="position: absolute;">
+                    <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-extension-pack.webp" />
+                    <img src="/img/png/vsc-extensions/laravel-extension-pack.png" alt="Laravel Extension Pack" style="width: 37px; height: auto;" />
+                </picture>
+                <span style="margin-left: 50px;">Laravel Extension Pack</span>
+            </div>
+            <div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-blade-snippets.webp" />
+                        <img src="/img/png/vsc-extensions/laravel-blade-snippets.png" alt="Laravel Blade Snippets" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Laravel Blade Snippets</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-snippets.webp" />
+                        <img src="/img/png/vsc-extensions/laravel-snippets.png" alt="Laravel Snippets" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Laravel Snippets</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-artisan.webp" />
+                        <img src="/img/png/vsc-extensions/laravel-artisan.png" alt="Laravel Artisan" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Laravel Artisan</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-goto-view.webp" />
+                        <img src="/img/png/vsc-extensions/laravel-goto-view.png" alt="Laravel GoTo View" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Laravel GoTo View</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/dotenv.webp" />
+                        <img src="/img/png/vsc-extensions/dotenv.png" alt="DotENV" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">DotENV</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/editor-config.webp" />
+                        <img src="/img/png/vsc-extensions/editor-config.png" alt="EditorConfig" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">EditorConfig</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/php-debug.webp" />
+                        <img src="/img/png/vsc-extensions/php-debug.png" alt="PHP Debug" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">PHP Debug</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/php-intelephense.webp" />
+                        <img src="/img/png/vsc-extensions/php-intelephense.png" alt="PHP Intelephense" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">PHP Intelephense</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/live-share.webp" />
+                        <img src="/img/png/vsc-extensions/live-share.png" alt="Live Share (I disable this one)" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Live Share (I disable this one)</span>
+                </div>
+            </div>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/markdown-preview-enhanced.webp" />
+                <img src="/img/png/vsc-extensions/markdown-preview-enhanced.png" alt="Markdown Preview Enhanced" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Markdown Preview Enhanced</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/material-icon-theme.webp" />
+                <img src="/img/png/vsc-extensions/material-icon-theme.png" alt="Material Icon Theme" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Material Icon Theme</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/monokai-pro.webp" />
+                <img src="/img/png/vsc-extensions/monokai-pro.png" alt="Monokai Pro" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Monokai Pro</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/native-script.webp" />
+                <img src="/img/png/vsc-extensions/native-script.png" alt="NativeScript" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">NativeScript</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/php-namespace-resolver.webp" />
+                <img src="/img/png/vsc-extensions/php-namespace-resolver.png" alt="PHP Namespace Resolver" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">PHP Namespace Resolver</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/prettier.webp" />
+                <img src="/img/png/vsc-extensions/prettier.png" alt="Prettier" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Prettier</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/tailwind-css-intellisense.webp" />
+                <img src="/img/png/vsc-extensions/tailwind-css-intellisense.png" alt="Tailwind CSS IntelliSense" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Tailwind CSS IntelliSense</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/version-lens.webp" />
+                <img src="/img/png/vsc-extensions/version-lens.png" alt="Version Lens" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Version Lens</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/vetur.webp" />
+                <img src="/img/png/vsc-extensions/vetur.png" alt="Vetur" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Vetur</span>
+        </div>
+
+
 
         <h2>Terminal</h2>
         <p><a href="https://iterm2.com/" target="blank">iTerm2</a> is my terminal of choice.  I use OhMyZsh shell and I recently started using the Powerlevel10k config I found <a href="https://gist.github.com/kevin-smets/8568070" target="blank">here</a>.  I used to run the Agnoster theme but I like the icons provided by the Powerline-FontAwesome font and the timestamps can be useful.</p>
