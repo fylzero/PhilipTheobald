@@ -33717,29 +33717,6 @@ var staticRenderFns = [
           _c("source", {
             attrs: {
               type: "image/webp",
-              srcset: "/img/webp/vsc-extensions/settings-sync.webp"
-            }
-          }),
-          _vm._v(" "),
-          _c("img", {
-            staticStyle: { width: "37px", height: "auto" },
-            attrs: {
-              src: "/img/png/vsc-extensions/settings-sync.png",
-              alt: "Settings Sync"
-            }
-          })
-        ]),
-        _vm._v(" "),
-        _c("span", { staticStyle: { "margin-left": "50px" } }, [
-          _vm._v("Settings Sync")
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticStyle: { height: "45px" } }, [
-        _c("picture", { staticStyle: { position: "absolute" } }, [
-          _c("source", {
-            attrs: {
-              type: "image/webp",
               srcset: "/img/webp/vsc-extensions/git-lens.webp"
             }
           }),
@@ -33814,115 +33791,6 @@ var staticRenderFns = [
                 _c("source", {
                   attrs: {
                     type: "image/webp",
-                    srcset:
-                      "/img/webp/vsc-extensions/laravel-blade-snippets.webp"
-                  }
-                }),
-                _vm._v(" "),
-                _c("img", {
-                  staticStyle: { width: "37px", height: "auto" },
-                  attrs: {
-                    src: "/img/png/vsc-extensions/laravel-blade-snippets.png",
-                    alt: "Laravel Blade Snippets"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("span", { staticStyle: { "margin-left": "50px" } }, [
-                _vm._v("Laravel Blade Snippets")
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticStyle: { "margin-left": "52px", height: "45px" } },
-            [
-              _c("picture", { staticStyle: { position: "absolute" } }, [
-                _c("source", {
-                  attrs: {
-                    type: "image/webp",
-                    srcset: "/img/webp/vsc-extensions/laravel-snippets.webp"
-                  }
-                }),
-                _vm._v(" "),
-                _c("img", {
-                  staticStyle: { width: "37px", height: "auto" },
-                  attrs: {
-                    src: "/img/png/vsc-extensions/laravel-snippets.png",
-                    alt: "Laravel Snippets"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("span", { staticStyle: { "margin-left": "50px" } }, [
-                _vm._v("Laravel Snippets")
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticStyle: { "margin-left": "52px", height: "45px" } },
-            [
-              _c("picture", { staticStyle: { position: "absolute" } }, [
-                _c("source", {
-                  attrs: {
-                    type: "image/webp",
-                    srcset: "/img/webp/vsc-extensions/laravel-artisan.webp"
-                  }
-                }),
-                _vm._v(" "),
-                _c("img", {
-                  staticStyle: { width: "37px", height: "auto" },
-                  attrs: {
-                    src: "/img/png/vsc-extensions/laravel-artisan.png",
-                    alt: "Laravel Artisan"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("span", { staticStyle: { "margin-left": "50px" } }, [
-                _vm._v("Laravel Artisan")
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticStyle: { "margin-left": "52px", height: "45px" } },
-            [
-              _c("picture", { staticStyle: { position: "absolute" } }, [
-                _c("source", {
-                  attrs: {
-                    type: "image/webp",
-                    srcset: "/img/webp/vsc-extensions/laravel-goto-view.webp"
-                  }
-                }),
-                _vm._v(" "),
-                _c("img", {
-                  staticStyle: { width: "37px", height: "auto" },
-                  attrs: {
-                    src: "/img/png/vsc-extensions/laravel-goto-view.png",
-                    alt: "Laravel GoTo View"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("span", { staticStyle: { "margin-left": "50px" } }, [
-                _vm._v("Laravel GoTo View")
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticStyle: { "margin-left": "52px", height: "45px" } },
-            [
-              _c("picture", { staticStyle: { position: "absolute" } }, [
-                _c("source", {
-                  attrs: {
-                    type: "image/webp",
                     srcset: "/img/webp/vsc-extensions/dotenv.webp"
                   }
                 }),
@@ -33977,6 +33845,142 @@ var staticRenderFns = [
                 _c("source", {
                   attrs: {
                     type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/laravel-artisan.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/laravel-artisan.png",
+                    alt: "Laravel Artisan"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Laravel Artisan")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset:
+                      "/img/webp/vsc-extensions/laravel-blade-snippets.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/laravel-blade-snippets.png",
+                    alt: "Laravel Blade Snippets"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Laravel Blade Snippets")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/laravel-goto-view.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/laravel-goto-view.png",
+                    alt: "Laravel GoTo View"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Laravel GoTo View")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/laravel-snippets.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/laravel-snippets.png",
+                    alt: "Laravel Snippets"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Laravel Snippets")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
+                    srcset: "/img/webp/vsc-extensions/live-share.webp"
+                  }
+                }),
+                _vm._v(" "),
+                _c("img", {
+                  staticStyle: { width: "37px", height: "auto" },
+                  attrs: {
+                    src: "/img/png/vsc-extensions/live-share.png",
+                    alt: "Live Share (I disable this one)"
+                  }
+                })
+              ]),
+              _vm._v(" "),
+              _c("span", { staticStyle: { "margin-left": "50px" } }, [
+                _vm._v("Live Share (I disable this one)")
+              ])
+            ]
+          ),
+          _vm._v(" "),
+          _c(
+            "div",
+            { staticStyle: { "margin-left": "52px", height: "45px" } },
+            [
+              _c("picture", { staticStyle: { position: "absolute" } }, [
+                _c("source", {
+                  attrs: {
+                    type: "image/webp",
                     srcset: "/img/webp/vsc-extensions/php-debug.webp"
                   }
                 }),
@@ -34019,33 +34023,6 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("span", { staticStyle: { "margin-left": "50px" } }, [
                 _vm._v("PHP Intelephense")
-              ])
-            ]
-          ),
-          _vm._v(" "),
-          _c(
-            "div",
-            { staticStyle: { "margin-left": "52px", height: "45px" } },
-            [
-              _c("picture", { staticStyle: { position: "absolute" } }, [
-                _c("source", {
-                  attrs: {
-                    type: "image/webp",
-                    srcset: "/img/webp/vsc-extensions/live-share.webp"
-                  }
-                }),
-                _vm._v(" "),
-                _c("img", {
-                  staticStyle: { width: "37px", height: "auto" },
-                  attrs: {
-                    src: "/img/png/vsc-extensions/live-share.png",
-                    alt: "Live Share (I disable this one)"
-                  }
-                })
-              ]),
-              _vm._v(" "),
-              _c("span", { staticStyle: { "margin-left": "50px" } }, [
-                _vm._v("Live Share (I disable this one)")
               ])
             ]
           )
@@ -34149,6 +34126,29 @@ var staticRenderFns = [
           _c("source", {
             attrs: {
               type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/php-cs-fixer.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/php-cs-fixer.png",
+              alt: "PHP CS Fixer"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("PHP CS Fixer")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
               srcset: "/img/webp/vsc-extensions/php-namespace-resolver.webp"
             }
           }),
@@ -34195,6 +34195,29 @@ var staticRenderFns = [
           _c("source", {
             attrs: {
               type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/settings-sync.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/settings-sync.png",
+              alt: "Settings Sync"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Settings Sync")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
               srcset: "/img/webp/vsc-extensions/tailwind-css-intellisense.webp"
             }
           }),
@@ -34210,6 +34233,29 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("span", { staticStyle: { "margin-left": "50px" } }, [
           _vm._v("Tailwind CSS IntelliSense")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/tinkerwell.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/tinkerwell.png",
+              alt: "Tinkerwell"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("Tinkerwell")
         ])
       ]),
       _vm._v(" "),
@@ -34253,6 +34299,29 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("span", { staticStyle: { "margin-left": "50px" } }, [
           _vm._v("Vetur")
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticStyle: { height: "45px" } }, [
+        _c("picture", { staticStyle: { position: "absolute" } }, [
+          _c("source", {
+            attrs: {
+              type: "image/webp",
+              srcset: "/img/webp/vsc-extensions/vs-code-google-translate.webp"
+            }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticStyle: { width: "37px", height: "auto" },
+            attrs: {
+              src: "/img/png/vsc-extensions/vs-code-google-translate.png",
+              alt: "VS Code Google Translate"
+            }
+          })
+        ]),
+        _vm._v(" "),
+        _c("span", { staticStyle: { "margin-left": "50px" } }, [
+          _vm._v("VS Code Google Translate")
         ])
       ]),
       _vm._v(" "),

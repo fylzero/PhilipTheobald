@@ -25,13 +25,6 @@
         <p style="margin-top: 20px;"><strong class="monokai-green">VS Code Extensions<span style="color: #8B888F">()</span></strong></p>
         <div style="height: 45px">
             <picture style="position: absolute;">
-                <source type="image/webp" srcset="/img/webp/vsc-extensions/settings-sync.webp" />
-                <img src="/img/png/vsc-extensions/settings-sync.png" alt="Settings Sync" style="width: 37px; height: auto;" />
-            </picture>
-            <span style="margin-left: 50px;">Settings Sync</span>
-        </div>
-        <div style="height: 45px">
-            <picture style="position: absolute;">
                 <source type="image/webp" srcset="/img/webp/vsc-extensions/git-lens.webp" />
                 <img src="/img/png/vsc-extensions/git-lens.png" alt="GitLens" style="width: 37px; height: auto;" />
             </picture>
@@ -55,34 +48,6 @@
             <div>
                 <div style="margin-left: 52px; height: 45px">
                     <picture style="position: absolute;">
-                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-blade-snippets.webp" />
-                        <img src="/img/png/vsc-extensions/laravel-blade-snippets.png" alt="Laravel Blade Snippets" style="width: 37px; height: auto;" />
-                    </picture>
-                    <span style="margin-left: 50px;">Laravel Blade Snippets</span>
-                </div>
-                <div style="margin-left: 52px; height: 45px">
-                    <picture style="position: absolute;">
-                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-snippets.webp" />
-                        <img src="/img/png/vsc-extensions/laravel-snippets.png" alt="Laravel Snippets" style="width: 37px; height: auto;" />
-                    </picture>
-                    <span style="margin-left: 50px;">Laravel Snippets</span>
-                </div>
-                <div style="margin-left: 52px; height: 45px">
-                    <picture style="position: absolute;">
-                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-artisan.webp" />
-                        <img src="/img/png/vsc-extensions/laravel-artisan.png" alt="Laravel Artisan" style="width: 37px; height: auto;" />
-                    </picture>
-                    <span style="margin-left: 50px;">Laravel Artisan</span>
-                </div>
-                <div style="margin-left: 52px; height: 45px">
-                    <picture style="position: absolute;">
-                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-goto-view.webp" />
-                        <img src="/img/png/vsc-extensions/laravel-goto-view.png" alt="Laravel GoTo View" style="width: 37px; height: auto;" />
-                    </picture>
-                    <span style="margin-left: 50px;">Laravel GoTo View</span>
-                </div>
-                <div style="margin-left: 52px; height: 45px">
-                    <picture style="position: absolute;">
                         <source type="image/webp" srcset="/img/webp/vsc-extensions/dotenv.webp" />
                         <img src="/img/png/vsc-extensions/dotenv.png" alt="DotENV" style="width: 37px; height: auto;" />
                     </picture>
@@ -97,6 +62,41 @@
                 </div>
                 <div style="margin-left: 52px; height: 45px">
                     <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-artisan.webp" />
+                        <img src="/img/png/vsc-extensions/laravel-artisan.png" alt="Laravel Artisan" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Laravel Artisan</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-blade-snippets.webp" />
+                        <img src="/img/png/vsc-extensions/laravel-blade-snippets.png" alt="Laravel Blade Snippets" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Laravel Blade Snippets</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-goto-view.webp" />
+                        <img src="/img/png/vsc-extensions/laravel-goto-view.png" alt="Laravel GoTo View" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Laravel GoTo View</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/laravel-snippets.webp" />
+                        <img src="/img/png/vsc-extensions/laravel-snippets.png" alt="Laravel Snippets" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Laravel Snippets</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
+                        <source type="image/webp" srcset="/img/webp/vsc-extensions/live-share.webp" />
+                        <img src="/img/png/vsc-extensions/live-share.png" alt="Live Share (I disable this one)" style="width: 37px; height: auto;" />
+                    </picture>
+                    <span style="margin-left: 50px;">Live Share (I disable this one)</span>
+                </div>
+                <div style="margin-left: 52px; height: 45px">
+                    <picture style="position: absolute;">
                         <source type="image/webp" srcset="/img/webp/vsc-extensions/php-debug.webp" />
                         <img src="/img/png/vsc-extensions/php-debug.png" alt="PHP Debug" style="width: 37px; height: auto;" />
                     </picture>
@@ -108,13 +108,6 @@
                         <img src="/img/png/vsc-extensions/php-intelephense.png" alt="PHP Intelephense" style="width: 37px; height: auto;" />
                     </picture>
                     <span style="margin-left: 50px;">PHP Intelephense</span>
-                </div>
-                <div style="margin-left: 52px; height: 45px">
-                    <picture style="position: absolute;">
-                        <source type="image/webp" srcset="/img/webp/vsc-extensions/live-share.webp" />
-                        <img src="/img/png/vsc-extensions/live-share.png" alt="Live Share (I disable this one)" style="width: 37px; height: auto;" />
-                    </picture>
-                    <span style="margin-left: 50px;">Live Share (I disable this one)</span>
                 </div>
             </div>
         </div>
@@ -148,6 +141,13 @@
         </div>
         <div style="height: 45px">
             <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/php-cs-fixer.webp" />
+                <img src="/img/png/vsc-extensions/php-cs-fixer.png" alt="PHP CS Fixer" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">PHP CS Fixer</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
                 <source type="image/webp" srcset="/img/webp/vsc-extensions/php-namespace-resolver.webp" />
                 <img src="/img/png/vsc-extensions/php-namespace-resolver.png" alt="PHP Namespace Resolver" style="width: 37px; height: auto;" />
             </picture>
@@ -162,10 +162,24 @@
         </div>
         <div style="height: 45px">
             <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/settings-sync.webp" />
+                <img src="/img/png/vsc-extensions/settings-sync.png" alt="Settings Sync" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Settings Sync</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
                 <source type="image/webp" srcset="/img/webp/vsc-extensions/tailwind-css-intellisense.webp" />
                 <img src="/img/png/vsc-extensions/tailwind-css-intellisense.png" alt="Tailwind CSS IntelliSense" style="width: 37px; height: auto;" />
             </picture>
             <span style="margin-left: 50px;">Tailwind CSS IntelliSense</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/tinkerwell.webp" />
+                <img src="/img/png/vsc-extensions/tinkerwell.png" alt="Tinkerwell" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">Tinkerwell</span>
         </div>
         <div style="height: 45px">
             <picture style="position: absolute;">
@@ -180,6 +194,13 @@
                 <img src="/img/png/vsc-extensions/vetur.png" alt="Vetur" style="width: 37px; height: auto;" />
             </picture>
             <span style="margin-left: 50px;">Vetur</span>
+        </div>
+        <div style="height: 45px">
+            <picture style="position: absolute;">
+                <source type="image/webp" srcset="/img/webp/vsc-extensions/vs-code-google-translate.webp" />
+                <img src="/img/png/vsc-extensions/vs-code-google-translate.png" alt="VS Code Google Translate" style="width: 37px; height: auto;" />
+            </picture>
+            <span style="margin-left: 50px;">VS Code Google Translate</span>
         </div>
 
 
