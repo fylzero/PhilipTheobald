@@ -6,19 +6,17 @@
         </div>
 
         <h2>Computer</h2>
-        <p>I am rocking a nicely spec'd out <a href="https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG" target="blank">mid-2018 15" Macbook Pro with Retina Display and Touchbar</a> that I got from B&H Photo.  They had this model discounted $700 off and I had a credit card promo that gave me $500 cash back, with that and it being a tax-deduction I bought this obnoxiously expensive laptop for almost $1500 off retail.  Woot!</p>
-        <p style="margin-top: 20px;"><strong style="color: grey;">Specs:</strong></p>
-        <ul>
-            <li>2.9GHz 6‑Core 8th‑Gen Intel Core i9 Processor</li>
-            <li>(Turbo Boost up to 4.8GHz)</li>
-            <li>32GB 2400MHz DDR4 Memory</li>
-            <li>Radeon Pro 560X with 4GB of GDDR5 Memory</li>
-            <li>2TB SSD Storage</li>
-        </ul>
-        <div class="text-center">
+        <p><a href="https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG" target="blank">2018 15" Macbook Pro with Retina Display, Touchbar, and 2TB SSD Storage</a>.</p>
+        <div class="text-center" style="margin-top: 20px; margin-bottom: 20px;">
             <picture>
                 <source type="image/webp" srcset="/img/webp/mac.webp" />
                 <img src="/img/jpg/mac.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+            </picture>
+        </div>
+        <div class="text-center" style="margin-top: 20px; margin-bottom: 20px;">
+            <picture>
+                <source type="image/webp" srcset="/img/webp/my-system.webp" />
+                <img src="/img/jpg/my-system.jpg" alt='My 15" Macbook Pro Specs' class="rounded" style="max-width: 586px; width: 100%; height: auto;" />
             </picture>
         </div>
 
