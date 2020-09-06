@@ -7,7 +7,7 @@
             </picture>
         </div>
 
-        <p class="pb-20">I am a full-stack web developer specializing in Laravel, Vue and WordPress.</p>
+        <p class="pb-20">I am a full-stack software engineer specializing in PHP/Laravel & Javascript/Vue (...and sometimes WordPress).</p>
         <p class="pb-20">I loved science as a kid.  I wrote my first HTML page in 1996.</p>
         <p class="pb-20">As a teenager, I enjoyed learning about and building computers.  I watched the movie Hackers more times than I care to admit.  I dropped out of high school.  Got my GED.  I was offered a full scholarship to college.  Dropped out of college.  I became A+ certified and worked in computer hardware and networking jobs for the better part of my 20s.</p>
         <p class="pb-20">In 2009 I found myself working for a grocery-store-focused point-of-sale company as a support technician.  Everyone at the company was answering support calls and logging everything by physical pen and paper.  With calls coming in from clients almost non-stop, suffice it to say, it left much to be desired.</p>
