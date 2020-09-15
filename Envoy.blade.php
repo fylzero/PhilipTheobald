@@ -12,6 +12,5 @@
     php artisan route:cache
     npm ci
     npm run production
-    {{-- php artisan migrate --force --}}
     php artisan up
 @endtask
