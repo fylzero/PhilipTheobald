@@ -12839,17 +12839,9 @@ __webpack_require__.r(__webpack_exports__);
   !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/dist/cjs.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Sandbox.vue?vue&type=style&index=0&lang=scss& ***!
   \*****************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
-// imports
-
-
-// module
-exports.push([module.i, ".fade-enter-active,\n.fade-leave-active {\n  -webkit-transition-duration: 0.3s;\n          transition-duration: 0.3s;\n  -webkit-transition-property: opacity;\n  transition-property: opacity;\n  -webkit-transition-timing-function: ease;\n          transition-timing-function: ease;\n}\n.fade-enter,\n.fade-leave-active {\n  opacity: 0;\n}\n.theme--dark.application.uses-page-colors {\n  color: #F7F1FF;\n  background-color: #222222;\n}\n.limit-width {\n  max-width: 800px;\n}\n.center {\n  margin: 0 auto;\n}\n.text-center {\n  text-align: center;\n}\n.pb-20 {\n  padding-bottom: 20px;\n}\n.pb-100 {\n  padding-bottom: 100px;\n}\np {\n  margin: 0px;\n  padding: 0px;\n}", ""]);
-
-// exports
-
+throw new Error("Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nValidationError: Invalid options object. Sass Loader has been initialized using an options object that does not match the API schema.\n - options has an unknown property 'outputStyle'. These properties are valid:\n   object { implementation?, sassOptions?, prependData?, sourceMap?, webpackImporter? }\n    at validate (/Users/fyl/code/valet/philip-theobald/node_modules/sass-loader/node_modules/schema-utils/dist/validate.js:98:11)\n    at Object.loader (/Users/fyl/code/valet/philip-theobald/node_modules/sass-loader/dist/index.js:36:28)");
 
 /***/ }),
 
@@ -12858,17 +12850,9 @@ exports.push([module.i, ".fade-enter-active,\n.fade-leave-active {\n  -webkit-tr
   !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/dist/cjs.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Skills.vue?vue&type=style&index=0&id=49478526&lang=scss&scoped=true& ***!
   \****************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
-// imports
-
-
-// module
-exports.push([module.i, ".gridid[data-v-49478526] {\n  display: grid;\n  grid-template-columns: 1fr 1fr 1fr;\n  grid-column-gap: 20px;\n  grid-row-gap: 20px;\n}\n@media only screen and (max-width: 1200px) {\n.gridid[data-v-49478526] {\n    grid-template-columns: 1fr 1fr;\n}\n}\n@media only screen and (max-width: 761px) {\n.gridid[data-v-49478526] {\n    grid-template-columns: 1fr;\n}\n}", ""]);
-
-// exports
-
+throw new Error("Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nValidationError: Invalid options object. Sass Loader has been initialized using an options object that does not match the API schema.\n - options has an unknown property 'outputStyle'. These properties are valid:\n   object { implementation?, sassOptions?, prependData?, sourceMap?, webpackImporter? }\n    at validate (/Users/fyl/code/valet/philip-theobald/node_modules/sass-loader/node_modules/schema-utils/dist/validate.js:98:11)\n    at Object.loader (/Users/fyl/code/valet/philip-theobald/node_modules/sass-loader/dist/index.js:36:28)");
 
 /***/ }),
 
@@ -12877,104 +12861,9 @@ exports.push([module.i, ".gridid[data-v-49478526] {\n  display: grid;\n  grid-te
   !*** ./node_modules/css-loader!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-2!./node_modules/sass-loader/dist/cjs.js??ref--7-3!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Uses.vue?vue&type=style&index=0&lang=scss& ***!
   \**************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loader/lib/css-base.js */ "./node_modules/css-loader/lib/css-base.js")(false);
-// imports
-
-
-// module
-exports.push([module.i, ".jetbrains-mono * {\n  font-family: JetBrainsMonoMedium;\n}\n.monokai-pink-links a {\n  color: #cc0788 !important;\n}\n.monokai-pink-links a:hover {\n  color: #ff06a9 !important;\n}\n.uses-page .little {\n  font-size: 16px;\n  color: grey;\n}\n.uses-page em {\n  font-family: JetBrainsMonoMediumItalic;\n}\n.uses-page ul {\n  list-style: none;\n}\n#sandbox.theme--dark .uses-page .monokai-bg {\n  color: #222222;\n}\n#sandbox.theme--dark .uses-page .monokai-text {\n  color: #F7F1FF;\n}\n#sandbox.theme--dark .uses-page .monokai-pink {\n  color: #FC618D;\n}\n#sandbox.theme--dark .uses-page .monokai-green {\n  color: #7BD88F;\n}\n#sandbox.theme--dark .uses-page .monokai-blue,\n#sandbox.theme--dark .uses-page h2 {\n  color: #5AD4E6;\n  font-size: 22px;\n}\n#sandbox.theme--dark .uses-page .monokai-yellow,\n#sandbox.theme--dark .uses-page h1 {\n  color: #FCE566;\n}\n#sandbox.theme--dark .uses-page .monokai-orange {\n  color: #FD9353;\n}\n#sandbox.theme--dark .uses-page .monokai-purple {\n  color: #948AE3;\n}\n#sandbox.theme--dark .uses-page .monokai-pink-links a {\n  color: #FC618D !important;\n}\n#sandbox.theme--dark .uses-page .monokai-pink-links a:hover {\n  color: #948AE3 !important;\n}", ""]);
-
-// exports
-
-
-/***/ }),
-
-/***/ "./node_modules/css-loader/lib/css-base.js":
-/*!*************************************************!*\
-  !*** ./node_modules/css-loader/lib/css-base.js ***!
-  \*************************************************/
-/*! no static exports found */
 /***/ (function(module, exports) {
 
-/*
-	MIT License http://www.opensource.org/licenses/mit-license.php
-	Author Tobias Koppers @sokra
-*/
-// css base code, injected by the css-loader
-module.exports = function(useSourceMap) {
-	var list = [];
-
-	// return the list of modules as css string
-	list.toString = function toString() {
-		return this.map(function (item) {
-			var content = cssWithMappingToString(item, useSourceMap);
-			if(item[2]) {
-				return "@media " + item[2] + "{" + content + "}";
-			} else {
-				return content;
-			}
-		}).join("");
-	};
-
-	// import a list of modules into the list
-	list.i = function(modules, mediaQuery) {
-		if(typeof modules === "string")
-			modules = [[null, modules, ""]];
-		var alreadyImportedModules = {};
-		for(var i = 0; i < this.length; i++) {
-			var id = this[i][0];
-			if(typeof id === "number")
-				alreadyImportedModules[id] = true;
-		}
-		for(i = 0; i < modules.length; i++) {
-			var item = modules[i];
-			// skip already imported module
-			// this implementation is not 100% perfect for weird media query combinations
-			//  when a module is imported multiple times with different media queries.
-			//  I hope this will never occur (Hey this way we have smaller bundles)
-			if(typeof item[0] !== "number" || !alreadyImportedModules[item[0]]) {
-				if(mediaQuery && !item[2]) {
-					item[2] = mediaQuery;
-				} else if(mediaQuery) {
-					item[2] = "(" + item[2] + ") and (" + mediaQuery + ")";
-				}
-				list.push(item);
-			}
-		}
-	};
-	return list;
-};
-
-function cssWithMappingToString(item, useSourceMap) {
-	var content = item[1] || '';
-	var cssMapping = item[3];
-	if (!cssMapping) {
-		return content;
-	}
-
-	if (useSourceMap && typeof btoa === 'function') {
-		var sourceMapping = toComment(cssMapping);
-		var sourceURLs = cssMapping.sources.map(function (source) {
-			return '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'
-		});
-
-		return [content].concat(sourceURLs).concat([sourceMapping]).join('\n');
-	}
-
-	return [content].join('\n');
-}
-
-// Adapted from convert-source-map (MIT)
-function toComment(sourceMap) {
-	// eslint-disable-next-line no-undef
-	var base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));
-	var data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;
-
-	return '/*# ' + data + ' */';
-}
-
+throw new Error("Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nValidationError: Invalid options object. Sass Loader has been initialized using an options object that does not match the API schema.\n - options has an unknown property 'outputStyle'. These properties are valid:\n   object { implementation?, sassOptions?, prependData?, sourceMap?, webpackImporter? }\n    at validate (/Users/fyl/code/valet/philip-theobald/node_modules/sass-loader/node_modules/schema-utils/dist/validate.js:98:11)\n    at Object.loader (/Users/fyl/code/valet/philip-theobald/node_modules/sass-loader/dist/index.js:36:28)");
 
 /***/ }),
 
@@ -76878,7 +76767,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-// removed by extract-text-webpack-plugin
+throw new Error("Module build failed (from ./node_modules/css-loader/index.js):\nModuleBuildError: Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nValidationError: Invalid options object. Sass Loader has been initialized using an options object that does not match the API schema.\n - options has an unknown property 'outputStyle'. These properties are valid:\n   object { implementation?, sassOptions?, prependData?, sourceMap?, webpackImporter? }\n    at validate (/Users/fyl/code/valet/philip-theobald/node_modules/sass-loader/node_modules/schema-utils/dist/validate.js:98:11)\n    at Object.loader (/Users/fyl/code/valet/philip-theobald/node_modules/sass-loader/dist/index.js:36:28)\n    at /Users/fyl/code/valet/philip-theobald/node_modules/webpack/lib/NormalModule.js:316:20\n    at /Users/fyl/code/valet/philip-theobald/node_modules/loader-runner/lib/LoaderRunner.js:367:11\n    at /Users/fyl/code/valet/philip-theobald/node_modules/loader-runner/lib/LoaderRunner.js:233:18\n    at runSyncOrAsync (/Users/fyl/code/valet/philip-theobald/node_modules/loader-runner/lib/LoaderRunner.js:143:3)\n    at iterateNormalLoaders (/Users/fyl/code/valet/philip-theobald/node_modules/loader-runner/lib/LoaderRunner.js:232:2)\n    at /Users/fyl/code/valet/philip-theobald/node_modules/loader-runner/lib/LoaderRunner.js:205:4\n    at /Users/fyl/code/valet/philip-theobald/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:85:15\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)");
 
 /***/ }),
 
