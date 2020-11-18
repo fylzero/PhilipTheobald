@@ -24,7 +24,7 @@
             <p>I use Spotify for music streaming, and primarily listen to EDM, pop, metal and rap and country and classical and hipster music...  basically everything. If you want to get a feel for what I might be listening to on any given workday, check out these playlists:</p>
             <br /><a href="https://open.spotify.com/user/ptheofyl/playlist/448gLnZMvvYNwfuGm0Bpbo?si=X0R77E4WQuW8SD1xRwPW3Q" target="blank">Drinks By The Pool</a><br />
             <br /><a href="https://open.spotify.com/user/ptheofyl/playlist/7AfjqgRHZL3mZRCDbNLf3V?si=o2PV_aTbSuu8WhnDlOGycQ" target="blank">Q101</a><br />
-            <br /><a href="https://open.spotify.com/user/ptheofyl/playlist/3m8A4YDWMi6hhWgAcMehqf?si=AbNt-3YKSlqZgazGvoOzEQ" target="blank">Grimey</a><br />
+            <!-- <br /><a href="https://open.spotify.com/user/ptheofyl/playlist/3m8A4YDWMi6hhWgAcMehqf?si=AbNt-3YKSlqZgazGvoOzEQ" target="blank">Grimey</a><br /> -->
             <br />
 
             <h2>Riding Motorcycles</h2>

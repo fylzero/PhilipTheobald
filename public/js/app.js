@@ -31764,20 +31764,6 @@ var render = function() {
     _c("br"),
     _vm._v(" "),
     _c("br"),
-    _c(
-      "a",
-      {
-        attrs: {
-          href:
-            "https://open.spotify.com/user/ptheofyl/playlist/3m8A4YDWMi6hhWgAcMehqf?si=AbNt-3YKSlqZgazGvoOzEQ",
-          target: "blank"
-        }
-      },
-      [_vm._v("Grimey")]
-    ),
-    _c("br"),
-    _vm._v(" "),
-    _c("br"),
     _vm._v(" "),
     _c("h2", [_vm._v("Riding Motorcycles")]),
     _vm._v(" "),
