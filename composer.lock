@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b21cf03eb32331bbffc5ee40b29e8f63",
+    "content-hash": "3f23a36d1ea28e2e7983787fbc037baa",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2346,6 +2346,50 @@
                 }
             ],
             "time": "2020-08-18T17:17:46+00:00"
+        },
+        {
+            "name": "smartlaravel/commands",
+            "version": "1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/smartlaravel/commands.git",
+                "reference": "c4f18143df4a043dfba658be13372def38e31078"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/smartlaravel/commands/zipball/c4f18143df4a043dfba658be13372def38e31078",
+                "reference": "c4f18143df4a043dfba658be13372def38e31078",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "SmartLaravel\\Commands\\CommandsServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "SmartLaravel\\Commands\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Philip Theobald",
+                    "email": "fylzero@gmail.com"
+                }
+            ],
+            "description": "Adds enhanced commands to Laravel for setup and updating",
+            "support": {
+                "issues": "https://github.com/smartlaravel/commands/issues",
+                "source": "https://github.com/smartlaravel/commands/tree/1.0.0"
+            },
+            "time": "2020-11-24T01:03:19+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
