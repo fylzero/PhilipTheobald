@@ -33568,6 +33568,92 @@ var staticRenderFns = [
         ])
       ]),
       _vm._v(" "),
+      _c("h2", [_vm._v("External SSD")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "I recently picked up the M1 MacBook Air and decided not to splurge on the 2TB internal drive this time around.  For fast storage of my daily used files I picked up the super fast "
+        ),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/gp/product/B08HN37XC1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1",
+              target: "blank"
+            }
+          },
+          [_vm._v("SanDisk 2TB Extreme Portable SSD")]
+        ),
+        _vm._v(".")
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/sandisk.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
+            attrs: {
+              src: "/img/jpg/sandisk.jpg",
+              alt: "SanDisk 2TB Extreme Portable SSD"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
+      _c("h2", [_vm._v("External HDD")]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v("The "),
+        _c(
+          "a",
+          {
+            attrs: {
+              href:
+                "https://www.amazon.com/gp/product/B079HGSFY5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1",
+              target: "blank"
+            }
+          },
+          [_vm._v("LaCie Rugged USB-C 5TB External Portable Hard Drive")]
+        ),
+        _vm._v(" (along with "),
+        _c(
+          "a",
+          { attrs: { href: "https://www.backblaze.com/", target: "blank" } },
+          [_vm._v("BackBlaze")]
+        ),
+        _vm._v(") is what I use as a backup and file transfer drive.")
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "text-center" }, [
+        _c("picture", [
+          _c("source", {
+            attrs: { type: "image/webp", srcset: "/img/webp/lacie.webp" }
+          }),
+          _vm._v(" "),
+          _c("img", {
+            staticClass: "rounded",
+            staticStyle: {
+              "max-width": "400px",
+              width: "100%",
+              height: "auto"
+            },
+            attrs: {
+              src: "/img/jpg/lacie.jpg",
+              alt: "LaCie Rugged USB-C 5TB External Portable Hard Drive"
+            }
+          })
+        ])
+      ]),
+      _vm._v(" "),
       _c("h2", [_vm._v("Hub")]),
       _vm._v(" "),
       _c("p", [

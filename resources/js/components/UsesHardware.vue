@@ -92,6 +92,24 @@
             </picture>
         </div>
 
+        <h2>External SSD</h2>
+        <p>I recently picked up the M1 MacBook Air and decided not to splurge on the 2TB internal drive this time around.  For fast storage of my daily used files I picked up the super fast <a href="https://www.amazon.com/gp/product/B08HN37XC1/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1" target="blank">SanDisk 2TB Extreme Portable SSD</a>.</p>
+        <div class="text-center">
+            <picture>
+                <source type="image/webp" srcset="/img/webp/sandisk.webp" />
+                <img src="/img/jpg/sandisk.jpg" alt="SanDisk 2TB Extreme Portable SSD" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+            </picture>
+        </div>
+
+        <h2>External HDD</h2>
+        <p>The <a href="https://www.amazon.com/gp/product/B079HGSFY5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="blank">LaCie Rugged USB-C 5TB External Portable Hard Drive</a> (along with <a href="https://www.backblaze.com/" target="blank">BackBlaze</a>) is what I use as a backup and file transfer drive.</p>
+        <div class="text-center">
+            <picture>
+                <source type="image/webp" srcset="/img/webp/lacie.webp" />
+                <img src="/img/jpg/lacie.jpg" alt="LaCie Rugged USB-C 5TB External Portable Hard Drive" class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+            </picture>
+        </div>
+
         <h2>Hub</h2>
         <p>Everything is hooked up to my Macbook Pro using a small simple <a href="https://www.amazon.com/gp/product/B071G83L1J/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1" target="blank">Anker USB C Hub</a>.</p>
         <div class="text-center">
