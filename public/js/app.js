@@ -33179,7 +33179,53 @@ var staticRenderFns = [
         ])
       ]),
       _vm._v(" "),
-      _c("h2", [_vm._v("Computer")]),
+      _c("h2", [_vm._v("Computer 1")]),
+      _vm._v(" "),
+      _c("p", [
+        _c(
+          "a",
+          {
+            attrs: {
+              href: "https://www.apple.com/macbook-air/",
+              target: "blank"
+            }
+          },
+          [_vm._v('2020 13" M1 MacBook Air')]
+        ),
+        _vm._v(
+          " - M1 chip with 8‑core CPU, 7‑core GPU, and 16‑core Neural Engine, 16GB Unified Memory, 256GB SSD, Retina display with True Tone and Touch ID."
+        )
+      ]),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "text-center",
+          staticStyle: { "margin-top": "20px", "margin-bottom": "20px" }
+        },
+        [
+          _c("picture", [
+            _c("source", {
+              attrs: { type: "image/webp", srcset: "/img/webp/m1air.webp" }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "rounded",
+              staticStyle: {
+                "max-width": "400px",
+                width: "100%",
+                height: "auto"
+              },
+              attrs: {
+                src: "/img/jpg/m1air.jpg",
+                alt: 'mid-2018 15" Macbook Pro with Retina Display and Touchbar'
+              }
+            })
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c("h2", [_vm._v("Computer 2 - Selling Soon")]),
       _vm._v(" "),
       _c("p", [
         _c(
@@ -33191,13 +33237,9 @@ var staticRenderFns = [
               target: "blank"
             }
           },
-          [
-            _vm._v(
-              '2018 15" Macbook Pro with Retina Display, Touchbar, and 2TB SSD Storage'
-            )
-          ]
+          [_vm._v('2018 15" MacBook Pro')]
         ),
-        _vm._v(".")
+        _vm._v(" - with Retina Display, Touchbar, and 2TB SSD Storage.")
       ]),
       _vm._v(" "),
       _c(
@@ -33221,7 +33263,7 @@ var staticRenderFns = [
               },
               attrs: {
                 src: "/img/jpg/mac.jpg",
-                alt: 'mid-2018 15" Macbook Pro with Retina Display and Touchbar'
+                alt: 'mid-2018 15" MacBook Pro with Retina Display and Touchbar'
               }
             })
           ])

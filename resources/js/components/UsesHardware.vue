@@ -5,12 +5,27 @@
             <h1 style="margin-top: 100px;">Hardware</h1>
         </div>
 
-        <h2>Computer</h2>
-        <p><a href="https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG" target="blank">2018 15" Macbook Pro with Retina Display, Touchbar, and 2TB SSD Storage</a>.</p>
+        <h2>Computer 1</h2>
+        <p><a href="https://www.apple.com/macbook-air/" target="blank">2020 13" M1 MacBook Air</a> - M1 chip with 8‑core CPU, 7‑core GPU, and 16‑core Neural Engine, 16GB Unified Memory, 256GB SSD, Retina display with True Tone and Touch ID.</p>
+        <div class="text-center" style="margin-top: 20px; margin-bottom: 20px;">
+            <picture>
+                <source type="image/webp" srcset="/img/webp/m1air.webp" />
+                <img src="/img/jpg/m1air.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+            </picture>
+        </div>
+        <!-- <div class="text-center" style="margin-top: 20px; margin-bottom: 20px;">
+            <picture>
+                <source type="image/webp" srcset="/img/webp/my-system.webp" />
+                <img src="/img/jpg/my-system.jpg" alt='My 15" Macbook Pro Specs' class="rounded" style="max-width: 586px; width: 100%; height: auto;" />
+            </picture>
+        </div> -->
+
+        <h2>Computer 2 - Selling Soon</h2>
+        <p><a href="https://www.bhphotovideo.com/bnh/controller/home?O=email&A=details&Q=&sku=1423791&is=REG" target="blank">2018 15" MacBook Pro</a> - with Retina Display, Touchbar, and 2TB SSD Storage.</p>
         <div class="text-center" style="margin-top: 20px; margin-bottom: 20px;">
             <picture>
                 <source type="image/webp" srcset="/img/webp/mac.webp" />
-                <img src="/img/jpg/mac.jpg" alt='mid-2018 15" Macbook Pro with Retina Display and Touchbar' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
+                <img src="/img/jpg/mac.jpg" alt='mid-2018 15" MacBook Pro with Retina Display and Touchbar' class="rounded" style="max-width: 400px; width: 100%; height: auto;" />
             </picture>
         </div>
         <div class="text-center" style="margin-top: 20px; margin-bottom: 20px;">
