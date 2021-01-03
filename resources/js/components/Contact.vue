@@ -4,7 +4,7 @@
         <p class="pb-20"><a href="mailto:info@philiptheobald.com">info@philiptheobald.com</a></p>
         <p class="pb-20" style="font-size: 36px;" className="contact-number">312-802-2423</p>
         <p class="pb-20" style="font-size: 16px;">
-            You can also add or follow me on <a href="https://www.linkedin.com/in/philiptheobald/" target="blank">LinkedIn</a>, <a href="https://www.facebook.com/fylzero" target="blank">Facebook</a>, <a href="https://twitter.com/fylzero" target="blank">Twitter</a>, <a href="https://www.youtube.com/fylzero" target="blank">YouTube</a> and <a href="https://www.instagram.com/fylzero/" target="blank">Instagram</a>.
+            You can also add or follow me on <a href="https://www.linkedin.com/in/philiptheobald/" target="blank">LinkedIn</a>, <a href="https://www.facebook.com/fylzero" target="blank">Facebook</a>, <a href="https://twitter.com/fylzero" target="blank">Twitter</a>, <a href="https://www.youtube.com/fylzero/videos" target="blank">YouTube</a> and <a href="https://www.instagram.com/fylzero/" target="blank">Instagram</a>.
         </p>
     </div>
 </template>

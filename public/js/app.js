@@ -31645,7 +31645,7 @@ var staticRenderFns = [
               "a",
               {
                 attrs: {
-                  href: "https://www.youtube.com/fylzero",
+                  href: "https://www.youtube.com/fylzero/videos",
                   target: "blank"
                 }
               },
