@@ -86,6 +86,13 @@ export default {
 
 }
 
+#sandbox.theme--light .uses-page,
+#sandbox.theme--dark .uses-page {
+    h2 {
+        font-size: 22px;
+    }
+}
+
 #sandbox.theme--dark .uses-page {
 
     .monokai-bg {
@@ -107,7 +114,6 @@ export default {
     .monokai-blue,
     h2 {
         color: #5AD4E6;
-        font-size: 22px;
     }
 
     .monokai-yellow,
